@@ -14,7 +14,7 @@ Before you can start with the exercises, please make sure the following:
 For the exercises we have prepared a set of test data in CSV format, which we are going to use during the course of this workshop.
 Please download zipped test dataset via the following link: [BIKE_SALES](https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES).
 
-[![DWC_BIKE_SALES_DEMO.zip](/images/csv_test_data.png)]
+[DWC_BIKE_SALES_DEMO.zip](/images/csv_test_data.png)
 
 
 
