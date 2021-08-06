@@ -1,7 +1,7 @@
 # Modeling in SAP Data Warehouse Cloud
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title.  
+This repository aims to provide best practices and how-to guidelines into modeling in SAP Data Warehouse Cloud by building a step by step reference data model. During the journey there will be addtional tips and explanations on various modeling concepts.
 
 ## Overview
 
