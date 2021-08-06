@@ -4,7 +4,10 @@ In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud,
 
 1. Navigate to the Data Builder of SAP Data Warehouse Cloud
 2. Click on the <i>Import CSV File</i>
-3. 
+  fefe
+  ![Image of Yaktocat](/images/ImportCSVFile_1.png)
+3. 23232
+4. 3232
 
 ## Exercise 1.1 Sub Exercise 1 Description
 
