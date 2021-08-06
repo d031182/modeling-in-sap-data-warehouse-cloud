@@ -9,7 +9,9 @@ This session introduces attendees to...
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+The data samples, that is required for the exercises can downloaded from:
+https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES
+
 
 ## Exercises
 
