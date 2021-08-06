@@ -54,11 +54,11 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
 
 ### Business Layer
-- [Exercise 7 - Create Business Entities](exercises/ex1/)
+- [Exercise 7 - Create Business Entities]
     - [Exercise 7.1 - Create Business Entity]
     - [Exercise 7.2 - Create Consumption Model]
     - [Exercise 7.3 - Create a Cube / Query]
-- [Exercise 3 - Second Exercise Description](exercises/ex2/)
+- [Exercise 3 - Second Exercise Description]
     - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
