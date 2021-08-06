@@ -8,10 +8,17 @@ In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud,
 3. Select a source file, e.g. SalesOrders.csv, Products.csv, etc. 
 4. Click on <i>Upload</i>
   ![Import CSV File](images/ImportCSVFile_3.png)
-5. dwdw
+5. In this page you will have the options to wrangle and adopt the data to your needs, e.g.:
+    - Change Data Types
+    - Concatenate different columns into one
+    - Replace NULL values with appropriate value of your choice
+    - etc.
+6. For our exercise it's good enough to click on the <i>Deploy</i> Button to move on.
   ![Import CSV File](images/ImportCSVFile_4.png)
-6. efe
+7. Set the name of the table, which will be created. In our example please add a prefix <b>CSV_</b> to the names of the CSV file, e.g. <i>CSV_SalesOrders</i>.
+8. The click again on the <i>Deploy</i> Button
   ![Import CSV File](images/ImportCSVFile_5.png)
+8. Please repeate these steps for all downloaded CSV files 
 
 ## Exercise 1.1 Sub Exercise 1 Description
 
