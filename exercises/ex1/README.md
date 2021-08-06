@@ -8,7 +8,10 @@ In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud,
 3. Select a source file, e.g. SalesOrders.csv, Products.csv, etc. 
 4. Click on <i>Upload</i>
   ![Import CSV File](images/ImportCSVFile_3.png)
-6.  
+5. dwdw
+  ![Import CSV File](images/ImportCSVFile_4.png)
+6. efe
+  ![Import CSV File](images/ImportCSVFile_5.png)
 
 ## Exercise 1.1 Sub Exercise 1 Description
 
