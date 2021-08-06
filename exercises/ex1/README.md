@@ -1,4 +1,4 @@
-# Exercise 1 - Upload the CSV Files
+# Exercise 1 - Upload CSV Files
 
 In this exercise, we will create...
 
