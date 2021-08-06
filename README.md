@@ -18,7 +18,8 @@ Please download zipped test dataset via the following link: [BIKE_SALES](https:/
 
 ### 2. Get an SAP Data Warehouse Tenant:
 For that you can apply for a **30-Days free Trial Tenant** under the following link:
-https://saphanajourney.com/data-warehouse-cloud/trial/
+- https://www.sap.com/products/data-warehouse-cloud/trial.html
+- https://saphanajourney.com/data-warehouse-cloud/trial/
 
 [![DWC_Free_Trial](/images/FreeDWCTrial.png)](https://saphanajourney.com/data-warehouse-cloud/trial/)
 
