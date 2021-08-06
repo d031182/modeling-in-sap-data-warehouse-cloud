@@ -15,7 +15,7 @@ In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud,
     - etc.
 6. For our exercise it's good enough to click on the <b><i>Deploy</i></b> Button to move on.
   ![Import CSV File](images/ImportCSVFile_4.png)
-7. Set the name of the table, which will be created. In our example please add a prefix <b>CSV_</b> to the names of the CSV file, e.g. <i>CSV_SalesOrders</i>.
+7. Set the name of the table, which will be created to store the data. In our example please add a prefix <b>CSV_</b> to the CSV filename, e.g. <b><i>CSV_SalesOrders</i></b>.
 8. The click again on the <b><i>Deploy</i></b> Button
   ![Import CSV File](images/ImportCSVFile_5.png)
 8. Please repeate these steps for all downloaded CSV files 
@@ -56,7 +56,7 @@ READ TABLE lt_params REFERENCE INTO DATA(lr_params) WITH KEY name = 'cmd'.
 
 ## Summary
 
-You've now ...
+You've now imported sample data, that is required for all follow up exercises.
 
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
 
