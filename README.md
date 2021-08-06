@@ -16,7 +16,11 @@ Please download zipped test dataset via the following link: [BIKE_SALES](https:/
 
 ![https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES](/images/csv_test_data.png)
 
+### 2. Get an SAP Data Warehouse Tenant:
+For that you can apply for a **30-Days free Trial Tenant** under the following link:
+https://saphanajourney.com/data-warehouse-cloud/trial/
 
+[![DWC_Free_Trial](/images/FreeDWCTrial.png)](https://saphanajourney.com/data-warehouse-cloud/trial/)
 
 ## Exercises
 
