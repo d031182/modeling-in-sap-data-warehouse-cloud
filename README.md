@@ -1,7 +1,7 @@
 # Modeling in SAP Data Warehouse Cloud
 ## Description
 
-This repository aims to provide best practices and how-to guidelines into modeling in SAP Data Warehouse Cloud by building a step by step reference data model. During the journey there will be addtional tips and explanations on various modeling concepts.
+This repository aims to provide best practices and how-to guidelines into modeling in SAP Data Warehouse Cloud by building a real working reference data model in a step by step approach. During the journey there will be addtional tips and explanations on various modeling concepts.
 
 ## Overview
 
