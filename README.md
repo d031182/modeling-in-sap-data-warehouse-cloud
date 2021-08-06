@@ -27,6 +27,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
+### Data Layer
 - [Getting Started](exercises/ex0/)
 - [Exercise 1 - Upload CSV files](exercises/ex1/)
 - [Exercise 2 - The Repostory Explorer](exercises/ex1/)
@@ -52,6 +53,8 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 6 - Create a Story in SAP Analytics Cloud](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
+
+### Business Layer
 - [Exercise 7 - Create Business Entities](exercises/ex1/)
     - [Exercise 7.1 - Create Business Entity]
     - [Exercise 7.2 - Create Consumption Model]
