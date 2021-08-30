@@ -7,7 +7,7 @@ In this exercise, you will...
 After completing these steps you will have....
 
 1.	Click here.
-<br>![](/exercises/overview/images/SalesOrders.png)
+<br>![Internal Orders](images/InternalOrders.png)
 
 2.	Insert this code.
 ```
