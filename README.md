@@ -36,6 +36,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Level Based Hierarchy 
     - [Exercise 3.3 - Generate Time Dimension](exercises/ex3#generate-time-dimension)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex3#level-2-heading)
+    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex3#level-3-heading)
     - [Exercise 3.4 - Sales Orders Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
         - Projection Node
         - Filter Node
@@ -59,6 +60,8 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 6 - Create a Story in SAP Analytics Cloud](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
+
+
 
 ### Business Layer
 - [Exercise 7 - Sales Pipeline]
