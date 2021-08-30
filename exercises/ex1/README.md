@@ -7,6 +7,7 @@ In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud 
     - Make sure the following fiiles are available (last update 30th August 2021):
         - SalesOrders.csv
         - SalesOrderItems.csv
+        - Addresses.csv
         - BusinessPartners.csv
         - Products.csv
         - ProductTexts.csv
