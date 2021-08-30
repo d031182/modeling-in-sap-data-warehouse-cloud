@@ -8,15 +8,7 @@ This repository aims to provide best practices and how-to guidelines into modeli
 This session introduces attendees to...
 
 ## Requirements
-Before you can start with the exercises, please make sure the following:
-
-### 1. Get the test dataset
-For the exercises we have prepared a set of test data in CSV format, which we are going to use during the course of this workshop.
-Please download zipped test dataset via the following link: [BIKE_SALES](https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES).
-
-![https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES](/images/csv_test_data.png)
-
-### 2. Get an SAP Data Warehouse Tenant:
+Before you can start with the exercises, please make sure that you have a SAP Data Warehouse Cloud tenant.
 For that you can apply for a **30-Days free Trial Tenant** under the following link:
 - https://www.sap.com/products/data-warehouse-cloud/trial.html
 - https://saphanajourney.com/data-warehouse-cloud/trial/
