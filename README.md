@@ -32,8 +32,8 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 2 - The Repostory Explorer]
     - [Exercise 2.1 - Overview]
     - [Exercise 2.2 - Modeling Entities]
-- [Exercise 3 - Create Sales View](exercises/ex1/)
-    - [Exercise 3.1 - Create an Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
+- [Exercise 3 - Create Sales Model](exercises/ex2/)
+    - [Exercise 3.1 - Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 3.1 - Projection Node](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 3.2 - Filter Node](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 3.3 - Join Node](exercises/ex1#exercise-11-sub-exercise-1-description)
