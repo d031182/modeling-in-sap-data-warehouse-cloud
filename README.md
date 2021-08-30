@@ -34,7 +34,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 3.2 - Business Partners Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
         - Join Node  
         - Level Based Hierarchy 
-    - [Exercise 3.3 - Generate Time Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 3.3 - Generate Time Dimension](exercises/ex3#generate-time-dimension)
     - [Exercise 3.4 - Sales Orders Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
         - Projection Node
         - Filter Node
