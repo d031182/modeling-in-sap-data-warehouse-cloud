@@ -20,7 +20,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 ### Data Layer
-- [Excercise Overview](exercises/overview/)
+- [Exercise Overview](exercises/overview/)
 
 - [Exercise 1 - Upload CSV files](exercises/ex1/)
 - [Exercise 2 - The Repostory Explorer]
