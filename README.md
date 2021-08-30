@@ -38,8 +38,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Filter Node
         - Join Node
         - Union Node
-        - Calculation Nod2
-        - Aggregation Node
         - Associations
     - 
 - [Exercise 4 - Internal Orders](exercises/ex1/)
@@ -48,7 +46,9 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 4.2 - Vendor Products Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
         - External Hierarchy 
     - [Exercise 4.3 - Internal Orders Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
-        - Input Parameters  
+        - Calculation Node
+        - Input Parameters
+        - Aggregation Node
 
 - [Exercise 5 - Create Product](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
