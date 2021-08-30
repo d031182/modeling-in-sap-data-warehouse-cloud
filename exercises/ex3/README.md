@@ -22,6 +22,35 @@ After completing these steps you will have....
 
 ## Generate Time Dimension
 fefefe
+1
+2
+3
+4
+5
+6
+7
+7
+8
+8
+u78
+87
+867
+8
+
+8
+67
+867
+6
+7
+867
+867
+867
+867
+867
+867
+867
+
+867
 
 ## Summary
 
