@@ -1,16 +1,11 @@
 # Exercise 1 - Upload CSV Files
 
 ## Upload CSV Files
-In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud, which is pre-requisites for all follow-up exercises. For that we will upload sample data with CSV file format, which you can download from https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES .
-
+In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud, which is pre-requisites for all follow-up exercises. 
 
 1. Get the test dataset
-For the exercises we have prepared a set of test data in CSV format, which we are going to use during the course of this workshop.
-Please download zipped test dataset via the following link: [BIKE_SALES](https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES).
-
+Please download zipped test dataset via the following link: https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES .
 ![https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES](/images/csv_test_data.png)
-
-
 
 2. Navigate to the Data Builder of SAP Data Warehouse Cloud
 3. Click on the <b><i>Import CSV File</i></b>
