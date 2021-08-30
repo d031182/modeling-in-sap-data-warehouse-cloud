@@ -21,7 +21,8 @@ After completing these steps you will have....
 ```
 
 ## Generate Time Dimension
-
+1. Navigate to the Space Management
+2. Select the section <b><i>TIME DATA</i></b>
 <br>![](/exercises/ex3/images/create_time_dimension_01.png)
 <br>![](/exercises/ex3/images/create_time_dimension_02.png)
 
