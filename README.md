@@ -29,9 +29,9 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 ### Data Layer
 - [Exercise 1 - Upload CSV files](exercises/ex1/)
-- [Exercise 2 - The Repostory Explorer](exercises/ex1/)
-    - [Exercise 2.1 - Overview](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 2.2 - Modeling Entities](exercises/ex1#exercise-11-sub-exercise-1-description)
+- [Exercise 2 - The Repostory Explorer]
+    - [Exercise 2.1 - Overview]
+    - [Exercise 2.2 - Modeling Entities]
 - [Exercise 3 - Create a Relational Dataset](exercises/ex1/)
     - [Exercise 3.1 - Projection Node](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 3.2 - Filter Node](exercises/ex1#exercise-11-sub-exercise-1-description)
