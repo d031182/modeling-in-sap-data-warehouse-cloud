@@ -44,8 +44,9 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - 
 - [Exercise 4 - Internal Orders](exercises/ex1/)
     - [Exercise 4.1 - Employee Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - Internal Hierarchy  
     - [Exercise 4.1 - Vendor Products Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - 
+        - External Hierarchy 
     - [Exercise 4.1 - Analytical Data Node](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Create Input Parameter]
