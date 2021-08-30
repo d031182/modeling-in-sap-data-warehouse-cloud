@@ -35,8 +35,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Join Node  
         - Level Based Hierarchy 
     - [Exercise 3.3 - Generate Time Dimension](exercises/ex3#generate-time-dimension)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex3#level-2-heading)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex3#level-3-heading)
     - [Exercise 3.4 - Sales Orders Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
         - Projection Node
         - Filter Node
