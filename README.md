@@ -26,20 +26,27 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 2 - The Repostory Explorer]
     - [Exercise 2.1 - Overview]
     - [Exercise 2.2 - Modeling Entities]
+
+
  
-- [Exercise 3 - Create Sales Model](exercises/ex2/)
-    - [Exercise 3.1 - Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 3.1 - Projection Node](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 3.2 - Filter Node](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 3.3 - Join Node](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 3.4 - Union Node](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 3.5 - Calculation Node](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 3.6 - Aggregation Node](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 3.7 - Create Input Parameter]
-- [Exercise 4 - Create Analytical Dataset](exercises/ex1/)
+- [Exercise 3 - Sales Orders](exercises/ex2/)
+    - [Exercise 3.1 - Create Business Partners Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 3.1 - Products Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 3.1 - Sales Orders Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - [Exercise 3.1 - Projection Node](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - [Exercise 3.2 - Filter Node](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - [Exercise 3.3 - Join Node](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - [Exercise 3.4 - Union Node](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - [Exercise 3.5 - Calculation Node](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - [Exercise 3.6 - Aggregation Node](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - [Exercise 3.6 - Associations](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - 
+- [Exercise 4 - Internal Orders](exercises/ex1/)
+    - [Exercise 4.1 - Analytical Data Node](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Create Input Parameter]
-- [Exercise 5 - Create Dimension](exercises/ex1/)
+
+- [Exercise 5 - Create Product](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
 - [Exercise 5 - Create Entity Relationship Model](exercises/ex1/)
