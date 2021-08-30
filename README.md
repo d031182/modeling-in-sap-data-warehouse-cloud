@@ -59,7 +59,11 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
 
 ### Business Layer
-- [Exercise 7 - Create Business Entities]
+- [Exercise 7 - Sales Pipeline]
+    - [Exercise 7.1 - Create Business Entity]
+    - [Exercise 7.2 - Create Consumption Model]
+    - [Exercise 7.3 - Create a Cube / Query]
+- [Exercise 7 - Sales Quota]
     - [Exercise 7.1 - Create Business Entity]
     - [Exercise 7.2 - Create Consumption Model]
     - [Exercise 7.3 - Create a Cube / Query]
