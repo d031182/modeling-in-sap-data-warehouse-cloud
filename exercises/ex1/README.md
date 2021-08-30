@@ -8,12 +8,12 @@ In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud 
         - SalesOrders.csv
         - SalesOrderItems.csv
         - BusinessPartners.csv
-        - Product.csv
+        - Products.csv
+        - ProductTexts.csv
         - InternalOrders.csv
-        - VendorProductCatalog.csv
-        - VendorProductCategory.csv
+        - VendorProduct.csv
+        - VendorProductTexts.csv
         - VendorProductCategoryHierarchy.csv
-        - VendorProductCategoryText.csv
         - Employees.csv
       
     ![https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES](/images/csv_test_data.png)
