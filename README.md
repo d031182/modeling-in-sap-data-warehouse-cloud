@@ -32,6 +32,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 3 - Sales Orders](exercises/ex2/)
     - [Exercise 3.1 - Business Partners Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 3.2 - Products Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - Level Based Hierarchy 
     - [Exercise 3.3 - Generate Time Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 3.4 - Sales Orders Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
         - Projection Node
@@ -49,10 +50,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Calculation Node
         - Input Parameters
         - Aggregation Node
-
-- [Exercise 5 - Create Product](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
 - [Exercise 5 - Create Entity Relationship Model](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
