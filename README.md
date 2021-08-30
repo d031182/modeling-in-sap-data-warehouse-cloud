@@ -8,7 +8,7 @@ This repository aims to provide best practices and how-to guidelines into modeli
 This session introduces attendees to...
 
 ## Requirements
-Before you can start with the exercises, please make sure that you have a SAP Data Warehouse Cloud tenant.
+Before you can start with the exercises, please make sure to get a running SAP Data Warehouse Cloud tenant with the latest updates.
 For that you can apply for a **30-Days free Trial Tenant** under the following link:
 - https://www.sap.com/products/data-warehouse-cloud/trial.html
 - https://saphanajourney.com/data-warehouse-cloud/trial/
