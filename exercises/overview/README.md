@@ -1,8 +1,9 @@
-# Level 1 Heading
+# Exercise Overview
 
-In this exercise, you will...
+In this exercise, you will get an overview about the models that you are going to develop in SAP Data Wareshouse Cloud.
+The models will cover various modeling aspects and introduce specific features, such as Hierarchies or Input Parameters. 
 
-## Level 2 Heading
+## Internal Orders
 
 After completing these steps you will have....
 
@@ -19,6 +20,7 @@ After completing these steps you will have....
     RETURN.
   ENDIF.
 ```
+## Sales Orders
 
 ## Summary
 
