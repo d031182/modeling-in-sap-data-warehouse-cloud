@@ -30,18 +30,22 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
  
 - [Exercise 3 - Sales Orders](exercises/ex2/)
-    - [Exercise 3.1 - Create Business Partners Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 3.1 - Products Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 3.1 - Sales Orders Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
-        - [Exercise 3.1 - Projection Node](exercises/ex1#exercise-11-sub-exercise-1-description)
-        - [Exercise 3.2 - Filter Node](exercises/ex1#exercise-11-sub-exercise-1-description)
-        - [Exercise 3.3 - Join Node](exercises/ex1#exercise-11-sub-exercise-1-description)
-        - [Exercise 3.4 - Union Node](exercises/ex1#exercise-11-sub-exercise-1-description)
-        - [Exercise 3.5 - Calculation Node](exercises/ex1#exercise-11-sub-exercise-1-description)
-        - [Exercise 3.6 - Aggregation Node](exercises/ex1#exercise-11-sub-exercise-1-description)
-        - [Exercise 3.6 - Associations](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 3.1 - Business Partners Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 3.2 - Products Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 3.3 - Generate Time Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 3.4 - Sales Orders Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - Projection Node
+        - Filter Node
+        - Join Node
+        - Union Node
+        - Calculation Nod2
+        - Aggregation Node
+        - Associations
     - 
 - [Exercise 4 - Internal Orders](exercises/ex1/)
+    - [Exercise 4.1 - Employee Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 4.1 - Vendor Products Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - 
     - [Exercise 4.1 - Analytical Data Node](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Create Input Parameter]
