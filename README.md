@@ -28,10 +28,13 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 ### Data Layer
+- [Excercise Overview](exercises/overview/)
+
 - [Exercise 1 - Upload CSV files](exercises/ex1/)
 - [Exercise 2 - The Repostory Explorer]
     - [Exercise 2.1 - Overview]
     - [Exercise 2.2 - Modeling Entities]
+ 
 - [Exercise 3 - Create Sales Model](exercises/ex2/)
     - [Exercise 3.1 - Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 3.1 - Projection Node](exercises/ex1#exercise-11-sub-exercise-1-description)
