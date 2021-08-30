@@ -23,9 +23,13 @@ After completing these steps you will have....
 ## Generate Time Dimension
 1. Navigate to the Space Management
 2. Select the section <b><i>Time Data</i></b>.
-3. Click on <b>/<i>Create Time Tables and Dimensions</i></b>
-<br>![](/exercises/ex3/images/create_time_dimension_01.png)
+3. Click on <b><i>Create Time Tables and Dimensions</i></b>
+  <br>![](/exercises/ex3/images/create_time_dimension_01.png)
+4. The dialog <b><i>Time Table Settings</i><b> will show up.
+5. Keep all the default settings and click on <b><i>Create</i></b>
+ 
 <br>![](/exercises/ex3/images/create_time_dimension_02.png)
+
 
 
 fefefe
