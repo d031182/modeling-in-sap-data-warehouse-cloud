@@ -21,6 +21,11 @@ After completing these steps you will have....
 ```
 
 ## Generate Time Dimension
+
+<br>![](/exercises/ex3/images/create_time_dimension_01.png)
+<br>![](/exercises/ex3/images/create_time_dimension_02.png)
+
+
 fefefe
 1
 2
