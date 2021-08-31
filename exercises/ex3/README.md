@@ -1,7 +1,7 @@
 # Sales Orders
 
 In this exercise, you will...
-
+  <br>![](/exercises/ex3/images/SalesOrders.png)
 
 ## Generate Time Dimension
 1. Navigate to the Space Management
