@@ -28,7 +28,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise Overview](exercises/overview/)
 
 
-- [Exercise 1 - SAP Data Warehouse Cloud]
+- [Exercise 1 - SAP Data Warehouse Cloud Fundamentals]
     - [Exercise 1.1 - Repository Explorer]
     - [Exercise 1.2 - Space Management]
     - [Exercise 1.2 - Modeling Entities]
