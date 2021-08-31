@@ -40,7 +40,7 @@ In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud 
 
 ## Summary
 
-You've now imported sample data, that is required for all follow up exercises.
+You've imported all sample data, that is required for all follow up exercises.
 
 Continue to - [Exercise 2 - Exercise 2 Description](../ex2/README.md)
 
