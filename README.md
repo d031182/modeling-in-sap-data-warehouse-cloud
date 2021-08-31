@@ -27,13 +27,14 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 ### Data Layer
 - [Exercise Overview](exercises/overview/)
 
-- [Exercise 1 - Upload CSV files](exercises/ex1/)
-- [Exercise 2 - The Repostory Explorer]
-    - [Exercise 2.1 - Overview]
-    - [Exercise 2.2 - Modeling Entities]
-    - [Exercise 2.3 - Lineage]
 
+- [Exercise 1 - SAP Data Warehouse Cloud]
+    - [Exercise 1.1 - Repository Explorer]
+    - [Exercise 1.2 - Space Management]
+    - [Exercise 1.2 - Modeling Entities]
+    - [Exercise 1.3 - Lineage]
 
+- [Exercise 2 - Upload CSV files](exercises/ex2/)
  
 - [Exercise 3 - Sales Orders](exercises/ex3/)
     - [Exercise 3.1 - Products Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
