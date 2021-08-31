@@ -31,6 +31,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 2 - The Repostory Explorer]
     - [Exercise 2.1 - Overview]
     - [Exercise 2.2 - Modeling Entities]
+    - [Exercise 2.3 - Lineage]
 
 
  
