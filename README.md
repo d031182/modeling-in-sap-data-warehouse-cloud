@@ -9,6 +9,7 @@ The exercises are meant to be built in this particular order starting from basic
 Please be aware, when creating this tutorial not all features and concept are implemented and delivered yet in SAP Data Warehouse Cloud. 
 
 And now enjoy the tutorial ;) 
+<br>
 San
 
 ## Requirements
