@@ -54,6 +54,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 4.1 - Employee Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
         - Internal Hierarchy  
     - [Exercise 4.2 - Vendor Products Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - ID and Text
         - Text Associations
         - Hierarchy Associations / External Hierarchy  
     - [Exercise 4.3 - Internal Orders Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
