@@ -40,6 +40,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 3.1 - Products Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
         - Text Association     
     - [Exercise 3.2 - Business Partners Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - ID + Text  
         - Join Node  
         - Level Based Hierarchy 
         - Geo Spatial
@@ -55,7 +56,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 4.1 - Employee Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
         - Internal Hierarchy  
     - [Exercise 4.2 - Vendor Products Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
-        - ID and Text
         - Text Associations
         - Hierarchy Associations / External Hierarchy  
     - [Exercise 4.3 - Internal Orders Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
