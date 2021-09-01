@@ -20,7 +20,11 @@ In this exercise, you will...
 <br>![](/exercises/ex4/images/create_product_category_hierarchy_03.png)
 
 ## Create Vendor Products View
-
+<br>![](/exercises/ex4/images/create_vendor_products_dimension_01.png)
+<br>![](/exercises/ex4/images/create_vendor_products_dimension_01.png)
+<br>![](/exercises/ex4/images/create_vendor_products_dimension_01.png)
+<br>![](/exercises/ex4/images/create_vendor_products_dimension_01.png)
+<br>![](/exercises/ex4/images/create_vendor_products_dimension_01.png)
 
 ## Create Internal Orders View
 
