@@ -5,7 +5,6 @@ In this exercise, you will...
 
 ## Level 2 Heading
 
-<br>![](/exercises/ex4/images/create_employee_dimension_01.png)
 <br>![](/exercises/ex4/images/create_employee_dimension_02.png)
 <br>![](/exercises/ex4/images/create_employee_dimension_03.png)
 <br>![](/exercises/ex4/images/create_employee_dimension_04.png)
