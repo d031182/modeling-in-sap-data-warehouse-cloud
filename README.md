@@ -55,9 +55,9 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 4 - Internal Orders](exercises/ex4/)
     - [Exercise 4.1 - Create Employee View](exercises/ex4#create-employee-view)
         - Internal Hierarchy  
-    - [Exercise 4.2 - Vendor Products Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 4.2 - Create Vendor Products View](exercises/ex4#create-vendor-products-view)
         - Hierarchy Associations / External Hierarchy  
-    - [Exercise 4.3 - Internal Orders Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 4.3 - Create Internal Orders View](exercises/ex4#create-internal-orders-view)
         - Calculation Node
         - Currency Conversion
         - Input Parameters
