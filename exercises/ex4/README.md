@@ -7,14 +7,14 @@ In this exercise, you will...
 
 <br>![](/exercises/ex4/images/create_employee_dimension_01.png)
 <br>![](/exercises/ex4/images/create_employee_dimension_02.png)
-<br>![](/exercises/ex4/images/create_employeesdimension_03.png)
-<br>![](/exercises/ex4/images/create_employeesdimension_04.png)
-<br>![](/exercises/ex4/images/create_employeesdimension_05.png)
-<br>![](/exercises/ex4/images/create_employeesdimension_06.png)
-<br>![](/exercises/ex4/images/create_employeesdimension_07.png)
-<br>![](/exercises/ex4/images/create_employeesdimension_08.png)
-<br>![](/exercises/ex4/images/create_employeesdimension_09.png)
-<br>![](/exercises/ex4/images/create_employeesdimension_10.png)
+<br>![](/exercises/ex4/images/create_employee_dimension_03.png)
+<br>![](/exercises/ex4/images/create_employee_dimension_04.png)
+<br>![](/exercises/ex4/images/create_employee_dimension_05.png)
+<br>![](/exercises/ex4/images/create_employee_dimension_06.png)
+<br>![](/exercises/ex4/images/create_employee_dimension_07.png)
+<br>![](/exercises/ex4/images/create_employee_dimension_08.png)
+<br>![](/exercises/ex4/images/create_employee_dimension_09.png)
+<br>![](/exercises/ex4/images/create_employee_dimension_10.png)
 
 
 
