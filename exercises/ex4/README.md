@@ -5,6 +5,23 @@ In this exercise, you will...
 
 ## Level 2 Heading
 
+<br>![](/exercises/ex4/images/create_employee_dimension_01.png)
+<br>![](/exercises/ex4/images/create_employee_dimension_02.png)
+<br>![](/exercises/ex4/images/create_employeesdimension_03.png)
+<br>![](/exercises/ex4/images/create_employeesdimension_04.png)
+<br>![](/exercises/ex4/images/create_employeesdimension_05.png)
+<br>![](/exercises/ex4/images/create_employeesdimension_06.png)
+<br>![](/exercises/ex4/images/create_employeesdimension_07.png)
+<br>![](/exercises/ex4/images/create_employeesdimension_08.png)
+<br>![](/exercises/ex4/images/create_employeesdimension_09.png)
+<br>![](/exercises/ex4/images/create_employeesdimension_10.png)
+
+
+
+
+
+
+
 After completing these steps you will have....
 
 1.	Click here.
