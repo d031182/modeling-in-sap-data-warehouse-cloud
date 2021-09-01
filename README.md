@@ -59,6 +59,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Hierarchy Associations / External Hierarchy  
     - [Exercise 4.3 - Internal Orders Analytical Dataset](exercises/ex1#exercise-11-sub-exercise-1-description)
         - Calculation Node
+        - Currency Conversion
         - Input Parameters
         - Aggregation Node
 - [Exercise 5 - Create Entity Relationship Model](exercises/ex1/)
