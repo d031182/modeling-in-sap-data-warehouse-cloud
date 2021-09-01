@@ -13,7 +13,6 @@ In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud 
         - ProductTexts.csv
         - InternalOrders.csv
         - VendorProduct.csv
-        - VendorProductCategoryTexts.csv
         - VendorProductCategoryHierarchy.csv
         - Employees.csv
       
