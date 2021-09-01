@@ -53,7 +53,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 3.5 - Create a Story in SAP Analytics Cloud](exercises/ex1#exercise-11-sub-exercise-1-description)
     - 
 - [Exercise 4 - Internal Orders](exercises/ex4/)
-    - [Exercise 4.1 - Employee Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 4.1 - Create Employee View](exercises/ex4#create-employee-view)
         - Internal Hierarchy  
     - [Exercise 4.2 - Vendor Products Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
         - Hierarchy Associations / External Hierarchy  
