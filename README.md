@@ -38,6 +38,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
  
 - [Exercise 3 - Sales Orders](exercises/ex3/)
     - [Exercise 3.1 - Products Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - Text Association     
     - [Exercise 3.2 - Business Partners Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
         - Join Node  
         - Level Based Hierarchy 
