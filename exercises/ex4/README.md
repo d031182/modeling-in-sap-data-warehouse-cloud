@@ -28,9 +28,9 @@ In this exercise, you will...
 <br>![](/exercises/ex4/images/create_vendor_product_dimension_06.png)
 <br>![](/exercises/ex4/images/create_vendor_product_dimension_07.png)
 <br>![](/exercises/ex4/images/create_vendor_product_dimension_05.png)
-<br>![](/exercises/ex4/images/create_vendor_product_dimension_08.png)
-<br>![](/exercises/ex4/images/create_vendor_product_dimension_10.png)
 <br>![](/exercises/ex4/images/create_vendor_product_dimension_09.png)
+<br>![](/exercises/ex4/images/create_vendor_product_dimension_10.png)
+<br>![](/exercises/ex4/images/create_vendor_product_dimension_08.png)
 
 ## Create Internal Orders View
 
