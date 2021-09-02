@@ -1,5 +1,5 @@
 # Create <i>Sales Orders</i> View
-  <br>![](/exercises/ex2/images/create_in_repository_expolorer.png)
+  <br>![](/exercises/ex2/images/create_in_repository_explorer.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_01.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_02.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_03.png)
