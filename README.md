@@ -74,7 +74,9 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Aggregation Node 
     - Exercise 4.5 - Create Cost Center View - <b><i>under construction !!!</i></b>
         - Compound Keys - <b><i>under construction !!!</i></b>
-        -    
+    - Exercise 4.6 - Create Cost Center View - <b><i>under construction !!!</i></b>
+        - Time Dependency
+            
 - [Exercise 5 - Create Entity Relationship Model](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
