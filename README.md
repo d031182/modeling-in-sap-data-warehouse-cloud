@@ -43,21 +43,21 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Join Node  
         - Level Based Hierarchy 
         - Geo Spatial
-    - [Exercise 3.2 - Product Texts View](exercises/ex3#product-texts-view)
-    - [Exercise 3.3 - Products View](exercises/ex3#products-view)
+    - [Exercise 3.2 - Create Product Texts View](exercises/ex3#product-texts-view)
+    - [Exercise 3.3 - Create Products View](exercises/ex3#products-view)
         - Text Association   
     - [Exercise 3.4 - Generate Time Tables and Views](exercises/ex3#generate-time-tables-and-views)
-    - [Exercise 3.5 - Sales Orders View](exercises/ex3#sales-orders-view)
+    - [Exercise 3.5 - Create Sales Orders View](exercises/ex3#sales-orders-view)
         - Analytical Dataset
         - Projection Node
         - Filter Node
         - Union Node
         - Associations
-    - [Exercise 3.6 - Entity Relationship Model (ERM)](exercises/ex3#entity-relationship-model)
+    - [Exercise 3.6 - Create Entity Relationship Model (ERM)](exercises/ex3#entity-relationship-model)
         - Associations
         - Text Associations
         - Hierarchy Associations
-    - [Exercise 3.7 - Create a Story in SAP Analytics Cloud](exercises/ex3#create-a-story-in-sap-analytics-cloud)
+    - [Exercise 3.7 - Create Story in SAP Analytics Cloud](exercises/ex3#create-story-in-sap-analytics-cloud)
     - 
 - [Exercise 4 - Internal Orders](exercises/ex4/)
     - [Exercise 4.1 - Create Employee View](exercises/ex4#create-employee-view)
