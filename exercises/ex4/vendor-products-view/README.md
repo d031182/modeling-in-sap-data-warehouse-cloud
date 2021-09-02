@@ -1,4 +1,5 @@
 # Create <i>Vendor Products</i> View
+<br>![](/exercises/ex2/images/create_in_repository_explorer.png)
 <br>![](/exercises/ex4/images/create_vendor_product_dimension_01.png)
 <br>![](/exercises/ex4/images/create_vendor_product_dimension_02.png)
 <br>![](/exercises/ex4/images/create_vendor_product_dimension_03.png)
