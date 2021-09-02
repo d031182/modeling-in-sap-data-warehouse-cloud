@@ -72,7 +72,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Currency Conversion
         - Input Parameters
         - Aggregation Node
-    - [Exercise 4.5 - Create Cost Center View] - <i>under construction !!!</i>
+    - [Exercise 4.5 - Create Cost Center View] - <b><i>under construction !!!</i></b>
         - Compound Keys
         -    
 - [Exercise 5 - Create Entity Relationship Model](exercises/ex1/)
