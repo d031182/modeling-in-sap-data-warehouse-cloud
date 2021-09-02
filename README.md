@@ -68,11 +68,11 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 4.3 - Create Vendor Products View](exercises/ex4/vendor-products-view)
         - Hierarchy Association  
     - [Exercise 4.4 - Create Internal Orders View](exercises/ex4/internal-orders-view)
-        - Calculation Node - <b><i>under construction !!!</i></b>
-        - Currency Conversion - <b><i>under construction !!!</i></b>
+        - Calculation Node 
+        - Currency Conversion 
         - Input Parameters 
-        - Aggregation Node - <b><i>under construction !!!</i></b>
-    - [Exercise 4.5 - Create Cost Center View] - <b><i>under construction !!!</i></b>
+        - Aggregation Node 
+    - Exercise 4.5 - Create Cost Center View - <b><i>under construction !!!</i></b>
         - Compound Keys - <b><i>under construction !!!</i></b>
         -    
 - [Exercise 5 - Create Entity Relationship Model](exercises/ex1/)
