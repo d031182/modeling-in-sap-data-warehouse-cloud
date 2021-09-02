@@ -26,10 +26,13 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
 ### SAP Data Warehouse Fundamentals
 - [Exercise 1 - SAP Data Warehouse Cloud Fundamentals]
-    - [Exercise 1.1 - Repository Explorer]
-    - [Exercise 1.2 - Space Management]
-    - [Exercise 1.2 - Modeling Entities]
-    - [Exercise 1.3 - Lineage]
+    - [Exercise 1.1 - Repository Explorer] - <b><i>under construction !!!</i></b>
+    - [Exercise 1.2 - Space Management] - <b><i>under construction !!!</i></b>
+    - [Exercise 1.3 - Time Tables and Views Configurator] - <b><i>under construction !!!</i></b>
+    - [Exercise 1.3 - Currency Conversion Configurator] - <b><i>under construction !!!</i></b>
+    - [Exercise 1.4 - Fiscal Calendar Configurator] - <b><i>under construction !!!</i></b>
+    - [Exercise 1.2 - Modeling Entities] - <b><i>under construction !!!</i></b>
+    - [Exercise 1.3 - Lineage] - <b><i>under construction !!!</i></b>
 
 ### Data Layer
 - [Exercise Overview](exercises/overview/)
