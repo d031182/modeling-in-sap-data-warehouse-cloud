@@ -35,6 +35,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 1.7 - Modeling Entities] - <b><i>under construction !!!</i></b>
 - [Exercise 1.8 - Data Lineage] - <b><i>under construction !!!</i></b>
 - [Exercise 1.9 - Versioning] - <b><i>under construction !!!</i></b>
+- [Exercise 1.10 - Change Management] - <b><i>under construction !!!</i></b>
 
 ### Data Layer
 - [Exercise Overview](exercises/overview/)
