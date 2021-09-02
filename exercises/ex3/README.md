@@ -3,6 +3,9 @@
 In this exercise, you will learn about the basic modeling concepts and features, which are most commonly used in SAP Data Warehouse Cloud. 
   <br><br>![](/exercises/ex3/images/SalesOrders.png)
 
+## Business Partners
+  <br>![](/exercises/ex3/images/create_business_partners_view_01.png)
+
 ## Generate Time Dimension
 1. Navigate to the Space Management
 2. Select the section <b><i>Time Data</i></b>.
