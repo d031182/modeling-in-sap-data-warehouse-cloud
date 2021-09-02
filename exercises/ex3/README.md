@@ -20,8 +20,12 @@ In this exercise, you will learn about the basic modeling concepts and features,
   <br>![](/exercises/ex3/images/create_business_partner_dimension_14.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_15.png)
 
+## Create <i>Products</i> View
 
-## Generate Time Dimension
+## Create <i>Sales Orders</i> View
+  <br>![](/exercises/ex3/images/create_sales_orders_ads_01.png)
+
+## Generate <i>Time</i> Tables and Views
 1. Navigate to the Space Management
 2. Select the section <b><i>Time Data</i></b>.
 3. Click on <b><i>Create Time Tables and Dimensions</i></b>
