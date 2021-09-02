@@ -37,36 +37,36 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 1 - Upload CSV files](exercises/ex1/)
  
 - [Exercise 3 - Sales Orders](exercises/ex3/)  
-    - [Exercise 3.1 - Create Business Partners View](exercises/ex3#create-business-partners-view)
+    - [Exercise 3.1 - Create Business Partners View](exercises/ex3/business-partners-view)
         - Dimension
         - ID + Text Semantic
         - Join Node  
         - Level Based Hierarchy 
         - Geo Spatial
-    - [Exercise 3.2 - Create Product Texts View](exercises/ex3#product-texts-view)
+    - [Exercise 3.2 - Create Product Texts View](exercises/ex3/product-texts-view)
     - [Exercise 3.3 - Create Products View](exercises/ex3#products-view)
         - Text Association   
-    - [Exercise 3.4 - Generate Time Tables and Views](exercises/ex3#generate-time-tables-and-views)
+    - [Exercise 3.4 - Generate Time Tables and Views](exercises/ex2/time-tables-views)
     - [Exercise 3.5 - Create Sales Orders View](exercises/ex3/sales-orders-view)
         - Analytical Dataset
         - Projection Node
         - Filter Node
         - Union Node
         - Associations
-    - [Exercise 3.6 - Create Entity Relationship Model (ERM)](exercises/ex3#entity-relationship-model)
+    - [Exercise 3.6 - Create Entity Relationship Model (ERM)](exercises/ex3/entity-relationship-model)
         - Associations
         - Text Associations
         - Hierarchy Associations
-    - [Exercise 3.7 - Create Story in SAP Analytics Cloud](exercises/ex3#create-story-in-sap-analytics-cloud)
+    - [Exercise 3.7 - Create Story in SAP Analytics Cloud](exercises/ex3/create-story-in-sap-analytics-cloud)
     - 
 - [Exercise 4 - Internal Orders](exercises/ex4/)
-    - [Exercise 4.1 - Create Employee View](exercises/ex4#create-employee-view)
+    - [Exercise 4.1 - Create Employee View](exercises/ex4/employees-view)
         - Internal Hierarchy  
-    - [Exercise 4.2 - Create Vendor Product Category Hierarchy View](exercises/ex4#create-vendor-product-category-hierarchy-view)
+    - [Exercise 4.2 - Create Vendor Product Category Hierarchy View](exercises/ex4/vendor-product-category-hierarchy-view)
         - External Hierarchy  
-    - [Exercise 4.3 - Create Vendor Products View](exercises/ex4#create-vendor-products-view)
+    - [Exercise 4.3 - Create Vendor Products View](exercises/ex4/vendor-products-view)
         - Hierarchy Association  
-    - [Exercise 4.4 - Create Internal Orders View](exercises/ex4#create-internal-orders-view)
+    - [Exercise 4.4 - Create Internal Orders View](exercises/ex4/internal-orders-view)
         - Calculation Node
         - Currency Conversion
         - Input Parameters
