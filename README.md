@@ -51,7 +51,11 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Filter Node
         - Union Node
         - Associations
-    - [Exercise 3.6 - Create a Story in SAP Analytics Cloud](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 3.6 - Create Entity Relationship Model (ERM)](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - Associations
+        - Text Associations
+        - Hierarchy Associations
+    - [Exercise 3.7 - Create a Story in SAP Analytics Cloud](exercises/ex1#exercise-11-sub-exercise-1-description)
     - 
 - [Exercise 4 - Internal Orders](exercises/ex4/)
     - [Exercise 4.1 - Create Employee View](exercises/ex4#create-employee-view)
