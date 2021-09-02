@@ -1,5 +1,6 @@
 
 ## Create <i>Product Texts</i> View
+  <br>![](/exercises/ex2/images/create_in_repository_explorer.png)
   <br>![](/exercises/ex3/images/create_product_texts_01.png)
   <br>![](/exercises/ex3/images/create_product_texts_02.png)
   <br>![](/exercises/ex3/images/create_product_texts_03.png)
