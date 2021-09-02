@@ -1,5 +1,6 @@
 
 # Create <i>Business Partners</i> View
+  <br>![](/exercises/ex2/images/create_in_repository_explorer.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_01.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_02.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_03.png)
