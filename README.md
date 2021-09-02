@@ -48,6 +48,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Text Association   
     - [Exercise 3.4 - Generate Calendar and Time View](exercises/ex3#generate-time-dimension)
     - [Exercise 3.5 - Sales Orders View](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - Analytical Dataset
         - Projection Node
         - Filter Node
         - Union Node
