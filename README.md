@@ -37,7 +37,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 1 - Upload CSV files](exercises/ex1/)
  
 - [Exercise 3 - Sales Orders](exercises/ex3/)  
-    - [Exercise 3.1 - Business Partners View](exercises/ex3#business-partners-view)
+    - [Exercise 3.1 - Create Business Partners View](exercises/ex3#create-business-partners-view)
         - Dimension
         - ID + Text Semantic
         - Join Node  
