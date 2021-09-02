@@ -47,7 +47,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 3.3 - Create Products View](exercises/ex3#products-view)
         - Text Association   
     - [Exercise 3.4 - Generate Time Tables and Views](exercises/ex3#generate-time-tables-and-views)
-    - [Exercise 3.5 - Create Sales Orders View](exercises/ex3/sales-orders-view)
+    - [Exercise 3.5 - Create Sales Orders View](exercises/ex3/sales-orders-view.md)
         - Analytical Dataset
         - Projection Node
         - Filter Node
