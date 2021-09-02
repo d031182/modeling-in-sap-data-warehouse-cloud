@@ -1,7 +1,7 @@
 # Sales Orders
 
 In this exercise, you will learn about the basic modeling concepts and features, which are most commonly used in SAP Data Warehouse Cloud. 
-  <br>![](/exercises/ex3/images/SalesOrders.png)
+  <br><br>![](/exercises/ex3/images/SalesOrders.png)
 
 ## Generate Time Dimension
 1. Navigate to the Space Management
