@@ -37,7 +37,8 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 1 - Upload CSV files](exercises/ex1/)
  
 - [Exercise 3 - Sales Orders](exercises/ex3/)  
-    - [Exercise 3.1 - Business Partners Dimension](exercises/ex1#exercise-11-sub-exercise-1-description)
+    - [Exercise 3.1 - Business Partners View](exercises/ex1#exercise-11-sub-exercise-1-description)
+        - Dimension
         - ID + Text Semantic
         - Join Node  
         - Level Based Hierarchy 
@@ -45,7 +46,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 3.2 - Create Product Texts View](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 3.3 - Create Products View](exercises/ex1#exercise-11-sub-exercise-1-description)
         - Text Association   
-    - [Exercise 3.4 - Generate Calendar and Time Views](exercises/ex3#generate-time-dimension)
+    - [Exercise 3.4 - Generate Calendar and Time View](exercises/ex3#generate-time-dimension)
     - [Exercise 3.5 - Sales Orders View](exercises/ex1#exercise-11-sub-exercise-1-description)
         - Projection Node
         - Filter Node
