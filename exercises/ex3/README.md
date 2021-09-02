@@ -3,7 +3,7 @@
 In this exercise, you will learn about the basic modeling concepts and features, which are most commonly used in SAP Data Warehouse Cloud. 
   <br><br>![](/exercises/ex3/images/SalesOrders.png)
 
-## Business Partners
+## Create <i>Business Partners</i> View
   <br>![](/exercises/ex3/images/create_business_partner_dimension_01.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_02.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_03.png)
