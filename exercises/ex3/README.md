@@ -4,7 +4,22 @@ In this exercise, you will learn about the basic modeling concepts and features,
   <br><br>![](/exercises/ex3/images/SalesOrders.png)
 
 ## Business Partners
-  <br>![](/exercises/ex3/images/create_business_partners_view_01.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_01.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_02.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_03.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_04.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_05.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_06.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_07.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_08.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_09.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_10.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_11.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_12.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_13.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_14.png)
+  <br>![](/exercises/ex3/images/create_business_partner_dimension_15.png)
+
 
 ## Generate Time Dimension
 1. Navigate to the Space Management
