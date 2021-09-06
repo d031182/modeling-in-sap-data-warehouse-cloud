@@ -84,7 +84,15 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Compound Keys - <b><i>under construction !!!</i></b>
     - Exercise 4.6 - Create Cost Center Hierarchy View - <b><i>under construction !!!</i></b>
         - Time Dependency
-            
+ 
+- [Exercise 4 - SFLIGHT](exercises/ex4/)
+    - [Exercise 4.1 - Create TCURR View](exercises/ex4/employees-view)
+    - [Exercise 4.1 - Create TCURF View](exercises/ex4/employees-view)
+    - [Exercise 4.1 - Create TCURV View](exercises/ex4/employees-view)
+    - [Exercise 4.1 - Create TCURX View](exercises/ex4/employees-view)
+    - [Exercise 4.1 - Create SFLIGHT View](exercises/ex4/employees-view)
+        - Currency Conversion
+             
 - [Exercise 5 - Create Entity Relationship Model](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
