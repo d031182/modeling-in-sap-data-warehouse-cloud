@@ -9,4 +9,6 @@ https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
         - SFLIGHT.csv
         
 ![Import CSV File](images/create_tcurr_01.png)
+        
+![Import CSV File](images/create_tcurr_01.png)
 
