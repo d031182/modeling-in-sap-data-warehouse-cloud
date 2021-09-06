@@ -11,7 +11,7 @@ https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
 
        
 
-## Upload TCURR
+## Upload <i>TCURR.csv</i>
 
 
         
@@ -27,15 +27,15 @@ https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
 <br><br>![](/exercises/ex1/images/create_tcurr_02.png)
 
 
-## Upload TCURF
+## Upload <i>TCURF.csv</i>
 <br><br>![](/exercises/ex1/images/create_tcurf_01.png)
 <br><br>![](/exercises/ex1/images/create_tcurf_02.png)
 
-## Upload TCURV
+## Upload <i>TCURV.csv</i>
 <br><br>![](/exercises/ex1/images/create_tcurv_01.png)
 <br><br>![](/exercises/ex1/images/create_tcurv_02.png)
         
         
-## Upload TCURX
+## Upload <i>TCURX.csv</i>
 <br><br>![](/exercises/ex1/images/create_tcurx_01.png)
 <br><br>![](/exercises/ex1/images/create_tcurx_02.png)
