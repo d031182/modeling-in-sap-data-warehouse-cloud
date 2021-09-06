@@ -8,9 +8,16 @@ https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
         - TCURV.csv
         - TCURX.csv
         - SFLIGHT.csv
+
        
 
 ## Upload TCURR
+
+        
+1. Navigate to the Data Builder of SAP Data Warehouse Cloud
+2. Click on the <b><i>Import CSV File</i></b>
+  <br><br>![Import CSV File](../images/ImportCSVFile_2.png)
+  
 <br><br>![](/exercises/ex1/images/create_tcurr_01.png)
 <br><br>![](/exercises/ex1/images/create_tcurr_02.png)
 
