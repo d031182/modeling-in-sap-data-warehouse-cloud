@@ -92,6 +92,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 4.1 - Create TCURX View](exercises/ex4/employees-view)
     - [Exercise 4.1 - Create SFLIGHT View](exercises/ex4/employees-view)
         - Currency Conversion
+        - Input Parameters
              
 - [Exercise 5 - Create Entity Relationship Model](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
