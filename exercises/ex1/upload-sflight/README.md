@@ -8,6 +8,8 @@ https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
         - TCURX.csv
         - SFLIGHT.csv
         
+ <br><br>![](/exercises/ex1/images/create_tcurr_01.png)
+        
 ![Import CSV File](images/create_tcurr_01.png)
         
 ![Import CSV File](images/create_tcurr_01.png)
