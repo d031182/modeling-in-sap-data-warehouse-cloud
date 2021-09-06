@@ -37,6 +37,15 @@ In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud 
 10. Please repeat these steps for all other downloaded CSV files 
 
 ## Upload CSV Files for <i>SFLIGHT</i>
+1. Download the sample dataset via the following link:
+https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
+    - Make sure the following fiiles are available (last update 30th August 2021):
+            - TCURR.csv
+            - TCURF.csv
+            - TCURV.csv
+            - TCURX.csv
+            - SFLIGHT.csv
+   
 
 
 ## Summary
