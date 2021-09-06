@@ -7,3 +7,5 @@ https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
         - TCURV.csv
         - TCURX.csv
         - SFLIGHT.csv
+        
+![Import CSV File](images/create_tcurr_01.png)
