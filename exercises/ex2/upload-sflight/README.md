@@ -78,10 +78,10 @@
     ABWCT | String
     ABWGA | String
     
-<br><br>![](../../images/create_tcurv_01.png)
-<br><br>![](../../images/create_tcurv_02.png)
+<br><br>![](../images/create_tcurv_01.png)
+<br><br>![](../images/create_tcurv_02.png)
         
         
 ## Upload <i>TCURX.csv</i> for Currency Precisions
-<br><br>![](../../images/create_tcurx_01.png)
-<br><br>![](../../images/create_tcurx_02.png)
+<br><br>![](../images/create_tcurx_01.png)
+<br><br>![](../images/create_tcurx_02.png)
