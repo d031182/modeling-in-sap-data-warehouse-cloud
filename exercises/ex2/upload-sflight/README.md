@@ -11,7 +11,7 @@
 
        
 
-## Upload file for Currency Rates
+## Upload <i>Currency Rates</i> CSV file
 1. Navigate to the Data Builder of SAP Data Warehouse Cloud
 2. Click on the <b><i>Import CSV File</i></b>
   <br>![Import CSV File](../images/ImportCSVFile_2.png)
@@ -36,7 +36,7 @@
 5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURR</i></b>
     <br><br>![](../images/create_tcurr_03.png)
 
-## Upload file for Currency Prefactors
+## Upload <i>Currency Prefactors</i> CSV file
 1. Navigate to the Data Builder of SAP Data Warehouse Cloud
 2. Click on the <b><i>Import CSV File</i></b>
   <br>![Import CSV File](../images/ImportCSVFile_2.png)
@@ -60,7 +60,7 @@
 5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURF</i></b>
     <br><br>![](../images/create_tcurf_04.png)
 
-## Upload file for Currency Configuration
+## Upload <i>Currency Configuration</i> CSV file
 1. Navigate to the Data Builder of SAP Data Warehouse Cloud
 2. Click on the <b><i>Import CSV File</i></b>
   <br>![Import CSV File](../images/ImportCSVFile_2.png)
@@ -86,7 +86,26 @@
 5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURV</i></b>
     <br><br>![](../images/create_tcurv_03.png)
         
-## Upload file for Currency Precisions
+## Upload <i>Currency Precisions</i> CSV file
+1. Navigate to the Data Builder of SAP Data Warehouse Cloud
+2. Click on the <b><i>Import CSV File</i></b>
+  <br>![Import CSV File](../images/ImportCSVFile_2.png)
+3. Select the <i><b>TCURX.csv</b></i> as source file and click on Upload
+  <br>![Import CSV File](../images/ImportCSVFile_3.png)
+4. Adjust the column data types as the following:
+
+    Column | Data Type
+    ---------|---------
+    CURRKEY | String
+    CURRDEC | String
+        
+    <br><br>![](../images/create_tcurx_01.png)
+
+5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURX</i></b>
+    <br><br>![](../images/create_tcurx_02.png)
+    
+
+## Upload <i>Flight</i> CSV file
 1. Navigate to the Data Builder of SAP Data Warehouse Cloud
 2. Click on the <b><i>Import CSV File</i></b>
   <br>![Import CSV File](../images/ImportCSVFile_2.png)
