@@ -17,9 +17,10 @@
   <br>![Import CSV File](../images/ImportCSVFile_2.png)
 3. Select the <i><b>TCURR.csv</b></i> as source file and click on Upload
   <br>![Import CSV File](../images/ImportCSVFile_3.png)
-  
-<br><br>![](../../images/create_tcurr_01.png)
-<br><br>![](../../images/create_tcurr_02.png)
+4. Adjust the column data types as the following:
+    -  
+<br><br>![](../images/create_tcurr_01.png)
+<br><br>![](../images/create_tcurr_02.png)
 
 
 ## Upload <i>TCURF.csv</i> for Currency Prefactors
