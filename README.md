@@ -89,7 +89,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - Exercise 4.6 - Create Cost Center Hierarchy View - <b><i>under construction !!!</i></b>
         - Time Dependency
             
-- [Exercise 6 - Create Entity Relationship Model (ERM)]<b><i>under construction !!!</i></b>
+- [Exercise 6 - Create Entity Relationship Model (ERM)] - <b><i>under construction !!!</i></b>
    - Associations
    - Text Associations
    - Hierarchy Associations
