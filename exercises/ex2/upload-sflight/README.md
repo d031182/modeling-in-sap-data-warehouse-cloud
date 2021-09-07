@@ -115,11 +115,23 @@
 
     Column | Data Type
     ---------|---------
-    CURRKEY | String
-    CURRDEC | String
-        
+    MANDT | String
+    CARRID | String
+    CONNID | String
+    FLDATE | Date
+    PRICE | Number
+    CURRENCY | String
+    PLANETYPE | String
+    SEATSMAX | String
+    SEATSOCC | String
+    PAYMENTSUM | String
+    SEATSMAX_B | String
+    SEATSOCC_B | String
+    SEATSMAX_F | String
+    SEATSOCC_F | String
+    
     <br><br>![](../images/create_sflight_01.png)
     <br><br>![](../images/create_sflight_02.png)
 
-5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURX</i></b>
+5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_SFLIGHT</i></b>
     <br><br>![](../images/create_sflight_03.png)
