@@ -80,12 +80,34 @@
     XFIXD | String
     XEURO | String
     
-<br><br>![](../images/create_tcurv_01.png)
-<br><br>![](../images/create_tcurv_02.png)
+    <br><br>![](../images/create_tcurv_01.png)
+    <br><br>![](../images/create_tcurv_02.png)
 
 5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURV</i></b>
     <br><br>![](../images/create_tcurv_03.png)
         
-## Upload <i>TCURX.csv</i> for Currency Precisions
-<br><br>![](../images/create_tcurx_01.png)
-<br><br>![](../images/create_tcurx_02.png)
+## Upload file for Currency Precisions
+1. Navigate to the Data Builder of SAP Data Warehouse Cloud
+2. Click on the <b><i>Import CSV File</i></b>
+  <br>![Import CSV File](../images/ImportCSVFile_2.png)
+3. Select the <i><b>TCURX.csv</b></i> as source file and click on Upload
+  <br>![Import CSV File](../images/ImportCSVFile_3.png)
+4. Adjust the column data types as the following:
+
+    Column | Data Type
+    ---------|---------
+    MANDT | String
+    KURST | String
+    XINVR | String
+    BWAER | String
+    XBWRL | String
+    GKUZU | String
+    BKUZU | String
+    XFIXD | String
+    XEURO | String
+    
+    <br><br>![](../images/create_tcurx_01.png)
+    <br><br>![](../images/create_tcurx_02.png)
+
+5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURX</i></b>
+    <br><br>![](../images/create_tcurx_03.png)
