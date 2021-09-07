@@ -23,7 +23,7 @@ https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
 3. Click on Upload
   <br><br>![Import CSV File](../images/ImportCSVFile_3.png)
   
-<br><br>![](../images/create_tcurr_01.png)
+<br><br>![](../../images/create_tcurr_01.png)
 <br><br>![](/exercises/ex2/images/create_tcurr_02.png)
 
 
