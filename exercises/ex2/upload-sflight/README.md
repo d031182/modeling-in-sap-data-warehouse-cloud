@@ -11,17 +11,12 @@
 
        
 
-## Upload <i>TCURR.csv</i> for Currency Rates
-
-
-        
+## Upload Currency Rates
 1. Navigate to the Data Builder of SAP Data Warehouse Cloud
 2. Click on the <b><i>Import CSV File</i></b>
-  <br><br>![Import CSV File](../images/ImportCSVFile_2.png)
-  
-  
-3. Click on Upload
-  <br><br>![Import CSV File](../images/ImportCSVFile_3.png)
+  <br>![Import CSV File](../images/ImportCSVFile_2.png)
+3. Select the <i><b>TCURR.csv</b></i> as source file and click on Upload
+  <br>![Import CSV File](../images/ImportCSVFile_3.png)
   
 <br><br>![](../../images/create_tcurr_01.png)
 <br><br>![](../../images/create_tcurr_02.png)
