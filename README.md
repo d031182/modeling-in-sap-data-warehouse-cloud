@@ -61,10 +61,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Projection Node
         - Filter Node
         - Associations
-    - [Exercise 3.6 - Create Entity Relationship Model (ERM)](exercises/ex3/entity-relationship-model)
-        - Associations
-        - Text Associations
-        - Hierarchy Associations
+
     - [Exercise 3.7 - Create Story in SAP Analytics Cloud](exercises/ex3/create-story-in-sap-analytics-cloud)
     - 
 - [Exercise 4 - Internal Orders](exercises/ex4/)
@@ -86,15 +83,17 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Aggregation Node 
 
  
- - [Exercise 5 - Extended Internal Ordersl](exercises/ex1/)
+ - [Exercise 5 - Extended Internal Orders](exercises/ex1/)
     - Exercise 4.5 - Create Cost Center View - <b><i>under construction !!!</i></b>
         - Compound Keys - <b><i>under construction !!!</i></b>
     - Exercise 4.6 - Create Cost Center Hierarchy View - <b><i>under construction !!!</i></b>
         - Time Dependency
             
-- [Exercise 5 - Create Entity Relationship Model](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
+- [Exercise 6 - Create Entity Relationship Model (ERM)]<b><i>under construction !!!</i></b>
+   - Associations
+   - Text Associations
+   - Hierarchy Associations
+   
 - [Exercise 6 - Create a Story in SAP Analytics Cloud](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
