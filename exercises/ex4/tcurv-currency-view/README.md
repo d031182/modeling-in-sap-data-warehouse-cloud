@@ -10,4 +10,4 @@
     - Technical Name: <b>V_TCURV</b>
     - Semantic Usage: <b>Relational Dataset</b>
     - Expose for Consumption: <b>ON</b>
- 4. Click on <b><i>deploy</i></b> button to deploy the view
+ 5. Click on <b><i>deploy</i></b> button to deploy the view
