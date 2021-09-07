@@ -22,7 +22,7 @@
   <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_09.png)
  9. Find and select <b>V_VENDOR_PRODUCT_CATEGORY_HIERARCHY</b> View as the association target.
   <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_10.png)
- 10. Map the columns V_VENDOR_PRODUCTS.<b>PRODUCTCATEGORYID</b> and V_VENDOR_PRODUCT_CATEGORY_HIERARCHY.<b>PRODUCTCATEGORY</b>
+ 10. Map the columns <b>V_VENDOR_PRODUCTS-PRODUCTCATEGORYID</b> and <b>V_VENDOR_PRODUCT_CATEGORY_HIERARCHY-PRODUCTCATEGORY</b>
   <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_11.png)
  11. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
    <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_03.png)
