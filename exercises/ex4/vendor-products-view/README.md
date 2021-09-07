@@ -12,17 +12,16 @@
     - Parent: <b>PARENTCATEGORY</b>
     - Child: <b>PRODUCTCATEGORY</b>
     - Expose for Consumption: <b>ON</b>
-    <br><br>![](/exercises/ex4/images/create_vendor_product_category_hierarchy_02.png)
- 4. Click on <b><i>deploy</i></b> button to deploy the view
-  <br><br>![](/exercises/ex4/images/create_vendor_product_category_hierarchy_03.png)
+    <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_02.png)
+ 5. Click on <b><i>deploy</i></b> button to deploy the view
+  <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_05.png)
+  <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_03.png)
 
 
-<br>![](/exercises/ex4/images/create_vendor_product_dimension_02.png)
-<br>![](/exercises/ex4/images/create_vendor_product_dimension_03.png)
+
+
 <br>![](/exercises/ex4/images/create_vendor_product_dimension_04.png)
 <br>![](/exercises/ex4/images/create_vendor_product_dimension_06.png)
 <br>![](/exercises/ex4/images/create_vendor_product_dimension_07.png)
-<br>![](/exercises/ex4/images/create_vendor_product_dimension_05.png)
-<br>![](/exercises/ex4/images/create_vendor_product_dimension_09.png)
-<br>![](/exercises/ex4/images/create_vendor_product_dimension_10.png)
-<br>![](/exercises/ex4/images/create_vendor_product_dimension_08.png)
+
+
