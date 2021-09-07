@@ -43,6 +43,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 2 - Upload CSV files](exercises/ex2/)
      - [Exercise 2.1 - Upload BIKE SALES](exercises/ex2/upload-bike-sales)
      - [Exercise 2.2 - Upload SFLIGHT](exercises/ex2/upload-sflight)
+        - Data Wrangling    
  
 - [Exercise 3 - Sales Orders](exercises/ex3/)  
     - [Exercise 3.1 - Create Business Partners View](exercises/ex3/business-partners-view)
