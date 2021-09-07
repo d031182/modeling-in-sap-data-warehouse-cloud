@@ -21,6 +21,7 @@
 
     Column | Data Type
     ---------|---------
+    MANDT | String
     KURST | String
     FCURR | String
     TCURR | String
@@ -45,16 +46,19 @@
 
     Column | Data Type
     ---------|---------
+    MANDT | String
     KURST | String
-    FCURR | String
     TCURR | String
     GDATU | String
-    UKURS | Number
     FFACT | Integer
-    TFACT | Integer
+    ABWCT | String
+    ABWGA | String
 
     <br><br>![](../images/create_tcurf_01.png)
     <br><br>![](../images/create_tcurf_02.png)
+
+5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURF</i></b>
+    <br><br>![](../images/create_tcurr_04.png)
 
 ## Upload <i>TCURV.csv</i> for Currency Configuration
 <br><br>![](../../images/create_tcurv_01.png)
