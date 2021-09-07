@@ -6,9 +6,9 @@
 3. Drag and drop the table <b><i>CSV_TCURR</i></b> into the canvas
   <br><br>![](../images/create_tcurr_04.png)<br><br>
 4. Select the Output Node in the canvas and configure the following properties:
-    - Business Name: V_TCURR
-    - Technical Name: V_TCURR
-    - Semantic Usage: Relational Dataset
-    - Expose for Consumption: on
+    - Business Name: <b>V_TCURR</b>
+    - Technical Name: <b>V_TCURR</b>
+    - Semantic Usage: <b>Relational Dataset</b>
+  - Expose for Consumption: <b>ON</b>
  4. Click on <b><i>deploy</i></b> button to deploy the view
 
