@@ -18,9 +18,15 @@
     - <b>PRODUCT ID</b>: set the label to <b>LONG_DESCR</b>
     <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_13.png)
  7. Close the Attribute Properties dialog
- 8. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
+ 8. dwdw
+  <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_09.png)
+ 10. fefe
+  <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_10.png)
+ 12. fef
+  <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_03.png)
+ 13. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
    <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_03.png)
- 9. Click on <b><i>deploy</i></b> button to deploy the view
+ 12. Click on <b><i>deploy</i></b> button to deploy the view
   <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_05.png)
 
 
