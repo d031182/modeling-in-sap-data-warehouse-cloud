@@ -13,11 +13,15 @@
 <br>![](/exercises/ex4/images/create_internal_orders_ads_10.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_11.png)
 
-## Create Calculated Measures
-
+## Create Calculated Measures - Currency Conversion
+<br>![](/exercises/ex4/images/create_internal_orders_ads_12.png)
+<br>![](/exercises/ex4/images/create_internal_orders_ads_13.png)
+<br>![](/exercises/ex4/images/create_internal_orders_ads_14.png)
+<br>![](/exercises/ex4/images/create_internal_orders_ads_15.png)
+<br>![](/exercises/ex4/images/create_internal_orders_ads_16.png)
 
 ## Set Measures
-<br>![](/exercises/ex4/images/create_internal_orders_ads_16.png)
+
 <br>![](/exercises/ex4/images/create_internal_orders_ads_17.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_18.png)
 
