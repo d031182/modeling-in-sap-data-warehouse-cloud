@@ -13,7 +13,9 @@
     <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_02.png)
  5. Navigate to the <i>Attributes</i> section and click on <b>edit</b> button
     <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_12.png)
- 6. For 
+ 6. Adjust the following attribute properties:
+    - <b>LONG DESCR</b>: set the semantic type to <b>TEXT</b>
+    - <b>PRODUCT ID</b>: set the label to <b>LONG_DESCR</b>
     <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_13.png)
  6. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
    <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_03.png)
