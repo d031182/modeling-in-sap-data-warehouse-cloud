@@ -24,7 +24,7 @@ https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
   <br><br>![Import CSV File](../images/ImportCSVFile_3.png)
   
 <br><br>![](../../images/create_tcurr_01.png)
-<br><br>![](/exercises/ex2/images/create_tcurr_02.png)
+<br><br>![](../../images/create_tcurr_02.png)
 
 
 ## Upload <i>TCURF.csv</i>
