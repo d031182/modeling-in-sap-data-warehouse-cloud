@@ -38,8 +38,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
      - [Exercise 1.10 - Change Management] - <b><i>under construction !!!</i></b>
 
 ### Data Layer
-- [Exercise Overview](exercises/overview/)
-
 - [Exercise 2 - Upload Sample Data](exercises/ex2/)
      - [Exercise 2.1 - Upload BIKE SALES Sample Data](exercises/ex2/upload-bike-sales)
         - Upload CSV Files 
