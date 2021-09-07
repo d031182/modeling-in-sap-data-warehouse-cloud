@@ -6,22 +6,23 @@
 3. Drag and drop the table <b><i>CSV_VendorProducts</i></b> into the canvas
   <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_01.png)
 4. Select the Output Node in the canvas and configure the following properties:
-    - Business Name: <b>V_VENDOR_PRODUCT_CATEGORY_HIERARCHY</b>
-    - Technical Name: <b>V_VENDOR_PRODUCT_CATEGORY_HIER</b>
-    - Semantic Usage: <b>Hierarchy</b>
-    - Parent: <b>PARENTCATEGORY</b>
-    - Child: <b>PRODUCTCATEGORY</b>
+    - Business Name: <b>V_VENDOR_PRODUCTS</b>
+    - Technical Name: <b>V_VENDOR_PRODUCTS</b>
+    - Semantic Usage: <b>Dimension</b>
     - Expose for Consumption: <b>ON</b>
     <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_02.png)
- 5. Click on <b><i>deploy</i></b> button to deploy the view
+ 5. Navigate to the <i>Attributes</i> section and click on <b>edit</b> button
+    <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_12.png)
+ 6. For 
+    <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_13.png)
+ 6. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
+   <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_03.png)
+ 7. Click on <b><i>deploy</i></b> button to deploy the view
   <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_05.png)
-  <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_03.png)
 
 
 
 
-<br>![](/exercises/ex4/images/create_vendor_product_dimension_04.png)
-<br>![](/exercises/ex4/images/create_vendor_product_dimension_06.png)
-<br>![](/exercises/ex4/images/create_vendor_product_dimension_07.png)
+
 
 
