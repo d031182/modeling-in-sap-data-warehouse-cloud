@@ -17,7 +17,10 @@
 
 
 ## Set Measures
-<br>![](/exercises/ex4/images/create_internal_orders_ads_03.png)
-<br>![](/exercises/ex4/images/create_internal_orders_ads_04.png)
+<br>![](/exercises/ex4/images/create_internal_orders_ads_16.png)
+<br>![](/exercises/ex4/images/create_internal_orders_ads_17.png)
+<br>![](/exercises/ex4/images/create_internal_orders_ads_18.png)
+
 ## Deploy
-<br>![](/exercises/ex4/images/create_internal_orders_ads_15.png)
+<br>![](/exercises/ex4/images/create_internal_orders_ads_29.png)
+<br>![](/exercises/ex4/images/create_internal_orders_ads_30.png)
