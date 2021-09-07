@@ -76,8 +76,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 4.6 - Create Currency Configurations View (TCURV)](exercises/ex4/tcurv-currency-view)
     - [Exercise 4.7 - Create Currency Precisions View (TCURX)](exercises/ex4/tcurx-currency-view)
     - [Exercise 4.8 - Create Internal Orders View](exercises/ex4/internal-orders-view)
-        - Calculation Node 
-        - Currency Conversion 
+        - Calculation Node with Currency Conversion 
         - Input Parameters 
         - Aggregation Node 
     - [Exercise 4.9 - Create Story in SAP Analytics Cloud](exercises/ex3/create-story-in-sap-analytics-cloud)
