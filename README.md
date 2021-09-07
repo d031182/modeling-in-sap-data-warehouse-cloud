@@ -43,7 +43,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 2 - Upload Sample Data](exercises/ex2/)
      - [Exercise 2.1 - Upload BIKE SALES Sample Data](exercises/ex2/upload-bike-sales)
         - Upload CSV Files 
-     - [Exercise 2.2 - Upload Currency Conversion Sample Data](exercises/ex2/upload-sflight)
+     - [Exercise 2.2 - Upload Currency Conversion Sample Data (TCUR*)](exercises/ex2/upload-tcur)
         - Data Wrangling    
         
 - [Exercise 3 - Sales Orders](exercises/ex3/)  
