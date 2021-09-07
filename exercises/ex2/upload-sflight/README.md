@@ -17,11 +17,12 @@
   <br>![Import CSV File](../images/ImportCSVFile_2.png)
 3. Select the <i><b>TCURR.csv</b></i> as source file and click on Upload
   <br>![Import CSV File](../images/ImportCSVFile_3.png)
-4. Adjust the column data types as the following:
+4. Adjust the column data types as the following
     -  
-<br><br>![](../images/create_tcurr_01.png)
-<br><br>![](../images/create_tcurr_02.png)
-
+    <br><br>![](../images/create_tcurr_01.png)
+    <br><br>![](../images/create_tcurr_02.png)
+5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURR</i></b>
+    <br><br>![](../images/create_tcurr_03.png)
 
 ## Upload <i>TCURF.csv</i> for Currency Prefactors
 <br><br>![](../../images/create_tcurf_01.png)
