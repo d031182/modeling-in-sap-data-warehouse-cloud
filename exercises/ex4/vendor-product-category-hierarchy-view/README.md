@@ -9,9 +9,9 @@
     - Business Name: <b>V_VENDOR_PRODUCT_CATEGORY_HIERARCHY</b>
     - Technical Name: <b>V_VENDOR_PRODUCT_CATEGORY_HIER</b>
     - Semantic Usage: <b>Hierarchy</b>
+    - Parent: <b>PARENTCATEGORY</b>
+    - Child: <b>PRODUCTCATEGORY</b>
     - Expose for Consumption: <b>ON</b>
+    <br>![](/exercises/ex4/images/create_vendor_product_category_hierarchy_02.png)
  4. Click on <b><i>deploy</i></b> button to deploy the view
-
-
-<br>![](/exercises/ex4/images/create_vendor_product_category_hierarchy_02.png)
-<br>![](/exercises/ex4/images/create_vendor_product_category_hierarchy_03.png)
+  <br>![](/exercises/ex4/images/create_vendor_product_category_hierarchy_03.png)
