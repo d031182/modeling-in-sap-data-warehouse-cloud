@@ -12,10 +12,17 @@
     - Expose for Consumption: <b>ON</b>
     <br><br>![](../images/create_employee_dimension_03.png)
 
-5. <br>![](/exercises/ex4/images/create_employee_dimension_04.png)
-6. <br>![](/exercises/ex4/images/create_employee_dimension_05.png)
-7. <br>![](/exercises/ex4/images/create_employee_dimension_06.png)
-8. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
+5. Click on the <b>Hierarchy</b> button 
+  <br>![](/exercises/ex4/images/create_employee_dimension_04.png)
+7. Add a new <b>Parent Child Hieararchy</b> (aka Internal Hierarchy)
+  <br>![](/exercises/ex4/images/create_employee_dimension_05.png)
+8. Adjust the following properties:
+  - Business Name: <b>Employee Hierarchy</b>
+  - Technical Name: <b>EMP_HIER</b>
+  - Parent Column: <b>MANAGERID</b>
+  - Child Column: <b>EMPLOYEEID</b>
+10. <br>![](/exercises/ex4/images/create_employee_dimension_06.png)
+11. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
     <br>![](/exercises/ex4/images/create_employee_dimension_10.png)
  9. Click on <b><i>deploy</i></b> button to deploy the view
   <br><br>![](/exercises/ex4/images/create_employee_dimension_08.png)
