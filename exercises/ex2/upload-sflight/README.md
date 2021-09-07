@@ -18,7 +18,9 @@
 3. Select the <i><b>TCURR.csv</b></i> as source file and click on Upload
   <br>![Import CSV File](../images/ImportCSVFile_3.png)
 4. Adjust the column data types as the following
-    -  
+    Column | Data Type
+    ---|---
+    
     <br><br>![](../images/create_tcurr_01.png)
     <br><br>![](../images/create_tcurr_02.png)
 5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURR</i></b>
