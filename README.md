@@ -62,7 +62,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Analytical Dataset View
         - Projection Node
         - Filter Node
-        - Union Node
         - Associations
     - [Exercise 3.6 - Create Entity Relationship Model (ERM)](exercises/ex3/entity-relationship-model)
         - Associations
@@ -78,6 +77,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 4.3 - Create Vendor Products View](exercises/ex4/vendor-products-view)
         - Hierarchy Association  
     - [Exercise 4.4 - Create TCURR View](exercises/ex4/employees-view)
+        - Union Node 
     - [Exercise 4.5 - Create TCURF View](exercises/ex4/employees-view)
     - [Exercise 4.6 - Create TCURV View](exercises/ex4/employees-view)
     - [Exercise 4.7 - Create TCURX View](exercises/ex4/employees-view)
