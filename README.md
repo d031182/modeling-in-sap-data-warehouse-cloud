@@ -40,9 +40,10 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 ### Data Layer
 - [Exercise Overview](exercises/overview/)
 
-- [Exercise 2 - Upload CSV files](exercises/ex2/)
-     - [Exercise 2.1 - Upload BIKE SALES](exercises/ex2/upload-bike-sales)
-     - [Exercise 2.2 - Upload SFLIGHT](exercises/ex2/upload-sflight)
+- [Exercise 2 - Upload Sample Data](exercises/ex2/)
+     - [Exercise 2.1 - Upload BIKE SALES Sample Data](exercises/ex2/upload-bike-sales)
+        - Upload CSV Files 
+     - [Exercise 2.2 - Upload Currency Conversion Sample Data](exercises/ex2/upload-sflight)
         - Data Wrangling    
         
 - [Exercise 3 - Sales Orders](exercises/ex3/)  
