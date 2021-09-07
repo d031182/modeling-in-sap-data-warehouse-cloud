@@ -23,19 +23,19 @@ https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
 3. Click on Upload
   <br><br>![Import CSV File](../images/ImportCSVFile_3.png)
   
-<br><br>![](/exercises/ex1/images/create_tcurr_01.png)
-<br><br>![](/exercises/ex1/images/create_tcurr_02.png)
+<br><br>![](../images/create_tcurr_01.png)
+<br><br>![](/exercises/ex2/images/create_tcurr_02.png)
 
 
 ## Upload <i>TCURF.csv</i>
-<br><br>![](/exercises/ex1/images/create_tcurf_01.png)
-<br><br>![](/exercises/ex1/images/create_tcurf_02.png)
+<br><br>![](/exercises/ex2/images/create_tcurf_01.png)
+<br><br>![](/exercises/ex2/images/create_tcurf_02.png)
 
 ## Upload <i>TCURV.csv</i>
-<br><br>![](/exercises/ex1/images/create_tcurv_01.png)
-<br><br>![](/exercises/ex1/images/create_tcurv_02.png)
+<br><br>![](/exercises/ex2/images/create_tcurv_01.png)
+<br><br>![](/exercises/ex2/images/create_tcurv_02.png)
         
         
 ## Upload <i>TCURX.csv</i>
-<br><br>![](/exercises/ex1/images/create_tcurx_01.png)
-<br><br>![](/exercises/ex1/images/create_tcurx_02.png)
+<br><br>![](/exercises/ex2/images/create_tcurx_01.png)
+<br><br>![](/exercises/ex2/images/create_tcurx_02.png)
