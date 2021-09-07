@@ -9,5 +9,5 @@
     - Business Name: <b>V_TCURF</b>
     - Technical Name: <b>V_TCURF</b>
     - Semantic Usage: <b>Relational Dataset</b>
-  - Expose for Consumption: <b>on</b>
+    - Expose for Consumption: <b>on</b>
  4. Click on <b><i>deploy</i></b> button to deploy the view
