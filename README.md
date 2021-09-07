@@ -76,7 +76,11 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Hierarchy View (External Hierarchy)
     - [Exercise 4.3 - Create Vendor Products View](exercises/ex4/vendor-products-view)
         - Hierarchy Association  
-    - [Exercise 4.4 - Create Internal Orders View](exercises/ex4/internal-orders-view)
+        - [Exercise 4.1 - Create TCURR View](exercises/ex4/employees-view)
+    - [Exercise 4.4 - Create TCURF View](exercises/ex4/employees-view)
+    - [Exercise 4.5 - Create TCURV View](exercises/ex4/employees-view)
+    - [Exercise 4.6 - Create TCURX View](exercises/ex4/employees-view)
+    - [Exercise 4.7 - Create Internal Orders View](exercises/ex4/internal-orders-view)
         - Calculation Node 
         - Currency Conversion 
         - Input Parameters 
