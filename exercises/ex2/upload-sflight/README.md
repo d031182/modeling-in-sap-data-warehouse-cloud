@@ -17,7 +17,7 @@ https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
         
 1. Navigate to the Data Builder of SAP Data Warehouse Cloud
 2. Click on the <b><i>Import CSV File</i></b>
-  <br><br>![Import CSV File](../images/ImportCSVFile_2.png)
+  <br><br>![Import CSV File](../../images/ImportCSVFile_2.png)
   
   
 3. Click on Upload
