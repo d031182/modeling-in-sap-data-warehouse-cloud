@@ -109,7 +109,7 @@
 1. Navigate to the Data Builder of SAP Data Warehouse Cloud
 2. Click on the <b><i>Import CSV File</i></b>
   <br>![Import CSV File](../images/ImportCSVFile_2.png)
-3. Select the <i><b>TCURX.csv</b></i> as source file and click on Upload
+3. Select the <i><b>SFLIGHT.csv</b></i> as source file and click on Upload
   <br>![Import CSV File](../images/ImportCSVFile_3.png)
 4. Adjust the column data types as the following:
 
@@ -118,7 +118,8 @@
     CURRKEY | String
     CURRDEC | String
         
-    <br><br>![](../images/create_tcurx_01.png)
+    <br><br>![](../images/create_sflight_01.png)
+    <br><br>![](../images/create_sflight_02.png)
 
 5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURX</i></b>
-    <br><br>![](../images/create_tcurx_02.png)
+    <br><br>![](../images/create_sflight_03.png)
