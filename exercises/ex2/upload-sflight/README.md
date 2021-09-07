@@ -11,7 +11,7 @@ https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
 
        
 
-## Upload <i>TCURR.csv</i>
+## Upload <i>TCURR.csv</i> for Currency Rates
 
 
         
@@ -27,15 +27,15 @@ https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
 <br><br>![](../../images/create_tcurr_02.png)
 
 
-## Upload <i>TCURF.csv</i>
+## Upload <i>TCURF.csv</i> for Currency Prefactors
 <br><br>![](../../images/create_tcurf_01.png)
 <br><br>![](../../images/create_tcurf_02.png)
 
-## Upload <i>TCURV.csv</i>
+## Upload <i>TCURV.csv</i> for Currency Configuration
 <br><br>![](../../images/create_tcurv_01.png)
 <br><br>![](../../ex2/images/create_tcurv_02.png)
         
         
-## Upload <i>TCURX.csv</i>
+## Upload <i>TCURX.csv</i> for Currency Precisions
 <br><br>![](../../images/create_tcurx_01.png)
 <br><br>![](../../images/create_tcurx_02.png)
