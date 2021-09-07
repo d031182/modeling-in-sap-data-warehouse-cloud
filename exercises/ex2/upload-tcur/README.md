@@ -1,4 +1,4 @@
-# Upload <i>SFLIGHT</i> CSV Files
+# Upload <i>Currency Conversion Sample Data</i> (ABAP TCUR*)
 
 ## Download the sample dataset:
 - Download the sample dataset via the following link: https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
