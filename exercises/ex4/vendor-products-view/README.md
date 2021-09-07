@@ -17,9 +17,10 @@
     - <b>LONG DESCR</b>: set the semantic type to <b>TEXT</b>
     - <b>PRODUCT ID</b>: set the label to <b>LONG_DESCR</b>
     <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_13.png)
- 6. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
+ 7. Close the Attribute Properties dialog
+ 8. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
    <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_03.png)
- 7. Click on <b><i>deploy</i></b> button to deploy the view
+ 9. Click on <b><i>deploy</i></b> button to deploy the view
   <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_05.png)
 
 
