@@ -18,8 +18,16 @@
 3. Select the <i><b>TCURR.csv</b></i> as source file and click on Upload
   <br>![Import CSV File](../images/ImportCSVFile_3.png)
 4. Adjust the column data types as the following
+
     Column | Data Type
-    ---|---
+    ---------|---------
+    KURST | String
+    FCURR | String
+    TCURR | String
+    GDATU | String
+    UKURS | Number
+    FFACT | Integer
+    TFACT | Integer
     
     <br><br>![](../images/create_tcurr_01.png)
     <br><br>![](../images/create_tcurr_02.png)
