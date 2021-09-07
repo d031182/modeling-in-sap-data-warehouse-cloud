@@ -11,12 +11,18 @@
     - Semantic Usage: <b>Dimension</b>
     - Expose for Consumption: <b>ON</b>
     <br><br>![](../images/create_employee_dimension_03.png)
- 10. Click on <b><i>deploy</i></b> button to deploy the view
+
+5. <br>![](/exercises/ex4/images/create_employee_dimension_04.png)
+6. <br>![](/exercises/ex4/images/create_employee_dimension_05.png)
+7. <br>![](/exercises/ex4/images/create_employee_dimension_06.png)
+8. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
+    <br>![](/exercises/ex4/images/create_employee_dimension_10.png)
+ 9. Click on <b><i>deploy</i></b> button to deploy the view
   <br><br>![](/exercises/ex4/images/create_employee_dimension_08.png)
 
 
-<br>![](/exercises/ex4/images/create_employee_dimension_10.png)
-<br>![](/exercises/ex4/images/create_employee_dimension_04.png)
-<br>![](/exercises/ex4/images/create_employee_dimension_05.png)
-<br>![](/exercises/ex4/images/create_employee_dimension_06.png)
+
+
+
+
 
