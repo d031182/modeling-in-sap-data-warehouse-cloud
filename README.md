@@ -83,7 +83,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 4.9 - Create Story in SAP Analytics Cloud](exercises/ex3/create-story-in-sap-analytics-cloud)
 
  
- - [Exercise 5 - Extended Internal Orders](exercises/ex1/)
+ - [Exercise 5 - Extended Internal Orders] - <b><i>under construction !!!</i></b>
     - Exercise 4.5 - Create Extended Internal Orders View - <b><i>under construction !!!</i></b>
         - Change Management    
     - Exercise 4.5 - Create Cost Center View - <b><i>under construction !!!</i></b>
