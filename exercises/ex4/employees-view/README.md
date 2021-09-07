@@ -17,10 +17,10 @@
 6. Add a new <b>Parent Child Hieararchy</b> (aka Internal Hierarchy)
   <br><br>![](/exercises/ex4/images/create_employee_dimension_05.png)
 7. Adjust the following properties:
-  - Business Name: <b>Employee Hierarchy</b>
-  - Technical Name: <b>EMP_HIER</b>
-  - Parent Column: <b>MANAGERID</b>
-  - Child Column: <b>EMPLOYEEID</b>
+    - Business Name: <b>Employee Hierarchy</b>
+    - Technical Name: <b>EMP_HIER</b>
+    - Parent Column: <b>MANAGERID</b>
+    - Child Column: <b>EMPLOYEEID</b>
   <br>![](/exercises/ex4/images/create_employee_dimension_06.png)
 8. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
     <br><br>![](/exercises/ex4/images/create_employee_dimension_10.png)
