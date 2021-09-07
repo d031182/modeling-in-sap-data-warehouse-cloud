@@ -9,6 +9,6 @@
     - Business Name: <b>V_TCURR</b>
     - Technical Name: <b>V_TCURR</b>
     - Semantic Usage: <b>Relational Dataset</b>
-  - Expose for Consumption: <b>ON</b>
+    - Expose for Consumption: <b>ON</b>
  4. Click on <b><i>deploy</i></b> button to deploy the view
 
