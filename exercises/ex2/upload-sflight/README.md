@@ -58,7 +58,7 @@
     <br><br>![](../images/create_tcurf_02.png)
 
 5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURF</i></b>
-    <br><br>![](../images/create_tcurr_04.png)
+    <br><br>![](../images/create_tcurf_04.png)
 
 ## Upload <i>TCURV.csv</i> for Currency Configuration
 <br><br>![](../../images/create_tcurv_01.png)
