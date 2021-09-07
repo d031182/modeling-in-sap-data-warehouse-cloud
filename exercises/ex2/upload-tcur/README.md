@@ -1,7 +1,7 @@
 # Upload <i>Currency Conversion Sample Data</i> (ABAP TCUR*)
 
 ## Download the sample dataset:
-- Download the sample dataset via the following link: https://github.com/d031182/reference-data-model-samples/tree/main/data/SFLIGHT
+- Download the sample dataset via the following link: https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES
 - Make sure the following fiiles are available:
     - TCURR.csv (Currency Rates)
     - TCURF.csv (Currency Prefactors)
