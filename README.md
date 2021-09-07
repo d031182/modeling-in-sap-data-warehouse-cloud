@@ -84,6 +84,8 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 
  
  - [Exercise 5 - Extended Internal Orders](exercises/ex1/)
+    - Exercise 4.5 - Create Extended Internal Orders View - <b><i>under construction !!!</i></b>
+        - Change Management    
     - Exercise 4.5 - Create Cost Center View - <b><i>under construction !!!</i></b>
         - Compound Keys - <b><i>under construction !!!</i></b>
     - Exercise 4.6 - Create Cost Center Hierarchy View - <b><i>under construction !!!</i></b>
