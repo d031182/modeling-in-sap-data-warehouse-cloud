@@ -61,7 +61,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Projection Node
         - Filter Node
         - Associations
-
     - [Exercise 3.7 - Create Story in SAP Analytics Cloud](exercises/ex3/create-story-in-sap-analytics-cloud)
     - 
 - [Exercise 4 - Internal Orders](exercises/ex4/)
@@ -81,6 +80,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Currency Conversion 
         - Input Parameters 
         - Aggregation Node 
+    - [Exercise 4.9 - Create Story in SAP Analytics Cloud](exercises/ex3/create-story-in-sap-analytics-cloud)
 
  
  - [Exercise 5 - Extended Internal Orders](exercises/ex1/)
@@ -96,12 +96,6 @@ Provide the exercise content here directly in README.md using [markdown](https:/
    - Text Associations
    - Hierarchy Associations
    
-- [Exercise 6 - Create a Story in SAP Analytics Cloud](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-
-
-
 ### Business Layer
 - [Exercise 7 - Sales Pipeline]
     - [Exercise 7.1 - Create Business Entity]
