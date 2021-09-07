@@ -53,8 +53,8 @@
     FFACT | Integer
     TFACT | Integer
 
-    <br><br>![](../../images/create_tcurf_01.png)
-    <br><br>![](../../images/create_tcurf_02.png)
+    <br><br>![](../images/create_tcurf_01.png)
+    <br><br>![](../images/create_tcurf_02.png)
 
 ## Upload <i>TCURV.csv</i> for Currency Configuration
 <br><br>![](../../images/create_tcurv_01.png)
