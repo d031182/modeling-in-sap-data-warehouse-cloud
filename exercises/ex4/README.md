@@ -6,7 +6,11 @@ In this exercise, you will...
 
 
 
+## Currency Conversion
+TBD
 
+## Outlook
+TBD
 
 
 
