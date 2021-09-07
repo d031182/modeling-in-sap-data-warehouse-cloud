@@ -25,17 +25,17 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
 ### SAP Data Warehouse Fundamentals
-- [Exercise 1 - SAP Data Warehouse Cloud Fundamentals]
-- [Exercise 1.1 - Repository Explorer] - <b><i>under construction !!!</i></b>
-- [Exercise 1.2 - Data Source Browser] - <b><i>under construction !!!</i></b>
-- [Exercise 1.3 - Space Management] - <b><i>under construction !!!</i></b>
-- [Exercise 1.4 - Time Tables and Views Configurator](exercises/ex1/time-tables-views)
-- [Exercise 1.5 - Currency Conversion Configurator] - <b><i>under construction !!!</i></b>
-- [Exercise 1.6 - Fiscal Calendar Configurator] - <b><i>under construction !!!</i></b>
-- [Exercise 1.7 - Modeling Entities] - <b><i>under construction !!!</i></b>
-- [Exercise 1.8 - Data Lineage] - <b><i>under construction !!!</i></b>
-- [Exercise 1.9 - Versioning] - <b><i>under construction !!!</i></b>
-- [Exercise 1.10 - Change Management] - <b><i>under construction !!!</i></b>
+- [Exercise 1 - SAP Data Warehouse Cloud Fundamentals](exercises/ex1)
+     - [Exercise 1.1 - Repository Explorer] - <b><i>under construction !!!</i></b>
+     - [Exercise 1.2 - Data Source Browser] - <b><i>under construction !!!</i></b>
+     - [Exercise 1.3 - Space Management] - <b><i>under construction !!!</i></b>
+     - [Exercise 1.4 - Time Tables and Views Configurator](exercises/ex1/time-tables-views)
+     - [Exercise 1.5 - Currency Conversion Configurator] - <b><i>under construction !!!</i></b>
+     - [Exercise 1.6 - Fiscal Calendar Configurator] - <b><i>under construction !!!</i></b>
+     - [Exercise 1.7 - Modeling Entities] - <b><i>under construction !!!</i></b>
+     - [Exercise 1.8 - Data Lineage] - <b><i>under construction !!!</i></b>
+     - [Exercise 1.9 - Versioning] - <b><i>under construction !!!</i></b>
+     - [Exercise 1.10 - Change Management] - <b><i>under construction !!!</i></b>
 
 ### Data Layer
 - [Exercise Overview](exercises/overview/)
