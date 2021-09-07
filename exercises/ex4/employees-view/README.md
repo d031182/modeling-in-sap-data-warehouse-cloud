@@ -21,7 +21,7 @@
     - Technical Name: <b>EMP_HIER</b>
     - Parent Column: <b>MANAGERID</b>
     - Child Column: <b>EMPLOYEEID</b>
-  <br>![](/exercises/ex4/images/create_employee_dimension_06.png)
+  <br><br>![](/exercises/ex4/images/create_employee_dimension_06.png)
 8. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
     <br><br>![](/exercises/ex4/images/create_employee_dimension_10.png)
 9. Click on <b><i>deploy</i></b> button to deploy the view
