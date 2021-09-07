@@ -72,15 +72,19 @@
     ---------|---------
     MANDT | String
     KURST | String
-    TCURR | String
-    GDATU | String
-    FFACT | Integer
-    ABWCT | String
-    ABWGA | String
+    XINVR | String
+    BWAER | String
+    XBWRL | String
+    GKUZU | String
+    BKUZU | String
+    XFIXD | String
+    XEURO | String
     
 <br><br>![](../images/create_tcurv_01.png)
 <br><br>![](../images/create_tcurv_02.png)
-        
+
+5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURV</i></b>
+    <br><br>![](../images/create_tcurv_03.png)
         
 ## Upload <i>TCURX.csv</i> for Currency Precisions
 <br><br>![](../images/create_tcurx_01.png)
