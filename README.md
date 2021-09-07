@@ -40,9 +40,9 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 ### Data Layer
 - [Exercise Overview](exercises/overview/)
 
-- [Exercise 1 - Upload CSV files](exercises/ex1/)
-     - [Exercise 1.1 - Upload BIKE SALES](exercises/ex1/upload-bike-sales)
-     - [Exercise 1.2 - Upload SFLIGHT](exercises/ex1/upload-sflight)
+- [Exercise 2 - Upload CSV files](exercises/ex2/)
+     - [Exercise 2.1 - Upload BIKE SALES](exercises/ex2/upload-bike-sales)
+     - [Exercise 2.2 - Upload SFLIGHT](exercises/ex2/upload-sflight)
  
 - [Exercise 3 - Sales Orders](exercises/ex3/)  
     - [Exercise 3.1 - Create Business Partners View](exercises/ex3/business-partners-view)
@@ -55,7 +55,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
         - Text View 
     - [Exercise 3.3 - Create Products View](exercises/ex3#products-view)
         - Text Association   
-    - [Exercise 3.4 - Generate Time Tables and Views](exercises/ex2/time-tables-views)
+    - [Exercise 3.4 - Generate Time Tables and Views](exercises/ex1/time-tables-views)
     - [Exercise 3.5 - Create Sales Orders View](exercises/ex3/sales-orders-view)
         - Analytical Dataset View
         - Projection Node
