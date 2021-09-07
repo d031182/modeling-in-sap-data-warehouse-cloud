@@ -29,7 +29,7 @@ Provide the exercise content here directly in README.md using [markdown](https:/
 - [Exercise 1.1 - Repository Explorer] - <b><i>under construction !!!</i></b>
 - [Exercise 1.2 - Data Source Browser] - <b><i>under construction !!!</i></b>
 - [Exercise 1.3 - Space Management] - <b><i>under construction !!!</i></b>
-- [Exercise 3.4 - Time Tables and Views Configurator](exercises/ex1/time-tables-views)
+- [Exercise 1.4 - Time Tables and Views Configurator](exercises/ex1/time-tables-views)
 - [Exercise 1.5 - Currency Conversion Configurator] - <b><i>under construction !!!</i></b>
 - [Exercise 1.6 - Fiscal Calendar Configurator] - <b><i>under construction !!!</i></b>
 - [Exercise 1.7 - Modeling Entities] - <b><i>under construction !!!</i></b>
