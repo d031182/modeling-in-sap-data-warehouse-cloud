@@ -60,9 +60,26 @@
 5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURF</i></b>
     <br><br>![](../images/create_tcurf_04.png)
 
-## Upload <i>TCURV.csv</i> for Currency Configuration
+## Upload file for Currency Configuration
+1. Navigate to the Data Builder of SAP Data Warehouse Cloud
+2. Click on the <b><i>Import CSV File</i></b>
+  <br>![Import CSV File](../images/ImportCSVFile_2.png)
+3. Select the <i><b>TCURV.csv</b></i> as source file and click on Upload
+  <br>![Import CSV File](../images/ImportCSVFile_3.png)
+4. Adjust the column data types as the following:
+
+    Column | Data Type
+    ---------|---------
+    MANDT | String
+    KURST | String
+    TCURR | String
+    GDATU | String
+    FFACT | Integer
+    ABWCT | String
+    ABWGA | String
+    
 <br><br>![](../../images/create_tcurv_01.png)
-<br><br>![](../../ex2/images/create_tcurv_02.png)
+<br><br>![](../../images/create_tcurv_02.png)
         
         
 ## Upload <i>TCURX.csv</i> for Currency Precisions
