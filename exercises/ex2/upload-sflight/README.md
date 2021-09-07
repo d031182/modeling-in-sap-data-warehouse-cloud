@@ -122,13 +122,13 @@
     PRICE | Number
     CURRENCY | String
     PLANETYPE | String
-    SEATSMAX | String
-    SEATSOCC | String
-    PAYMENTSUM | String
-    SEATSMAX_B | String
-    SEATSOCC_B | String
-    SEATSMAX_F | String
-    SEATSOCC_F | String
+    SEATSMAX | Integer
+    SEATSOCC | Integer
+    PAYMENTSUM | Number
+    SEATSMAX_B | Integer
+    SEATSOCC_B | Integer
+    SEATSMAX_F | Integer
+    SEATSOCC_F | Integer
     
     <br><br>![](../images/create_sflight_01.png)
     <br><br>![](../images/create_sflight_02.png)
