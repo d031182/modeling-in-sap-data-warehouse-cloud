@@ -86,14 +86,13 @@
       <br><br>![](/exercises/ex4/images/create_internal_orders_ads_16.png)
 
 ### Set Measures
-19. Select the <i>Output Node</i> and change the following columns into measures:
-<b>
+19. Select the <i>Output Node</i> and change the following columns into measures:<b>
   - NETAMOUNT
   - NETAMOUNT_TG
   - GROSSAMOUNT
   - TAXAMOUNT
-  - QUANTITY
- </b>
+  - QUANTITY</b>
+ 
   <br><br>![](/exercises/ex4/images/create_internal_orders_ads_17.png)
   <br>![](/exercises/ex4/images/create_internal_orders_ads_18.png)
 
