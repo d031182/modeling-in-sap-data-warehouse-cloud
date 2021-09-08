@@ -19,6 +19,8 @@ And now enjoy the tutorial ;)<br>
 San Tran<br>
 Product Manager, SAP
 
+p.s. many thanks for Amogh Kulkarni who supported on creating the sample datasets.
+
 ## Requirements
 Before you can start with the exercises, please make sure to get a running SAP Data Warehouse Cloud tenant with the latest updates.
 For that you can apply for a **30-Days free Trial Tenant** under the following link:
