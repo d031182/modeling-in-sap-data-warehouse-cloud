@@ -115,7 +115,7 @@ Start the exercises [here](exercises/myPDFDoc.pdf).
 Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
 
 ## Links
-- SAP Data Warehouse Cloud in SAP Roadmaps: https://roadmaps.sap.com/board?PRODUCT=73555000100800002141&range=FIRST-CURRENT
+- SAP Data Warehouse Cloud in [SAP Roadmaps](https://roadmaps.sap.com/board?PRODUCT=73555000100800002141&range=FIRST-CURRENT)
 - SAP Data Warehouse Cloud What's New?
 
 ## License
