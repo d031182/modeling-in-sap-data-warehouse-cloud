@@ -29,5 +29,5 @@ Depends on the language configuration of the user profile, the data on the repor
     <br>![](/exercises/ex3/images/create_product_texts_06.png)
  8. Select the Output node in the canvas, and click on <b>Data Preview</b> from the context menu to display the data of the view. 
     <br><br>![](/exercises/ex3/images/create_product_texts_07.png)
-  8. Click on <b><i>deploy</i></b> button to deploy the view
+ 9. Click on <b><i>deploy</i></b> button to deploy the view
   <br><br>![](/exercises/ex3/images/create_product_texts_08.png)
