@@ -60,7 +60,7 @@
 18. Configure the Calculated Column as the following:
     - Business Name: <b>NETAMOUNT_TG</b>
     - Technical Name: <b>NETAMOUNT_TG</b>
-    - Data Type: <b>Decimal</b>
+    - Data Type: <b>Double</b>
     - Length: <b>3</b>
     - Expression: 
       ```javascript
