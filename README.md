@@ -13,7 +13,7 @@ The tutorial comes along with a sample dataset (CSV files), so that only a minim
 
 In general, you should be aware that SAP Data Warehouse constantly updates and delivers new features. That means, that some of the described features might be outdated and look differently than from your latest version (for that please check regularly the "What's New" website and the SAP Roadmaps in the links section below). 
 
-That being said, I hope this tutorial will give you a solid understanding and insights into the fundamental modeling principles of SAP Data Warehouse Cloud on which you can build upon.
+That being said, I hope this tutorial will give you a solid understanding and insights into the fundamental modeling principles of SAP Data Warehouse Cloud on which you can build upon in the future.
 
 And now enjoy the tutorial ;)<br> 
 San Tran<br>
