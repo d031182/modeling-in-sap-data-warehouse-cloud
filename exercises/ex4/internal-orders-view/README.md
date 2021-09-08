@@ -12,7 +12,7 @@
     - Expose for Consumption: <b>ON</b>
     <br><br>![](../images/create_internal_orders_ads_02.png)
 
-5. Click on the <b>Hierarchy</b> button 
+
   <br><br>![](/exercises/ex4/images/create_employee_dimension_04.png)
 6. Add a new <b>Parent Child Hieararchy</b> (aka Internal Hierarchy)
   <br><br>![](/exercises/ex4/images/create_employee_dimension_05.png)
@@ -28,12 +28,8 @@
   <br><br>![](/exercises/ex4/images/create_employee_dimension_08.png)
 
 
-
-
-
-
-
 ## Create Associations
+5. Select the <i>Output</i> node in the canvas and move to the <i>Associations</i> section: 
 <br>![](/exercises/ex4/images/create_internal_orders_ads_05.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_06.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_07.png)
