@@ -92,7 +92,7 @@
   - GROSSAMOUNT
   - TAXAMOUNT
   - QUANTITY</b>
-  <br>![](/exercises/ex4/images/create_internal_orders_ads_17.png)
+  <br><br>![](/exercises/ex4/images/create_internal_orders_ads_17.png)
   <br>![](/exercises/ex4/images/create_internal_orders_ads_18.png)
 
 ### Deploy
