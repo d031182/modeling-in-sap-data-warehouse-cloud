@@ -19,8 +19,9 @@
  6. Click on <b><i>Edit Attributes</i></b> 
   <br>![](/exercises/ex3/images/create_product_texts_04.png)
  7. Adjust the attributes properties as the following:
-    - <b>LANGUAGE</b>: set the semantic usage to <b>LANAGUAGE</b>
-    - <b>   
+    - <b>LANGUAGE</b>: set the semantic usage to <b>Language</b>
+    - <b>MEDIUM_DESCR</b>: set the semantic usage to <b>Text</b>
+    - <b>PRODUCTID</b>: set label to <b>MEDIUM_DESCR</b>   
   <br>![](/exercises/ex3/images/create_product_texts_05.png)
   <br>![](/exercises/ex3/images/create_product_texts_06.png)
   <br>![](/exercises/ex3/images/create_product_texts_07.png)
