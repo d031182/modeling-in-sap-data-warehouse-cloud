@@ -11,10 +11,10 @@
     - Semantic Usage: <b>Text</b>
     - Expose for Consumption: <b>ON</b>
     <br><br>![](../images/create_product_texts_02.png)
- 5. Set the primary keys to:
-    - PRODUCTID
-    - LANGUAGE 
-  <br>![](/exercises/ex3/images/create_product_texts_03.png)
+ 5. Set the <b>primary keys</b> to:
+    - <b>PRODUCTID</b>
+    - <b>LANGUAGE</b> 
+    <br>![](/exercises/ex3/images/create_product_texts_03.png)
   <br>![](/exercises/ex3/images/create_product_texts_04.png)
   <br>![](/exercises/ex3/images/create_product_texts_05.png)
   <br>![](/exercises/ex3/images/create_product_texts_06.png)
