@@ -12,7 +12,7 @@
     - Technical Name: <b>V_VENDOR_PRODUCTS</b>
     - Semantic Usage: <b>Dimension</b>
     - Expose for Consumption: <b>ON</b>
-    <br><br>![](/exercises/ex3/images/create_products_dimension_03.png)
+    <br><br>![](/exercises/ex3/images/create_products_dimension_02.png)
 
 5. ffe
 
