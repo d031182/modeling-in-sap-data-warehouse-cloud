@@ -29,9 +29,12 @@
 
 
 ## Create Associations
-5. Select the <i>Output</i> node in the canvas and move to the <i>Associations</i> section: 
+5. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
 <br>![](/exercises/ex4/images/create_internal_orders_ads_05.png)
+6. Find a select the view <b>V_VENDOR_PRODUCTS</b>
 <br>![](/exercises/ex4/images/create_internal_orders_ads_06.png)
+
+
 <br>![](/exercises/ex4/images/create_internal_orders_ads_07.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_08.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_09.png)
