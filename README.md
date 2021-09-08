@@ -5,7 +5,8 @@ This repository aims to onboard new users into Modeling in SAP Data Warehouse Cl
 
 ## Overview
 
-The exercises are meant to be built in this particular order starting from basic concepts, while the more advance aspects are following later. 
+The exercises are meant to be built in this particular order starting from basic concepts and diving step by step into deeper advanced features while processing with the exercises. The exercises are also based on each other. Hence, they prerequisite each other.
+
 Please be aware, when creating this tutorial features might be updated or replaced in SAP Data Warehouse Cloud. 
 Nonetheless, I hope it still give you a solid understanding on the fundamental concepts in modeling. 
 
