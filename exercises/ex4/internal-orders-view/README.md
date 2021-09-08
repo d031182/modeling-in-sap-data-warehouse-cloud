@@ -78,7 +78,7 @@
         "PREFACTORS_TABLE" => 'V_TCURF', 
         "RATES_TABLE" => 'V_TCURR')
       ```
-      <br><br>![](../images/create_internal_orders_ads_15.png)
+      <br>![](../images/create_internal_orders_ads_15.png)
 
 19. Select the Calculation Node and click on <b>Data Preview</b> from the context menu.
     - Validate the values in <b>NETAMOUNT_TG</b> and <b>TARGET_CURRENCY</b>
