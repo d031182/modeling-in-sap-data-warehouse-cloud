@@ -85,7 +85,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Calculation Node with Currency Conversion 
         - Input Parameters 
         - Aggregation Node 
-    - [Exercise 4.9 - Create Story in SAP Analytics Cloud](exercises/ex3/create-story-in-sap-analytics-cloud)
+    - [Exercise 4.9 - Create Story in SAP Analytics Cloud] - <b><i>under construction !!!</i></b>
 
  
  - [Exercise 5 - Extended Internal Orders] - <b><i>under construction !!!</i></b>
