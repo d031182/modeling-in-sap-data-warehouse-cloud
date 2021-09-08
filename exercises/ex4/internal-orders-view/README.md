@@ -22,9 +22,22 @@
 <br>![](/exercises/ex4/images/create_internal_orders_ads_07.png)
 
 8. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
+<br>![](/exercises/ex4/images/create_internal_orders_ads_05.png)
+
+
+9. Find a select the view <b>V_VENDOR_PRODUCTS</b>
 <br>![](/exercises/ex4/images/create_internal_orders_ads_08.png)
-<br>![](/exercises/ex4/images/create_internal_orders_ads_09.png)
+
+10. Map the column <b>V_INTERNAL_ORDERS.PRODUCTID</b> with the column <b>V_VENDOR_PRODUCTS.PRODUCTID</b>
+<br>![](/exercises/ex4/images/create_internal_orders_ads_09.png
+
+11. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
+<br>![](/exercises/ex4/images/create_internal_orders_ads_05.png
+
+12. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
 <br>![](/exercises/ex4/images/create_internal_orders_ads_10.png)
+
+13. Map the column <b>V_INTERNAL_ORDERS.PRODUCTID</b> with the column <b>V_VENDOR_PRODUCTS.PRODUCTID</b>
 <br>![](/exercises/ex4/images/create_internal_orders_ads_11.png)
 
 ### Create Calculated Measures - Currency Conversion
