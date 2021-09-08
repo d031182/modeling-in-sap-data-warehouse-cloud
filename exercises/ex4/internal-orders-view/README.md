@@ -86,9 +86,13 @@
       <br><br>![](/exercises/ex4/images/create_internal_orders_ads_16.png)
 
 ### Set Measures
-
-<br>![](/exercises/ex4/images/create_internal_orders_ads_17.png)
-<br>![](/exercises/ex4/images/create_internal_orders_ads_18.png)
+19. Select the <i>Output Node</i> and change the following columns into measures:
+  - NETAMOUNT
+  - GROSSAMOUNT
+  - TAXAMOUNT
+  - QUANTITY
+  <br>![](/exercises/ex4/images/create_internal_orders_ads_17.png)
+  <br>![](/exercises/ex4/images/create_internal_orders_ads_18.png)
 
 ### Deploy
 9. Click on <b><i>deploy</i></b> button to deploy the view
