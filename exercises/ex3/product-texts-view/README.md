@@ -3,7 +3,7 @@
 Views of type <i>Text</i> are specific models that enable <b>multiple language support, typically for master data</b> in SAP Data Warehouse Cloud.
 Depends on the language configuration in the user profile, the data of the reports and stories will be displayed automatically in the corresponding language.
 
-The column which determines the language should comply with https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes, e.g. <b>en, de, fr</b>.
+The column which determines the language should comply with ISO 639-1 (https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes), e.g. <b>en, de, fr</b>.
 <br>Please note: for SAP ABAP systems, the one digit language will be automatically mapped against the iso codes and will work out of the box, too!
 
 ## Exercise
