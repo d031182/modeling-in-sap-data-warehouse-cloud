@@ -12,7 +12,7 @@
     - Expose for Consumption: <b>ON</b>
     <br><br>![](../images/create_internal_orders_ads_02.png)
 
-## Create Associations
+### Create Associations
 5. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
 <br>![](/exercises/ex4/images/create_internal_orders_ads_05.png)
 6. Find a select the view <b>V_VENDOR_PRODUCTS</b>
@@ -27,7 +27,7 @@
 <br>![](/exercises/ex4/images/create_internal_orders_ads_10.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_11.png)
 
-## Create Calculated Measures - Currency Conversion
+### Create Calculated Measures - Currency Conversion
 <br>![](/exercises/ex4/images/create_internal_orders_ads_12.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_13.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_14.png)
@@ -52,12 +52,12 @@ CONVERT_CURRENCY(
 
 <br>![](/exercises/ex4/images/create_internal_orders_ads_16.png)
 
-## Set Measures
+### Set Measures
 
 <br>![](/exercises/ex4/images/create_internal_orders_ads_17.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_18.png)
 
-## Deploy
+### Deploy
 9. Click on <b><i>deploy</i></b> button to deploy the view
 <br>![](/exercises/ex4/images/create_internal_orders_ads_29.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_30.png)
