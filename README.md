@@ -5,7 +5,7 @@ This repository aims to onboard new users into Modeling in SAP Data Warehouse Cl
 
 ## Overview
 
-"Learning by Doing" is the main principle of this tutorial. Discover and understand the features and modeling concepts by putting your hands on the SAP Data Warehouse Cloud application and build a fully functioning data model yourself. 
+<b>"Learning by Doing"</b> is the main principle of this tutorial. Discover and understand the features and modeling concepts by putting your hands on the SAP Data Warehouse Cloud application and build a fully functioning data model yourself. 
 
 The exercises are meant to be built in this particular order starting from basic concepts and diving step by step into deeper advanced features while processing with the exercises. The exercises are also based on each other. Hence, they prerequisite each other.
 
