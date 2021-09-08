@@ -1,6 +1,6 @@
 # Create <i>Product Texts</i> View
 ## Overview
-Views of type <i>Text</i> are a specific models that enable <b>multiple language support, typically for master data</b> in SAP Data Warehouse cloud.
+Views of type <i>Text</i> are specific models that enable <b>multiple language support, typically for master data</b> in SAP Data Warehouse cloud.
 
 ## Exercise
 1. Navigate to the Repository Explorer
