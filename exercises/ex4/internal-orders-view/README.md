@@ -12,30 +12,16 @@
     - Expose for Consumption: <b>ON</b>
     <br><br>![](../images/create_internal_orders_ads_02.png)
 
-
-  <br><br>![](/exercises/ex4/images/create_employee_dimension_04.png)
-6. Add a new <b>Parent Child Hieararchy</b> (aka Internal Hierarchy)
-  <br><br>![](/exercises/ex4/images/create_employee_dimension_05.png)
-7. Adjust the following properties:
-    - Business Name: <b>Employee Hierarchy</b>
-    - Technical Name: <b>EMP_HIER</b>
-    - Parent Column: <b>MANAGERID</b>
-    - Child Column: <b>EMPLOYEEID</b>
-  <br><br>![](/exercises/ex4/images/create_employee_dimension_06.png)
-8. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
-    <br><br>![](/exercises/ex4/images/create_employee_dimension_10.png)
-9. Click on <b><i>deploy</i></b> button to deploy the view
-  <br><br>![](/exercises/ex4/images/create_employee_dimension_08.png)
-
-
 ## Create Associations
 5. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
 <br>![](/exercises/ex4/images/create_internal_orders_ads_05.png)
 6. Find a select the view <b>V_VENDOR_PRODUCTS</b>
 <br>![](/exercises/ex4/images/create_internal_orders_ads_06.png)
 
-
+7. Map the column <b>V_INTERNAL_ORDERS.PRODUCTID</b> with the column <b>V_VENDOR_PRODUCTS.PRODUCTID</b>
 <br>![](/exercises/ex4/images/create_internal_orders_ads_07.png)
+
+8. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
 <br>![](/exercises/ex4/images/create_internal_orders_ads_08.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_09.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_10.png)
@@ -72,5 +58,6 @@ CONVERT_CURRENCY(
 <br>![](/exercises/ex4/images/create_internal_orders_ads_18.png)
 
 ## Deploy
+9. Click on <b><i>deploy</i></b> button to deploy the view
 <br>![](/exercises/ex4/images/create_internal_orders_ads_29.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_30.png)
