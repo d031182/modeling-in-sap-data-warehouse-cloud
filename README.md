@@ -29,7 +29,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 
 [![DWC_Free_Trial](/images/FreeDWCTrial.png)](https://saphanajourney.com/data-warehouse-cloud/trial/)
 
-
+## Table of Content
 ### SAP Data Warehouse Fundamentals
 - [Exercise 1 - SAP Data Warehouse Cloud Fundamentals](exercises/ex1)
      - [Exercise 1.1 - Repository Explorer] - <b><i>under construction !!!</i></b>
