@@ -83,7 +83,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
     - [Exercise 4.7 - Create Currency Precisions View (TCURX)](exercises/ex4/tcurx-currency-view)
     - [Exercise 4.8 - Create Internal Orders View](exercises/ex4/internal-orders-view)
         - Calculation Node with Currency Conversion 
-        - Input Parameters 
+        - Input Parameters - <b><i>under construction !!!</i></b>
         - Aggregation Node 
     - [Exercise 4.9 - Create Story in SAP Analytics Cloud] - <b><i>under construction !!!</i></b>
 
