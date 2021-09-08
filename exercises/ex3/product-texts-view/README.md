@@ -18,7 +18,9 @@
     <br>![](/exercises/ex3/images/create_product_texts_03.png)
  6. Click on <b><i>Edit Attributes</i></b> 
   <br>![](/exercises/ex3/images/create_product_texts_04.png)
- 7. In the Attributes Properties dialog  
+ 7. Adjust the attributes properties as the following:
+    - <b>LANGUAGE</b>: set the semantic usage to <b>LANAGUAGE</b>
+    - <b>   
   <br>![](/exercises/ex3/images/create_product_texts_05.png)
   <br>![](/exercises/ex3/images/create_product_texts_06.png)
   <br>![](/exercises/ex3/images/create_product_texts_07.png)
