@@ -14,10 +14,12 @@
     - Expose for Consumption: <b>ON</b>
     <br><br>![](/exercises/ex3/images/create_products_dimension_02.png)
 
-5. Add a new association from the <i>Association</i> section  
+5. Add a new <b>Text Association</b> from the <i>Association</i> section  
   <br><br>![](/exercises/ex3/images/create_products_dimension_04.png)
 
-6. efe  
-  <br>![](/exercises/ex3/images/create_products_dimension_05.png)
+6. Find and select the view <b>V_PRODUCT_TEXTS</b>
+  <br><br>![](/exercises/ex3/images/create_products_dimension_05.png)
+
+7. fef
   <br>![](/exercises/ex3/images/create_products_dimension_06.png)
   <br>![](/exercises/ex3/images/create_products_dimension_07.png)
