@@ -25,16 +25,17 @@
 <br>![](/exercises/ex4/images/create_internal_orders_ads_05.png)
 
 
-9. Find a select the view <b>V_VENDOR_PRODUCTS</b>
+9. Find a select the view <b>V_EMPLOYEES</b>
 <br>![](../images/create_internal_orders_ads_08.png)
 
-10. Map the column <b>V_INTERNAL_ORDERS.PRODUCTID</b> with the column <b>V_VENDOR_PRODUCTS.PRODUCTID</b>
+10. Map the column <b>V_INTERNAL_ORDERS.EMPLOYEEID</b> with the column <b>V_EMPLOYEES.EMPLOYEEID</b>
 <br>![](../images/create_internal_orders_ads_09.png
 
 11. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
 <br>![](../images/create_internal_orders_ads_05.png
 
-12. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
+
+9. Find a select the view <b>Time Dimension</b>
 <br>![](../images/create_internal_orders_ads_10.png)
 
 13. Map the column <b>V_INTERNAL_ORDERS.PRODUCTID</b> with the column <b>V_VENDOR_PRODUCTS.PRODUCTID</b>
