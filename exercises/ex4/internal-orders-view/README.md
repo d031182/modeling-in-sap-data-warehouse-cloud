@@ -36,7 +36,7 @@
 12. Find a select the view <b>SAP.TIME.VIEW_DIMENSION_DAY (Time Dimension-Day)</b>
 <br><br>![](../images/create_internal_orders_ads_10.png)
 
-13. Map the column <b>V_INTERNAL_ORDERS.CREAT_AT</b> with the column <b>SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL</b>
+13. Map the column <b>V_INTERNAL_ORDERS.CREATEDAT</b> with the column <b>SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL</b>
 <br><br>![](../images/create_internal_orders_ads_11.png)
 
 ### Create Calculated Measures - Currency Conversion
