@@ -19,7 +19,7 @@ And now enjoy the tutorial ;)<br>
 San Tran<br>
 Product Manager, SAP
 
-p.s. many thanks for Amogh Kulkarni who supported on creating the sample datasets.
+p.s. many thanks to Amogh Kulkarni who provided the sample datasets for exercises.
 
 ## Requirements
 Before you can start with the exercises, please make sure to get a running SAP Data Warehouse Cloud tenant with the latest updates.
