@@ -59,7 +59,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Geo Spatial
     - [Exercise 3.2 - Create Product Texts View](exercises/ex3/product-texts-view)
         - Text View 
-    - [Exercise 3.3 - Create Products View](exercises/ex3#products-view)
+    - [Exercise 3.3 - Create Products View](exercises/ex3/products-view)
         - Text Association   
     - [Exercise 3.4 - Generate Time Tables and Views](exercises/ex1/time-tables-views)
     - [Exercise 3.5 - Create Sales Orders View](exercises/ex3/sales-orders-view)
