@@ -28,7 +28,7 @@
 <br><br>![](../images/create_internal_orders_ads_08.png)
 
 10. Map the column <b>V_INTERNAL_ORDERS.EMPLOYEEID</b> with the column <b>V_EMPLOYEES.EMPLOYEEID</b>
-<br><br>![](../images/create_internal_orders_ads_09.png
+<br><br>![](../images/create_internal_orders_ads_09.png)
 
 11. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
 <br><br>![](../images/create_internal_orders_ads_05.png)
