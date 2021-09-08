@@ -53,7 +53,8 @@
     - Length: <b>3</b>
     - Expression: <b>'EUR'</b>
     <br><br>![](../images/create_internal_orders_ads_14.png)
-    
+
+17. Add another <b>Calculated Column</b>.
 <br>![](../images/create_internal_orders_ads_13.png)
 <br>![](../images/create_internal_orders_ads_15.png)
 
