@@ -58,8 +58,8 @@
 <br><br>![](../images/create_internal_orders_ads_13.png)
 
 18. Configure the Calculated Column as the following:
-    - Business Name: <b>NET_AMOUNT_TG</b>
-    - Technical Name: <b>NET_AMOUNT_TG</b>
+    - Business Name: <b>NETAMOUNT_TG</b>
+    - Technical Name: <b>NETAMOUNT_TG</b>
     - Data Type: <b>Decimal</b>
     - Length: <b>3</b>
     - Expression: 
@@ -80,8 +80,10 @@
       ```
       <br><br>![](../images/create_internal_orders_ads_15.png)
 
-
-<br><br>![](/exercises/ex4/images/create_internal_orders_ads_16.png)
+19. Select the Calculation Node and click on <b>Data Preview</b> from the context menu.
+    - Validate the values in <b>NETAMOUNT_TG</b> and <b>TARGET_CURRENCY</b>
+    - Compare the values between <b>NETAMOUNT</b> and <b>NETAMOUNT_TG</b>
+      <br><br>![](/exercises/ex4/images/create_internal_orders_ads_16.png)
 
 ### Set Measures
 
