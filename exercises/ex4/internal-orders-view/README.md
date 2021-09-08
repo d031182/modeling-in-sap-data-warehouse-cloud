@@ -54,25 +54,33 @@
     - Expression: <b>'EUR'</b>
     <br><br>![](../images/create_internal_orders_ads_14.png)
 
-17. Add another <b>Calculated Column</b>.
-<br>![](../images/create_internal_orders_ads_13.png)
-<br>![](../images/create_internal_orders_ads_15.png)
+17. Select the Calculation Node and add another <b>Calculated Column</b>.
+<br><br>![](../images/create_internal_orders_ads_13.png)
 
-```javascript
-CONVERT_CURRENCY(
-  "AMOUNT" => "NETAMOUNT", 
-  "SOURCE_UNIT" => "CURRENCY", 
-  "TARGET_UNIT" => 'EUR', 
-  "CONVERSION_TYPE" => 'M', 
-  "REFERENCE_DATE" => CURRENT_DATE, 
-  "CLIENT" => '002', "SCHEMA" => 'ZST_WORKSHOP', 
-  "ERROR_HANDLING" => 'set_to_null', 
-  "STEPS" => 'shift,convert,round', 
-  "PRECISIONS_TABLE" => 'V_TCURX', 
-  "CONFIGURATION_TABLE" => 'V_TCURV', 
-  "PREFACTORS_TABLE" => 'V_TCURF', 
-  "RATES_TABLE" => 'V_TCURR')
-```
+18. Configure the Calculated Column as the following:
+    - Business Name: <b>NET_AMOUNT_TG</b>
+    - Technical Name: <b>NET_AMOUNT_TG</b>
+    - Data Type: <b>Decimal</b>
+    - Length: <b>3</b>
+    - Expression: 
+      ```javascript
+      CONVERT_CURRENCY(
+        "AMOUNT" => "NETAMOUNT", 
+        "SOURCE_UNIT" => "CURRENCY", 
+        "TARGET_UNIT" => 'EUR', 
+        "CONVERSION_TYPE" => 'M', 
+        "REFERENCE_DATE" => CURRENT_DATE, 
+        "CLIENT" => '002', "SCHEMA" => 'ZST_WORKSHOP', 
+        "ERROR_HANDLING" => 'set_to_null', 
+        "STEPS" => 'shift,convert,round', 
+        "PRECISIONS_TABLE" => 'V_TCURX', 
+        "CONFIGURATION_TABLE" => 'V_TCURV', 
+        "PREFACTORS_TABLE" => 'V_TCURF', 
+        "RATES_TABLE" => 'V_TCURR')
+      ```
+      <br><br>![](../images/create_internal_orders_ads_15.png)
+
+
 
 <br>![](/exercises/ex4/images/create_internal_orders_ads_16.png)
 
