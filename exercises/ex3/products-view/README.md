@@ -6,13 +6,12 @@
    <br><br>![](/exercises/ex2/images/create_in_repository_explorer.png)
   
 3. Drag and drop the table <b><i>CSV_VendorProducts</i></b> into the canvas
-  <br><br>![](/exercises/ex3/images/create_products_dimension_01.png)
 4. Select the Output Node in the canvas and configure the following properties:
     - Business Name: <b>V_VENDOR_PRODUCTS</b>
     - Technical Name: <b>V_VENDOR_PRODUCTS</b>
     - Semantic Usage: <b>Dimension</b>
     - Expose for Consumption: <b>ON</b>
-    <br><br>![](/exercises/ex3/images/create_products_dimension_02.png)
+    <br><br>![](../images/create_products_dimension_02.png)
 
 
 
