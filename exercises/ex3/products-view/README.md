@@ -8,18 +8,16 @@
 3. Drag and drop the table <b><i>CSV_Products</i></b> into the canvas
    <br><br>![](../images/create_products_dimension_01.png)
 4. Select the Output Node in the canvas and configure the following properties:
-    - Business Name: <b>V_VENDOR_PRODUCTS</b>
-    - Technical Name: <b>V_VENDOR_PRODUCTS</b>
+    - Business Name: <b>V_PRODUCTS</b>
+    - Technical Name: <b>V_PRODUCTS</b>
     - Semantic Usage: <b>Dimension</b>
     - Expose for Consumption: <b>ON</b>
     <br><br>![](/exercises/ex3/images/create_products_dimension_02.png)
 
-5. ffe
+5. Add a new association from the <i>Association</i> section  
+  <br><br>![](/exercises/ex3/images/create_products_dimension_04.png)
 
-
-
- 
-  <br>![](/exercises/ex3/images/create_products_dimension_04.png)
+6. efe  
   <br>![](/exercises/ex3/images/create_products_dimension_05.png)
   <br>![](/exercises/ex3/images/create_products_dimension_06.png)
   <br>![](/exercises/ex3/images/create_products_dimension_07.png)
