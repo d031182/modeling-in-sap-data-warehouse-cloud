@@ -1,5 +1,7 @@
 # Create <i>Product Texts</i> View
+## Overview
 
+## Exercise
 1. Navigate to the Repository Explorer
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
   <br><br>![](/exercises/ex2/images/create_in_repository_explorer.png)<br><br>
