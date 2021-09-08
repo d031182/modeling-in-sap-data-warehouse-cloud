@@ -51,8 +51,9 @@
     - Technical Name: <b>TARGET_CURRENCY</b>
     - Data Type: <b>String</b>
     - Length: <b>3</b>
-    - Expression: <b>ON</b>
-<br>![](../images/create_internal_orders_ads_14.png)
+    - Expression: <b>'EUR'</b>
+    <br><br>![](../images/create_internal_orders_ads_14.png)
+    
 <br>![](../images/create_internal_orders_ads_13.png)
 <br>![](../images/create_internal_orders_ads_15.png)
 
