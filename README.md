@@ -11,8 +11,7 @@ The exercises are meant to be built in this particular order starting from basic
 
 
 
-Please be aware, when creating this tutorial features might be updated or replaced in SAP Data Warehouse Cloud. 
-Nonetheless, I hope it still give you a solid understanding on the fundamental concepts in modeling. 
+In general, you should be aware that SAP Data Warehouse is constantly delivering and updating features. That means, that some of the described features might be outdated and look differently than from your latest version (for that please also check regularly the "What's New" and the SAP Roadmaps in the links section). Nonetheless, I hope it still give you a solid understanding and insights into the fundamental modeling principles of SAP Data Warehouse Cloud.. 
 
 And now enjoy the tutorial ;) 
 
