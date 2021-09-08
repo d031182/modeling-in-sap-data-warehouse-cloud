@@ -5,7 +5,7 @@
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
    <br><br>![](/exercises/ex2/images/create_in_repository_explorer.png)
   
-3. Drag and drop the table <b><i>CSV_PRODUCTS</i></b> into the canvas
+3. Drag and drop the table <b><i>CSV_Products</i></b> into the canvas
    <br><br>![](../images/create_products_dimension_03.png)
 4. Select the Output Node in the canvas and configure the following properties:
     - Business Name: <b>V_VENDOR_PRODUCTS</b>
