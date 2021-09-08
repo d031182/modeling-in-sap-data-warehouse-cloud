@@ -67,7 +67,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Projection Node
         - Filter Node
         - Associations
-    - [Exercise 3.7 - Create Story in SAP Analytics Cloud](exercises/ex3/create-story-in-sap-analytics-cloud)
+    - [Exercise 3.6 - Create Story in SAP Analytics Cloud] - <b><i>under construction !!!</i></b>
     - 
 - [Exercise 4 - Internal Orders](exercises/ex4/)
     - [Exercise 4.1 - Create Employee View](exercises/ex4/employees-view)
