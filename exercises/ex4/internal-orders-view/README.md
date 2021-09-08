@@ -33,10 +33,10 @@
 11. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
 <br><br>![](../images/create_internal_orders_ads_05.png)
 
-12. Find a select the view <b>Time Dimension</b>
+12. Find a select the view <b>SAP.TIME.VIEW_DIMENSION_DAY (Time Dimension-Day)</b>
 <br><br>![](../images/create_internal_orders_ads_10.png)
 
-13. Map the column <b>V_INTERNAL_ORDERS.PRODUCTID</b> with the column <b>V_VENDOR_PRODUCTS.PRODUCTID</b>
+13. Map the column <b>V_INTERNAL_ORDERS.CREAT_AT</b> with the column <b>SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL</b>
 <br><br>![](../images/create_internal_orders_ads_11.png)
 
 ### Create Calculated Measures - Currency Conversion
