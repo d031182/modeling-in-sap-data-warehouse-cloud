@@ -14,8 +14,11 @@
  5. Set the <b>primary keys</b> to:
     - <b>PRODUCTID</b>
     - <b>LANGUAGE</b> 
+    <br>
     <br>![](/exercises/ex3/images/create_product_texts_03.png)
+ 6. Click on <b><i>Edit Attributes</i></b> 
   <br>![](/exercises/ex3/images/create_product_texts_04.png)
+ 7. In the Attributes Properties dialog  
   <br>![](/exercises/ex3/images/create_product_texts_05.png)
   <br>![](/exercises/ex3/images/create_product_texts_06.png)
   <br>![](/exercises/ex3/images/create_product_texts_07.png)
