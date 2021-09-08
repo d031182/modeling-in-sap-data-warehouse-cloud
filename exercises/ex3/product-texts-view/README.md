@@ -3,6 +3,9 @@
 Views of type <i>Text</i> are specific models that enable <b>multiple language support, typically for master data</b> in SAP Data Warehouse cloud.
 Depends on the language configuration in the user profile, the data of the reports and stories will be displayed automatically in the corresponding language.
 
+The column which determines the language should comply with https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes, e.g. en, de, fr.
+Please note: for SAP ABAP systems, the one digit language will be automatically mapped against the iso codes!
+
 ## Exercise
 1. Navigate to the Repository Explorer
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
@@ -25,7 +28,7 @@ Depends on the language configuration in the user profile, the data of the repor
  7. Adjust the attributes properties as the following:
     - <b>LANGUAGE</b>: set the semantic usage to <b>Language</b>
     - <b>MEDIUM_DESCR</b>: set the semantic usage to <b>Text</b>
-    - <b>PRODUCTID</b>: set label to <b>MEDIUM_DESCR</b>   
+    - <b>PRODUCTID</b>: set label to <b>MEDIUM_DESCR</b>  
     <br>![](/exercises/ex3/images/create_product_texts_06.png)
  8. Select the Output node in the canvas, and click on <b>Data Preview</b> from the context menu to display the data of the view. 
     <br><br>![](/exercises/ex3/images/create_product_texts_07.png)
