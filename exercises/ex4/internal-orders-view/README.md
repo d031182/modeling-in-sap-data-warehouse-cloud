@@ -46,6 +46,12 @@
 15. Select the Calculation Node and add a new <b>Calculated Column</b>.
 <br>![](../images/create_internal_orders_ads_13.png)
 
+16. Configure the Calculated Column as the following:
+    - Business Name: <b>TARGET_CURRENCY</b>
+    - Technical Name: <b>TARGET_CURRENCY</b>
+    - Data Type: <b>String</b>
+    - Length: <b>3</b>
+    - Expression: <b>ON</b>
 <br>![](../images/create_internal_orders_ads_14.png)
 <br>![](../images/create_internal_orders_ads_13.png)
 <br>![](../images/create_internal_orders_ads_15.png)
