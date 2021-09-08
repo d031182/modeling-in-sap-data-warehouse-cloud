@@ -49,7 +49,7 @@
 16. Configure the Calculated Column as the following:
     - Business Name: <b>TARGET_CURRENCY</b>
     - Technical Name: <b>TARGET_CURRENCY</b>
-    - Data Type: <b>String</b>
+    - Data Type: <b>Double</b>
     - Length: <b>3</b>
     - Expression: <b>'EUR'</b>
     <br><br>![](../images/create_internal_orders_ads_14.png)
@@ -81,8 +81,7 @@
       <br><br>![](../images/create_internal_orders_ads_15.png)
 
 
-
-<br>![](/exercises/ex4/images/create_internal_orders_ads_16.png)
+<br><br>![](/exercises/ex4/images/create_internal_orders_ads_16.png)
 
 ### Set Measures
 
