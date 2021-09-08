@@ -92,11 +92,10 @@
   - GROSSAMOUNT
   - TAXAMOUNT
   - QUANTITY</b>
- 
-  <br><br>![](/exercises/ex4/images/create_internal_orders_ads_17.png)
+  <br>![](/exercises/ex4/images/create_internal_orders_ads_17.png)
   <br>![](/exercises/ex4/images/create_internal_orders_ads_18.png)
 
 ### Deploy
 9. Click on <b><i>deploy</i></b> button to deploy the view
-<br>![](/exercises/ex4/images/create_internal_orders_ads_29.png)
+<br><br>![](/exercises/ex4/images/create_internal_orders_ads_29.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_30.png)
