@@ -40,7 +40,10 @@
 <br><br>![](../images/create_internal_orders_ads_11.png)
 
 ### Create Calculated Measures - Currency Conversion
-<br>![](../images/create_internal_orders_ads_12.png)
+14. Select the source node <b>CSV_InternalOrders</b> and add a new Calculation Node from the context menu
+<br><br>![](../images/create_internal_orders_ads_12.png)
+
+
 <br>![](../images/create_internal_orders_ads_13.png)
 <br>![](../images/create_internal_orders_ads_14.png)
 <br>![](../images/create_internal_orders_ads_13.png)
