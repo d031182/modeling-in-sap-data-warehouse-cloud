@@ -43,6 +43,9 @@
     <br><br>![](/exercises/ex3/images/create_business_partner_dimension_17.png)
 
 ### Projection Node
+
+ <br><br>![](/exercises/ex3/images/create_business_partner_dimension_17.png)
+
   
 ### Id and Text
 11. Select the <i>Output Node</i> and navigate to the <i>Attributes</i> section and click on <b>Edit Attriutes</b> button:
