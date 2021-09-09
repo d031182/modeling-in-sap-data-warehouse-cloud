@@ -26,7 +26,7 @@
 8. Select the <b>Join Node</b> and map the column <b>CSV_BusinessPartners.ADDRESSID</b> with the column <b>CSV_Addresses.ADDRESSID</b>
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_16.png)
 
-9. Furthermore, you can adjust the <i>Join Type</i>. Following Join Types are currently supported:
+9. Furthermore, you can adjust the **<i>Join Type</i>**. Following Join Types are currently supported:
     - Inner Join
     - Left Join
     - Right Join
