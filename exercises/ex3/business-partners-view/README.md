@@ -34,10 +34,15 @@
 9. dwdw
   <br>![](/exercises/ex3/images/create_business_partner_dimension_07.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_08.png)
+  
+### Data Preview
   <br>![](/exercises/ex3/images/create_business_partner_dimension_09.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_10.png)
+  
+### Geo Spatial
   <br>![](/exercises/ex3/images/create_business_partner_dimension_11.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_12.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_13.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_14.png)
+## Deployment
   <br>![](/exercises/ex3/images/create_business_partner_dimension_15.png)
