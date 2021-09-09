@@ -22,6 +22,12 @@
 6. Create <i>Join Node</i> between CSV_BusinessPartners and CSV_Addresses
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_04.png)
 
+7. Map the column <b>V_BUSINESS_PARTNERS.ADDRESSID</b> with the column <b>V_ADDRESSES.ADDRESSID</b>
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_16.png)
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_17.png)
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_18.png)
+
+  
 ### Id and Text
 7. Select the <i>Output Node</i> and navigate to the <i>Attributes</i> section and click on <b>Edit Attriutes</b> button:
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_05.png)
