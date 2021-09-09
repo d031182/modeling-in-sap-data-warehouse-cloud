@@ -22,7 +22,7 @@
 6. Create <i>Join Node</i> between CSV_BusinessPartners and CSV_Addresses
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_04.png)
 
-7. Map the column <b>V_BUSINESS_PARTNERS.ADDRESSID</b> with the column <b>V_ADDRESSES.ADDRESSID</b>
+7. Map the column <b>CSV_BusinessPartners.ADDRESSID</b> with the column <b>CSV_Addresses.ADDRESSID</b>
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_16.png)
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_17.png)
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_18.png)
