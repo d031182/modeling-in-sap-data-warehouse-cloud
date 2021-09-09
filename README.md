@@ -57,6 +57,8 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Join Node  
         - Level Based Hierarchy 
         - Geo Spatial
+        - Data Preview
+        - View Deployment
     - [Exercise 3.2 - Create Product Texts View](exercises/ex3/product-texts-view)
         - Text View 
     - [Exercise 3.3 - Create Products View](exercises/ex3/products-view)
