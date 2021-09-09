@@ -47,4 +47,4 @@
   <br>![](/exercises/ex3/images/create_business_partner_dimension_14.png)
 ### Deployment
 14. Click on <b>Deploy</b> button to deploy the view
-  <br>![](/exercises/ex3/images/create_business_partner_dimension_15.png)
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_15.png)
