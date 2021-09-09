@@ -20,13 +20,13 @@
 6. Select from the context menu <b>Join</b>
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_03.png)
 
-6. A new <b>Join Node</b> and a <b>Projection Node</b> will created
+7. A new <b>Join Node</b> and a <b>Projection Node</b> will created
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_04.png)
 
-7. Map the column <b>CSV_BusinessPartners.ADDRESSID</b> with the column <b>CSV_Addresses.ADDRESSID</b>
+8. Select the <b>Join Node</b> and map the column <b>CSV_BusinessPartners.ADDRESSID</b> with the column <b>CSV_Addresses.ADDRESSID</b>
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_16.png)
 
-8. Furthermore, you can adjust the <i>Join Type</i>. Following Join Types are currently supported:
+9. Furthermore, you can adjust the <i>Join Type</i>. Following Join Types are currently supported:
     - Inner Join
     - Left Join
     - Right Join
@@ -34,25 +34,26 @@
     - Cross Join
       <br><br>![](/exercises/ex3/images/create_business_partner_dimension_18.png)
 
-9. You can also set the join cardinality:
+10. You can also set the join cardinality:
     - Exactly One (1)
     - One (0..1)
     - Many (*)
   
     The cardinality information is utilized in SAP HANA Cloud to optimize the query execution and for that also the overall performance.
     <br><br>![](/exercises/ex3/images/create_business_partner_dimension_17.png)
-  
+
+### Projection Node
   
 ### Id and Text
-7. Select the <i>Output Node</i> and navigate to the <i>Attributes</i> section and click on <b>Edit Attriutes</b> button:
+11. Select the <i>Output Node</i> and navigate to the <i>Attributes</i> section and click on <b>Edit Attriutes</b> button:
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_05.png)
-8. Adjust the following attribute properties:
+12. Adjust the following attribute properties:
     - <b>COMPANYNAME</b>: set the semantic type to <b>TEXT</b>
     - <b>PARTNERID</b>: set the label to <b>COMPANYNAME</b>
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_06.png)
 
 ### Level Based Hierarchy
-9. dwdw
+13. dwdw
   <br>![](/exercises/ex3/images/create_business_partner_dimension_07.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_08.png)
   
@@ -67,5 +68,5 @@
   <br>![](/exercises/ex3/images/create_business_partner_dimension_13.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_14.png)
 ### Deployment
-14. Click on <b>Deploy</b> button to deploy the view
+15. Click on <b>Deploy</b> button to deploy the view
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_15.png)
