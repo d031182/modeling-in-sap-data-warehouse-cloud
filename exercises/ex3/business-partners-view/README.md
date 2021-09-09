@@ -16,10 +16,11 @@
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_02.png)
 
 ### Join Node
-5. Drag and drop the table <b><i>CSV_Addresses</i></b> into the canvas 
+5. Drag and drop the table <b><i>CSV_Addresses</i></b> into the canvas and drop it directly on the CSV_BusinessPartners Node.
+6. Select from the context menu <b>Join</b>
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_03.png)
 
-6. Create <i>Join Node</i> between CSV_BusinessPartners and CSV_Addresses
+6. A new <b>Join Node</b> and a <b>Projection Node</b> will created
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_04.png)
 
 7. Map the column <b>CSV_BusinessPartners.ADDRESSID</b> with the column <b>CSV_Addresses.ADDRESSID</b>
@@ -37,8 +38,9 @@
     - Exactly One (1)
     - One (0..1)
     - Many (*)
-  The cardinality information is utilized in SAP HANA Cloud to optimize the query execution and for that also the overall performance.
-  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_17.png)
+  
+    The cardinality information is utilized in SAP HANA Cloud to optimize the query execution and for that also the overall performance.
+    <br><br>![](/exercises/ex3/images/create_business_partner_dimension_17.png)
   
   
 ### Id and Text
