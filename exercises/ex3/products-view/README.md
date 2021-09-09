@@ -15,7 +15,7 @@
     <br><br>![](../images/create_products_dimension_02.png)
 
 5. Add a new <b>Text Association</b> from the <i>Association</i> section  
-  <br><br>![](../images/create_products_dimension_04.png)
+  <br>![](../images/create_products_dimension_04.png)
 
 6. Find and select the view <b>V_PRODUCT_TEXTS</b>
   <br><br>![](../images/create_products_dimension_05.png)
