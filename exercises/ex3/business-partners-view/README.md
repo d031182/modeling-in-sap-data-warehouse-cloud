@@ -24,9 +24,22 @@
 
 7. Map the column <b>CSV_BusinessPartners.ADDRESSID</b> with the column <b>CSV_Addresses.ADDRESSID</b>
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_16.png)
-  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_17.png)
-  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_18.png)
 
+8. Furthermore, you can adjust the <i>Join Type</i>. Following Join Types are currently supported:
+    - Inner Join
+    - Left Join
+    - Right Join
+    - Full Outer Join 
+    - Cross Join
+      <br><br>![](/exercises/ex3/images/create_business_partner_dimension_18.png)
+
+9. You can also set the join cardinality:
+    - Exactly One (1)
+    - One (0..1)
+    - Many (*)
+  The cardinality information is utilized in SAP HANA Cloud to optimize the query execution and for that also the overall performance.
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_17.png)
+  
   
 ### Id and Text
 7. Select the <i>Output Node</i> and navigate to the <i>Attributes</i> section and click on <b>Edit Attriutes</b> button:
