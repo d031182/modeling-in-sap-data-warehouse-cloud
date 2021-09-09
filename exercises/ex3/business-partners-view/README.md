@@ -9,11 +9,18 @@
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_01.png)
   
 4. Select the Output Node in the canvas and configure the following properties:
+    - Business Name: <b>V_BUSINESS_PARTNERS</b>
+    - Technical Name: <b>V_BUSINESS_PARTNERS</b>
+    - Semantic Usage: <b>Dimension</b>
+    - Expose for Consumption: <b>ON</b>
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_02.png)
   
-  
-  <br>![](/exercises/ex3/images/create_business_partner_dimension_03.png)
-  <br>![](/exercises/ex3/images/create_business_partner_dimension_04.png)
+5. Drag and drop the table <b><i>CSV_Addresses</i></b> into the canvas 
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_03.png)
+
+6. Create <i>Join Node</i> between CSV_BusinessPartners and CSV_Addresses
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_04.png)
+
   <br>![](/exercises/ex3/images/create_business_partner_dimension_05.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_06.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_07.png)
