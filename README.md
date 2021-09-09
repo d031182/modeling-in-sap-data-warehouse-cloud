@@ -55,6 +55,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Dimension View
         - ID + Text Semantic
         - Join Node  
+        - Projection Node
         - Level Based Hierarchy 
         - Geo Spatial
         - Data Preview
@@ -66,7 +67,6 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
     - [Exercise 3.4 - Generate Time Tables and Views](exercises/ex1/time-tables-views)
     - [Exercise 3.5 - Create Sales Orders View](exercises/ex3/sales-orders-view)
         - Analytical Dataset View
-        - Projection Node
         - Filter Node
         - Associations
     - [Exercise 3.6 - Create Story in SAP Analytics Cloud] - <b><i>under construction !!!</i></b>
