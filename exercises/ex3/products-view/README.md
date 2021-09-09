@@ -21,7 +21,7 @@
   <br><br>![](../images/create_products_dimension_05.png)
 
 7. Map the column <b>V_PRODUCTS.PRODUCTID</b> and column <b>V_PRODUCT_TEXTS.PRODUCTID</b>
-  <br>![](../images/create_products_dimension_06.png)
+  <br><br>![](../images/create_products_dimension_06.png)
 
 8. Click on <b><i>deploy</i></b> button to deploy the view
   <br><br>![](../images/create_products_dimension_07.png)
