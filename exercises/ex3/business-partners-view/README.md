@@ -21,8 +21,16 @@
 6. Create <i>Join Node</i> between CSV_BusinessPartners and CSV_Addresses
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_04.png)
 
-  <br>![](/exercises/ex3/images/create_business_partner_dimension_05.png)
-  <br>![](/exercises/ex3/images/create_business_partner_dimension_06.png)
+### Id and Text
+7. Select the <i>Output Node</i> and navigate to the <i>Attributes</i> section and click on <b>Edit Attriutes</b> button:
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_05.png)
+8. Adjust the following attribute properties:
+    - <b>COMPANYNAME</b>: set the semantic type to <b>TEXT</b>
+    - <b>PARTNERID</b>: set the label to <b>COMPANYNAME</b>
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_06.png)
+
+### Level Based Hierarchy
+9. dwdw
   <br>![](/exercises/ex3/images/create_business_partner_dimension_07.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_08.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_09.png)
