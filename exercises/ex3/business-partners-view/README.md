@@ -44,7 +44,7 @@
 
 ### Projection Node
 
- <br><br>![](/exercises/ex3/images/create_business_partner_dimension_17.png)
+ <br><br>![](/exercises/ex3/images/create_business_partner_dimension_19.png)
 
   
 ### Id and Text
