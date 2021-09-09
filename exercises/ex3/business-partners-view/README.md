@@ -14,7 +14,8 @@
     - Semantic Usage: <b>Dimension</b>
     - Expose for Consumption: <b>ON</b>
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_02.png)
-  
+
+### Join Node
 5. Drag and drop the table <b><i>CSV_Addresses</i></b> into the canvas 
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_03.png)
 
