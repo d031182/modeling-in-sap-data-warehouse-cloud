@@ -43,7 +43,7 @@
     <br><br>![](/exercises/ex3/images/create_business_partner_dimension_17.png)
 
 ### Projection Node
-With the projection node, you can exclude or restore fields from your model. Hence, they won't be available nor consumpable on the client side, such as SAP Analytics Cloud. 
+With the projection node, you can exclude or restore columns from your model. Hence, they won't be available nor consumpable on the client side, such as SAP Analytics Cloud. 
 
 11. Select the **Projection Node** and exclude the **FAXNUMBER** from the Node. 
  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_19.png)
