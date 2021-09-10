@@ -29,7 +29,7 @@
   <br>![](/exercises/ex3/images/create_sales_orders_ads_12.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_13.png)
   
-Deploy
+
 12. Click on **Deploy** button to deploy the view
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_14.png)
 
