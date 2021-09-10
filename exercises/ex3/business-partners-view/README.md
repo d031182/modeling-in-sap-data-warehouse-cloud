@@ -70,7 +70,6 @@ With the projection node, you can exclude or restore columns from your model. He
       - **REGION**
       - **COUNTRY**
       - **CITY**
-      
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_09.png)
 ### Data Preview
   <br>![](/exercises/ex3/images/create_business_partner_dimension_10.png)
