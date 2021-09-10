@@ -64,8 +64,8 @@ With the projection node, you can exclude or restore columns from your model. He
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_08.png)
   
 15. Adjust the Hierarchy as following: 
-   - Business Name: <b>V_BUSINESS_PARTNERS</b>
-   - Technical Name: <b>V_BUSINESS_PARTNERS</b>
+   - Business Name: <b>Hierarchy</b>
+   - Technical Name: <b>Hierarchy</b>
    - Levels: 
       - **REGION**
       - **COUNTRY**
