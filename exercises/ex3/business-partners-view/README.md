@@ -72,6 +72,7 @@ With the projection node, you can exclude or restore columns from your model. He
       - **CITY**
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_09.png)
 ### Data Preview
+16. Select the *Output Node* and click on **Data Preview** from the context menu.
   <br>![](/exercises/ex3/images/create_business_partner_dimension_10.png)
   
 ### Geo Spatial
