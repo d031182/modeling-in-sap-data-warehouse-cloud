@@ -37,7 +37,7 @@
   <br>![](/exercises/ex3/images/create_sales_orders_ads_12.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_13.png)
 
-### Set the measures
+### Analytical Dataset
 13. Select the Output Node in the canvas and configure the following properties:
   - Business Name: **V_SALES_ORDERS**
   - Technical Name: **V_SALES_ORDERS**
