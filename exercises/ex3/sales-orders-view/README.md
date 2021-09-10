@@ -39,9 +39,8 @@
   - **NETAMOUNT**
   - **TAXAMOUNT**
   - **QUANTITY**
-
-  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_17.png)
-  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_07.png)
+    <br>![](/exercises/ex3/images/create_sales_orders_ads_17.png)
+    <br><br>![](/exercises/ex3/images/create_sales_orders_ads_07.png)
   
 15. Click on **Deploy** button to deploy the view
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_14.png)
