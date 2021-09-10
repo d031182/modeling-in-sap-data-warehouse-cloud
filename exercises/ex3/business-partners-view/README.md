@@ -78,10 +78,16 @@ With the projection node, you can exclude or restore columns from your model. He
 ### Geo Spatial
 17. Select the *Projection Node* and add a new **Calculation Node** from the context menu
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_11.png)
-18. Add a new **Geo-Coordinates Column**  
+18. Add a new **Geo-Coordinates Column**.
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_12.png)
-19. dwdw
-  <br>![](/exercises/ex3/images/create_business_partner_dimension_13.png)
+19. Adjust the Calculated Column as following:
+  - Business Name: **LOCATION**
+  - Technical Name: **LOCATION**
+  - Data Type: **hana.ST_GEOMETRY
+  - Spatial Reference Identifier: **4326**
+  - Latitude: **LATITUDE**
+  - Longitude: **LOGITUDE** 
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_13.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_14.png)
 ### Deployment
 15. Click on <b>Deploy</b> button to deploy the view
