@@ -15,9 +15,9 @@
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_04.png)
 
 8. Adjust the filter as the following:
-  - Name: **Filter 1**
-  - Expression: **SALESORG in ('EMEA', 'AMER')**
-    <br><br>![](/exercises/ex3/images/create_sales_orders_ads_05.png)
+    - Name: **Filter 1**
+    - Expression: **SALESORG in ('EMEA', 'AMER')**
+      <br><br>![](/exercises/ex3/images/create_sales_orders_ads_05.png)
   
   
   <br>![](/exercises/ex3/images/create_sales_orders_ads_06.png)
@@ -28,11 +28,8 @@
   <br>![](/exercises/ex3/images/create_sales_orders_ads_11.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_12.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_13.png)
-  <br>![](/exercises/ex3/images/create_sales_orders_ads_14.png)
-
-
-
-Now that you have ... 
-
-Back to content - [Content](../../README.md)
+  
+Deploy
+12. Click on **Deploy** button to deploy the view
+  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_14.png)
 
