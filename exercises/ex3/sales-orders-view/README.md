@@ -19,9 +19,9 @@
     - Expression: **SALESORG in ('EMEA', 'AMER')**
       <br><br>![](/exercises/ex3/images/create_sales_orders_ads_05.png)
   
-  
-  <br>![](/exercises/ex3/images/create_sales_orders_ads_06.png)
-  <br>![](/exercises/ex3/images/create_sales_orders_ads_07.png)
+
+### Association
+
   <br>![](/exercises/ex3/images/create_sales_orders_ads_08.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_09.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_10.png)
@@ -29,7 +29,8 @@
   <br>![](/exercises/ex3/images/create_sales_orders_ads_12.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_13.png)
   
-
+  <br>![](/exercises/ex3/images/create_sales_orders_ads_06.png)
+  <br>![](/exercises/ex3/images/create_sales_orders_ads_07.png)
 12. Click on **Deploy** button to deploy the view
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_14.png)
 
