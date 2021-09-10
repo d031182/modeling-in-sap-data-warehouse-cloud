@@ -3,11 +3,10 @@
 2. Click on Create - Graphical View Button to create a new view
   <br><br>![](/exercises/ex2/images/create_in_repository_explorer.png)
 
-
-
-### Join Node
 3. Drag and drop the table **CSV_SalesOrderItems** into the canvas
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_01.png)
+
+### Join Node
 
 4. Drag and drop the table **CSV_SalesOrders** into the canvas and drop it on the *CSV_SalesOrderItems**
 5. Create a new **Join Node** from the context menu 
@@ -50,4 +49,5 @@
   
 15. Click on **Deploy** button to deploy the view
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_14.png)
+    <br><br>![](/exercises/ex3/images/create_sales_orders_ads_06.png)
 
