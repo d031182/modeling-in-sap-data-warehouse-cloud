@@ -73,10 +73,12 @@ With the projection node, you can exclude or restore columns from your model. He
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_09.png)
 ### Data Preview
 16. Select the *Output Node* and click on **Data Preview** from the context menu.
-  <br>![](/exercises/ex3/images/create_business_partner_dimension_10.png)
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_10.png)
   
 ### Geo Spatial
-  <br>![](/exercises/ex3/images/create_business_partner_dimension_11.png)
+17. Select the *Projection Node* and add a new **Calculation Node** from the context menu
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_11.png)
+18. vrrfr  
   <br>![](/exercises/ex3/images/create_business_partner_dimension_12.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_13.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_14.png)
