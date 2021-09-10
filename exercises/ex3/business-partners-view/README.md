@@ -78,7 +78,7 @@ With the projection node, you can exclude or restore columns from your model. He
 ### Geo Spatial
 17. Select the *Projection Node* and add a new **Calculation Node** from the context menu
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_11.png)
-18. vrrfr  
+18. Add a **Calculated Geo Column**  
   <br>![](/exercises/ex3/images/create_business_partner_dimension_12.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_13.png)
   <br>![](/exercises/ex3/images/create_business_partner_dimension_14.png)
