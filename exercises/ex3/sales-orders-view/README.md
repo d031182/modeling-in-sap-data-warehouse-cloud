@@ -38,6 +38,12 @@
   <br>![](/exercises/ex3/images/create_sales_orders_ads_13.png)
 
 ### Set the measures
+13. Select the Output Node in the canvas and configure the following properties:
+  - Business Name: **V_SALES_ORDERS**
+  - Technical Name: **V_SALES_ORDERS**
+  - Semantic Usage: **Analytical Dataset**
+  - Expose for Consumption: **ON**
+    <br><br>![](/exercises/ex3/images/create_sales_orders_ads_06.png)
 
 14. In the *Output Node* change the following attributes to **Measure**:
   - **GROSSAMOUNT**
@@ -49,5 +55,5 @@
   
 15. Click on **Deploy** button to deploy the view
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_14.png)
-    <br><br>![](/exercises/ex3/images/create_sales_orders_ads_06.png)
+
 
