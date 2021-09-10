@@ -59,19 +59,19 @@ With the projection node, you can exclude or restore columns from your model. He
 
 ### Level Based Hierarchy
 13. Select the *Output Node* and open the **Hierarchy** Dialog
-  <br>![](/exercises/ex3/images/create_business_partner_dimension_07.png)
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_07.png)
 14. Add a new **Level Based Hierarchy**  
-  <br>![](/exercises/ex3/images/create_business_partner_dimension_08.png)
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_08.png)
   
 15. Adjust the Hierarchy as following: 
    - Business Name: <b>V_BUSINESS_PARTNERS</b>
-    - Technical Name: <b>V_BUSINESS_PARTNERS</b>
-    - Levels: 
-        - **REGION**
-        - **Country**
-        - **City**
-
-  <br>![](/exercises/ex3/images/create_business_partner_dimension_09.png)
+   - Technical Name: <b>V_BUSINESS_PARTNERS</b>
+   - Levels: 
+      - **REGION**
+      - **COUNTRY**
+      - **CITY**
+      
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_09.png)
 ### Data Preview
   <br>![](/exercises/ex3/images/create_business_partner_dimension_10.png)
   
