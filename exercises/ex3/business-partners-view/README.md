@@ -86,7 +86,7 @@ With the projection node, you can exclude or restore columns from your model. He
     - Data Type: **hana.ST_GEOMETRY
     - Spatial Reference Identifier: **4326**
     - Latitude: **LATITUDE**
-    - Longitude: **LOGITUDE** 
+    - Longitude: **LONGITUDE** 
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_13.png)
 
 ### Deployment
