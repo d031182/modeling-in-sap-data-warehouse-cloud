@@ -3,14 +3,20 @@
 2. Click on Create - Graphical View Button to create a new view
   <br><br>![](/exercises/ex2/images/create_in_repository_explorer.png)
 
+
+
+### Join Node
 3. Drag and drop the table **CSV_SalesOrderItems** into the canvas
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_01.png)
-  
+
 4. Drag and drop the table **CSV_SalesOrders** into the canvas and drop it on the *CSV_SalesOrderItems**
 5. Create a new **Join Node** from the context menu 
 6. Map the column **CSV_SalesOrderItems.SALESORDERID** with the column **CSV_SalesOrders.SALESORDERID**
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_02.png)
 
+  
+
+### Filter Node
 7. Select the *Projection Node* and add a new **Filter Node**
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_04.png)
 
@@ -33,13 +39,13 @@
   <br>![](/exercises/ex3/images/create_sales_orders_ads_13.png)
 
 ### Set the measures
-  <br>![](/exercises/ex3/images/create_sales_orders_ads_06.png)
+
 14. In the *Output Node* change the following attributes to **Measure**:
   - **GROSSAMOUNT**
   - **NETAMOUNT**
   - **TAXAMOUNT**
   - **QUANTITY**
-    <br>![](/exercises/ex3/images/create_sales_orders_ads_17.png)
+    <br><br>![](/exercises/ex3/images/create_sales_orders_ads_17.png)
     <br><br>![](/exercises/ex3/images/create_sales_orders_ads_07.png)
   
 15. Click on **Deploy** button to deploy the view
