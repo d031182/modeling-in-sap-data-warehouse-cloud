@@ -18,8 +18,10 @@
     - Name: **Filter 1**
     - Expression: **SALESORG in ('EMEA', 'AMER')**
       <br><br>![](/exercises/ex3/images/create_sales_orders_ads_05.png)
-  
-
+      
+9. Select the *Filter Node* and click on **Data Preview** from the context menu  
+      <br><br>![](/exercises/ex3/images/create_sales_orders_ads_15.png) 
+ 
 ### Association
 
   <br>![](/exercises/ex3/images/create_sales_orders_ads_08.png)
