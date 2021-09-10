@@ -23,16 +23,24 @@
       <br><br>![](/exercises/ex3/images/create_sales_orders_ads_15.png) 
  
 ### Association
-
-  <br>![](/exercises/ex3/images/create_sales_orders_ads_08.png)
+10. Select the *Output Node* and add a new **Association** from the *Association Section*. 
+  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_16.png)
+  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_08.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_09.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_10.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_11.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_12.png)
   <br>![](/exercises/ex3/images/create_sales_orders_ads_13.png)
-  
+
+### Set the measures
   <br>![](/exercises/ex3/images/create_sales_orders_ads_06.png)
-  <br>![](/exercises/ex3/images/create_sales_orders_ads_07.png)
-12. Click on **Deploy** button to deploy the view
+14. In the *Output Node* change the following attributes to **Measure**:
+  - **GROSSAMOUNT**
+  - **NETAMOUNT**
+  - **TAXAMOUNT**
+  - **QUANTITY**
+  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_07.png)
+  
+15. Click on **Deploy** button to deploy the view
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_14.png)
 
