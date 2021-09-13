@@ -5,11 +5,11 @@
 2. Click on Create - Graphical View Button to create a new view
   <br><br>![](/exercises/ex2/images/create_in_repository_explorer.png)
 3. Click on Details and configure the following properties:
-  - Business Name: **V_SALES_ORDERS**
-  - Technical Name: **V_SALES_ORDERS**
-  - Semantic Usage: **Analytical Dataset**
-  - Expose for Consumption: **ON**
-    <br><br>![](/exercises/ex3/images/create_sales_orders_ads_01.png)
+    - Business Name: **V_SALES_ORDERS**
+    - Technical Name: **V_SALES_ORDERS**
+    - Semantic Usage: **Analytical Dataset**
+    - Expose for Consumption: **ON**
+      <br><br>![](/exercises/ex3/images/create_sales_orders_ads_01.png)
 
 ### Join Node
 3. Drag and drop the table **CSV_SalesOrderItems** into the canvas
