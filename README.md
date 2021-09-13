@@ -70,7 +70,11 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Filter Node
         - Associations
         - Measures
-    - [Exercise 3.6 - Create Story in SAP Analytics Cloud] - <b><i>under construction !!!</i></b>
+    - [Exercise 3.6 - Create Sales Story in SAP Analytics Cloud](exercises/ex3/sales-story)
+        - ID + Description (Text)
+        - Level Based Hierarchy
+        - Time Series 
+        - Geo Spatial - Bubble Layer
    
    
 - [Exercise 4 - Internal Orders](exercises/ex4/)
