@@ -43,7 +43,7 @@
 <br><br>![](/exercises/ex3/images/create_sales_story_13.png)
 
 15. Change the **User Preferences** as the follwoing and click on **Save** button to confirm:
-  - Data Access Language: **Deutsch**
+  - Data Access Language: **Deutsch** (German)
   <br><br>![](/exercises/ex3/images/create_sales_story_14.png)
 
 16. Please check the description language of **PRODUCTID RC-1055** has been changed *Rennsemmel*.  
