@@ -52,7 +52,7 @@
     <br><br>![](/exercises/ex3/images/create_sales_orders_ads_15.png)
     <br><br>![](/exercises/ex3/images/create_sales_orders_ads_16.png)
   
-15. Click on **Deploy** button to deploy the view. Please check the **status** after successful deployment.
+15. Click on **Deploy** button to deploy the view. Please check the **Status** after successful deployment.
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_17.png)
 
 
