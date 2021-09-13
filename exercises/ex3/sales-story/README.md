@@ -103,7 +103,7 @@
   <br><br>![](/exercises/ex3/images/create_sales_story_44.png)
   
 33. Select the column **GROSSAMOUNT**.  
-  <br><br>![](/exercises/ex3/images/create_sales_story_45.png)
+  <br>![](/exercises/ex3/images/create_sales_story_45.png)
   
 34. Add a new **Measure** for **Bubble Color**.  
   <br><br>![](/exercises/ex3/images/create_sales_story_46.png)
