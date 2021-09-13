@@ -46,7 +46,7 @@
   - Data Access Language: **Deutsch** (German)
   <br><br>![](/exercises/ex3/images/create_sales_story_14.png)
 
-16. Please check the description language of **PRODUCTID RC-1055** has been changed *Rennsemmel*.  
+16. Please check the description language of **PRODUCTID RC-1055** has been changed its language to German with description *Rennsemmel*.  
   <br><br>![](/exercises/ex3/images/create_sales_story_15.png)
 
 ### Level Based Hierarchy
