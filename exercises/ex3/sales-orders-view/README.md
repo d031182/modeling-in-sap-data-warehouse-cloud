@@ -2,9 +2,9 @@
 
 ### Analytical Dataset
 1. Navigate to the Repository Explorer
-2. Click on *Create - Graphical View* button to create a new view
+2. Click on **Create - Graphical View** button to create a new view
   <br><br>![](/exercises/ex2/images/create_in_repository_explorer.png)
-3. Click on **Details**-button and configure the following properties:
+3. Click on **Details** button and configure the following properties:
     - Business Name: **V_SALES_ORDERS**
     - Technical Name: **V_SALES_ORDERS**
     - Semantic Usage: **Analytical Dataset**
