@@ -38,6 +38,7 @@
 13. As the name for the story, please enter **S_SALES**.
   <br><br>![](/exercises/ex3/images/create_sales_story_12.png)
 
+### Change the Data Access Language 
 14. Select the **Profile Settings**.
 <br><br>![](/exercises/ex3/images/create_sales_story_13.png)
 
@@ -68,5 +69,7 @@
 <br><br>![](/exercises/ex3/images/create_sales_story_45.png)
 <br><br>![](/exercises/ex3/images/create_sales_story_46.png)
 <br><br>![](/exercises/ex3/images/create_sales_story_47.png)
+
+### Save the Story 
 <br><br>![](/exercises/ex3/images/create_sales_story_48.png)
 
