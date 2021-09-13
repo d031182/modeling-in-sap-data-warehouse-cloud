@@ -53,7 +53,7 @@
 18. Map the column **V_SALES_ORDERS.CREATEDAT** with the column **SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL**
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_14.png)
 
-
+### Measures
 19. In the *Output Node* change the following attributes to **Measure**:
   - **GROSSAMOUNT**
   - **NETAMOUNT**
