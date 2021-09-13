@@ -68,7 +68,7 @@
 21. Add a new **Chart** into the canvas.
   <br><br>![](/exercises/ex3/images/create_sales_story_30.png)
   
-22. Add a new measure into the chart.  
+22. Add a new **Measure** into the chart.  
   <br><br>![](/exercises/ex3/images/create_sales_story_31.png)
   
 23. Select the column **GROSSAMOUNT**.  
