@@ -13,23 +13,25 @@
 
 ### Join Node
 3. Drag and drop the table **CSV_SalesOrderItems** into the canvas
-  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_01.png)
+  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_02.png)
 4. Drag and drop the table **CSV_SalesOrders** into the canvas and drop it on the *CSV_SalesOrderItems**
 5. Create a new **Join Node** from the context menu 
-6. Map the column **CSV_SalesOrderItems.SALESORDERID** with the column **CSV_SalesOrders.SALESORDERID**
-  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_02.png)
+  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_03.png)
+  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_04.png)
+7. Map the column **CSV_SalesOrderItems.SALESORDERID** with the column **CSV_SalesOrders.SALESORDERID**
+  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_05.png)
 
 ### Filter Node
 7. Select the *Projection Node* and add a new **Filter Node**
-  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_04.png)
+  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_06.png)
 
 8. Adjust the filter as the following:
     - Name: **Filter 1**
     - Expression: **SALESORG in ('EMEA', 'AMER')**
-      <br><br>![](/exercises/ex3/images/create_sales_orders_ads_05.png)
+      <br><br>![](/exercises/ex3/images/create_sales_orders_ads_07.png)
       
 9. Select the *Filter Node* and click on **Data Preview** from the context menu. Please check if the preview is showing the correct data for the defined filter.  
-      <br><br>![](/exercises/ex3/images/create_sales_orders_ads_15.png) 
+      <br><br>![](/exercises/ex3/images/create_sales_orders_ads_08.png) 
  
 ### Association
 10. Select the *Output Node* and add a new **Association** from the *Association Section*. 
