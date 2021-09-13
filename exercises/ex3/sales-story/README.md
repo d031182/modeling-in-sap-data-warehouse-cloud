@@ -90,15 +90,29 @@
 28. Add a new **Geo Map** into the canvas.
   <br><br>![](/exercises/ex3/images/create_sales_story_40.png)
   
-29. 3232
+29. Add a new **Layer** into the Geo Map.
   <br><br>![](/exercises/ex3/images/create_sales_story_41.png)
+  
+30. Set Layer Type to **Bubble Layer** and add a new **Location* Dimension*
   <br><br>![](/exercises/ex3/images/create_sales_story_42.png)
+  
+31. Select the column **Location**. 
   <br><br>![](/exercises/ex3/images/create_sales_story_43.png)
+  
+32. Add a new **Measure** for **Bubble Size**.  
   <br><br>![](/exercises/ex3/images/create_sales_story_44.png)
+  
+33. Select the column **GROSSAMOUNT**.  
   <br><br>![](/exercises/ex3/images/create_sales_story_45.png)
+  
+34. Add a new **Measure** for **Bubble Color**.  
   <br><br>![](/exercises/ex3/images/create_sales_story_46.png)
+  
+35. Select the column **QUANTITY**.   
   <br><br>![](/exercises/ex3/images/create_sales_story_47.png)
 
 ### Save the Story 
+
+36. Click on **Save** button to save the story.
 <br><br>![](/exercises/ex3/images/create_sales_story_48.png)
 
