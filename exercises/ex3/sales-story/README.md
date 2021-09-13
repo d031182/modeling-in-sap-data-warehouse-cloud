@@ -113,6 +113,6 @@
 
 ### Save the Story 
 
-36. Click on **Save** button to save the story.
+36. Click on **Save** button to save the story **S_SALES**.
 <br><br>![](/exercises/ex3/images/create_sales_story_48.png)
 
