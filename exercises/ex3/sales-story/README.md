@@ -28,6 +28,8 @@
 10. Select the column **PRODUCTID**
   <br><br>![](/exercises/ex3/images/create_sales_story_09.png)
 
+### Display ID and Description
+
 11. For the column **PRODUCTID** set the display option to **ID and Description**.
   <br><br>![](/exercises/ex3/images/create_sales_story_10.png)
 
