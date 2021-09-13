@@ -22,12 +22,31 @@
   <br><br>![](/exercises/ex3/images/create_sales_story_07.png)
   
 8. Select the *table* object and make sure that the measure **GROSSAMOUNT** is by default in the **Filters** section 
-<br><br>![](/exercises/ex3/images/create_sales_story_08.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_09.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_10.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_11.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_12.png)
+9. Add new **Measures/Dimensions** into the **Rows**
+  <br><br>![](/exercises/ex3/images/create_sales_story_08.png)
+ 
+10. Select the column **PRODUCTID**
+  <br><br>![](/exercises/ex3/images/create_sales_story_09.png)
+
+11. For the column **PRODUCTID** set the display option to **ID and Description**.
+  <br><br>![](/exercises/ex3/images/create_sales_story_10.png)
+
+### Save the Story
+12. Click on the **Save** button on the toolbar.
+  <br><br>![](/exercises/ex3/images/create_sales_story_11.png)
+
+13. As the name for the story, please enter **S_SALES*.
+  <br><br>![](/exercises/ex3/images/create_sales_story_12.png)
+
+14. Select the **Profile Settings*.
 <br><br>![](/exercises/ex3/images/create_sales_story_13.png)
+
+15. Change the **User Preferences** as the follwoing and click on **Save** button to confirm:
+  - Data Access Language: **Deutsch**
+
+16. Please check the description language of **PRODUCTID RC-1055** has been changed *Rennsemmel*.  
+
+
 <br><br>![](/exercises/ex3/images/create_sales_story_14.png)
 <br><br>![](/exercises/ex3/images/create_sales_story_15.png)
 <br><br>![](/exercises/ex3/images/create_sales_story_20.png)
