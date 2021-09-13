@@ -1,7 +1,8 @@
 # Sales Orders
 
 In this exercise, you will learn about the basic modeling concepts and features, which are most commonly used in SAP Data Warehouse Cloud. 
-  <br><br>![](/exercises/ex3/images/SalesOrders.png)
+  <br><br>![](/exercises/ex3/images/SalesOrders_01.png)
+  <br><br>![](/exercises/ex3/images/SalesOrders_02.png)
 
 
 ## Summary
