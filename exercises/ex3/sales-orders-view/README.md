@@ -39,20 +39,20 @@
 11. Find a select the view **V_PRODUCTS**
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_09.png)
 12. Map the column **V_SALES_ORDERS.PRODUCTID** with the column **V_PRODUCTS.PRODUCTID**
-  <br>![](/exercises/ex3/images/create_sales_orders_ads_10.png)
+  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_10.png)
 13. Select the *Output Node* and add a new **Association** from the *Association Section*. 
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_08.png)
 14. Find a select the view V_BUSINESS_PARTNERS
-  <br>![](/exercises/ex3/images/create_sales_orders_ads_11.png)
+  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_11.png)
 15. Map the column **V_SALES_ORDERS.PARTNERID** with the column **V_BUSINESS_PARTNERS.PARTNERID**
-  <br>![](/exercises/ex3/images/create_sales_orders_ads_12.png)
+  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_12.png)
   
 16. Select the *Output Node* and add a new **Association** from the *Association Section*. 
   <br><br>![](/exercises/ex3/images/create_sales_orders_ads_08.png)
 17. Find a select the view **SAP.TIME.VIEW_DIMENSION_DAY** (Time Dimension-Day)
-  <br>![](/exercises/ex3/images/create_sales_orders_ads_13.png)
+  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_13.png)
 18. Map the column **V_INTERNAL_ORDERS.CREATEDAT** with the column **SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL**
-  <br>![](/exercises/ex3/images/create_sales_orders_ads_14.png)
+  <br><br>![](/exercises/ex3/images/create_sales_orders_ads_14.png)
 
 
 19. In the *Output Node* change the following attributes to **Measure**:
