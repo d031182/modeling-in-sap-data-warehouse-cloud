@@ -35,10 +35,10 @@
 12. Click on the **Save** button on the toolbar.
   <br><br>![](/exercises/ex3/images/create_sales_story_11.png)
 
-13. As the name for the story, please enter **S_SALES*.
+13. As the name for the story, please enter **S_SALES**.
   <br><br>![](/exercises/ex3/images/create_sales_story_12.png)
 
-14. Select the **Profile Settings*.
+14. Select the **Profile Settings**.
 <br><br>![](/exercises/ex3/images/create_sales_story_13.png)
 
 15. Change the **User Preferences** as the follwoing and click on **Save** button to confirm:
