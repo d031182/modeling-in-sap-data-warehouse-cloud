@@ -55,7 +55,7 @@
 17. Add a new **Table** into the canvas.
   <br><br>![](/exercises/ex3/images/create_sales_story_20.png)
 
-18. Add new **Measures/Dimensions* into the *Rows* section
+18. Add new **Measures/Dimensions** into the **Rows** section
   <br><br>![](/exercises/ex3/images/create_sales_story_21.png)
 
 19. Select the column **PARTNERID**.
