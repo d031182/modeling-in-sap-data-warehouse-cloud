@@ -52,25 +52,52 @@
   <br><br>![](/exercises/ex3/images/create_sales_story_15.png)
 
 ### Level Based Hierarchy
-<br><br>![](/exercises/ex3/images/create_sales_story_20.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_21.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_22.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_23.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_30.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_31.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_32.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_33.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_34.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_35.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_36.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_40.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_41.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_42.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_43.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_44.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_45.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_46.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_47.png)
+17. Add a new **Table** into the canvas.
+  <br><br>![](/exercises/ex3/images/create_sales_story_20.png)
+
+18. Add new **Measures/Dimensions* into the *Rows* section
+  <br><br>![](/exercises/ex3/images/create_sales_story_21.png)
+
+19. Select the column **PARTNERID**.
+  <br><br>![](/exercises/ex3/images/create_sales_story_22.png)
+
+20. Expand the **Hierarchy** on the table. Please validate the the hieararhcy is organized by **REGION**, **COUNTRY**, **CITY**.
+  <br><br>![](/exercises/ex3/images/create_sales_story_23.png)
+
+### Time Series
+21. Add a new **Chart** into the canvas.
+  <br><br>![](/exercises/ex3/images/create_sales_story_30.png)
+  
+22. Add a new measure into the chart.  
+  <br><br>![](/exercises/ex3/images/create_sales_story_31.png)
+  
+23. Select the column **GROSSAMOUNT**.  
+  <br><br>![](/exercises/ex3/images/create_sales_story_32.png)
+  
+24. Add new **DIMENSION** into the dimensions section.  
+  <br><br>![](/exercises/ex3/images/create_sales_story_33.png)
+  
+25. Select the column **CREATDAT**.  
+  <br><br>![](/exercises/ex3/images/create_sales_story_34.png)
+  
+26. Click on the **Hierarchy** button on the chart and set the level to **Level 2**.  
+  <br><br>![](/exercises/ex3/images/create_sales_story_35.png)
+  
+27. Set the chart type to **Trend Line**.
+  <br><br>![](/exercises/ex3/images/create_sales_story_36.png)
+
+### Geo Spatial
+28. Add a new **Geo Map** into the canvas.
+  <br><br>![](/exercises/ex3/images/create_sales_story_40.png)
+  
+29. 3232
+  <br><br>![](/exercises/ex3/images/create_sales_story_41.png)
+  <br><br>![](/exercises/ex3/images/create_sales_story_42.png)
+  <br><br>![](/exercises/ex3/images/create_sales_story_43.png)
+  <br><br>![](/exercises/ex3/images/create_sales_story_44.png)
+  <br><br>![](/exercises/ex3/images/create_sales_story_45.png)
+  <br><br>![](/exercises/ex3/images/create_sales_story_46.png)
+  <br><br>![](/exercises/ex3/images/create_sales_story_47.png)
 
 ### Save the Story 
 <br><br>![](/exercises/ex3/images/create_sales_story_48.png)
