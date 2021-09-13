@@ -69,6 +69,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Analytical Dataset View
         - Filter Node
         - Associations
+        - Measures
     - [Exercise 3.6 - Create Story in SAP Analytics Cloud] - <b><i>under construction !!!</i></b>
    
    
