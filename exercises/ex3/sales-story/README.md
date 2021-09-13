@@ -18,7 +18,7 @@
 6. Select the model **V_SALES_ORDERS**
   <br><br>![](/exercises/ex3/images/create_sales_story_06.png)
 
-7. Add the object *Table* into the canvas
+7. Add the object **Table** into the canvas
   <br><br>![](/exercises/ex3/images/create_sales_story_07.png)
   
 8. Select the *table* object and make sure that the measure **GROSSAMOUNT** is by default in the **Filters** section 
