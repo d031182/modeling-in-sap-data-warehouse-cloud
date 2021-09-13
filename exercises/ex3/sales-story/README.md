@@ -49,7 +49,7 @@
 16. Please check the description language of **PRODUCTID RC-1055** has been changed *Rennsemmel*.  
   <br><br>![](/exercises/ex3/images/create_sales_story_15.png)
 
-
+### Level Based Hierarchy
 <br><br>![](/exercises/ex3/images/create_sales_story_20.png)
 <br><br>![](/exercises/ex3/images/create_sales_story_21.png)
 <br><br>![](/exercises/ex3/images/create_sales_story_22.png)
