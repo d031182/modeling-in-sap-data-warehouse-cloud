@@ -109,7 +109,7 @@
   <br><br>![](/exercises/ex3/images/create_sales_story_46.png)
   
 35. Select the column **QUANTITY**.   
-  <br><br>![](/exercises/ex3/images/create_sales_story_47.png)
+  <br>![](/exercises/ex3/images/create_sales_story_47.png)
 
 ### Save the Story 
 
