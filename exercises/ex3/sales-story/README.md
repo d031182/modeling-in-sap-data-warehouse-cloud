@@ -1,14 +1,27 @@
 # Create Sales Story in SAP Analytics Cloud
 
-1. Click on **Create - Graphical View** button to create a new view
- 
-<br><br>![](/exercises/ex3/images/create_sales_story_01.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_02.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_03.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_04.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_05.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_06.png)
-<br><br>![](/exercises/ex3/images/create_sales_story_07.png)
+1. In SAP Analytics Cloud navigate to **Stories** to add a new **Canvas**
+  <br><br>![](/exercises/ex3/images/create_sales_story_01.png)
+
+2. Click on **Add Data** button
+ <br><br>![](/exercises/ex3/images/create_sales_story_02.png)
+
+3. Click on **Data from a Data Source** 
+  <br><br>![](/exercises/ex3/images/create_sales_story_03.png)
+
+4. Click on **Connect to Live Data** and select your *SAP Data Warehouse Cloud* instance
+  <br><br>![](/exercises/ex3/images/create_sales_story_04.png)
+
+5. Select your Space, e.g. **ZST_WORKSHOP**
+  <br><br>![](/exercises/ex3/images/create_sales_story_05.png)
+
+6. Select the model **V_SALES_ORDERS**
+  <br><br>![](/exercises/ex3/images/create_sales_story_06.png)
+
+7. Add the object *Table* into the canvas
+  <br><br>![](/exercises/ex3/images/create_sales_story_07.png)
+  
+8. Select the *table* object and make sure that the measure **GROSSAMOUNT** is by default in the **Filters** section 
 <br><br>![](/exercises/ex3/images/create_sales_story_08.png)
 <br><br>![](/exercises/ex3/images/create_sales_story_09.png)
 <br><br>![](/exercises/ex3/images/create_sales_story_10.png)
