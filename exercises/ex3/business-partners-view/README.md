@@ -5,17 +5,17 @@
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
   <br><br>![](/exercises/ex2/images/create_in_repository_explorer.png)
 
-3. Drag and drop the table <b><i>CSV_BusinessPartners</i></b> into the canvas
-  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_01.png)
-  
-4. Select the Output Node in the canvas and configure the following properties:
+3. Click on **Details** button and configure the following properties:
     - Business Name: <b>V_BUSINESS_PARTNERS</b>
     - Technical Name: <b>V_BUSINESS_PARTNERS</b>
     - Semantic Usage: <b>Dimension</b>
     - Expose for Consumption: <b>ON</b>
-  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_02.png)
+   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_01.png)
+   
 
 ### Join Node
+4. Drag and drop the table <b><i>CSV_BusinessPartners</i></b> into the canvas
+  <br><br>![](/exercises/ex3/images/create_business_partner_dimension_02.png) 
 5. Drag and drop the table <b><i>CSV_Addresses</i></b> into the canvas and drop it directly on the CSV_BusinessPartners Node.
 6. Select from the context menu <b>Join</b>
   <br><br>![](/exercises/ex3/images/create_business_partner_dimension_03.png)
