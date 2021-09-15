@@ -3,7 +3,7 @@
 In this exercise, you will learn about the basic modeling concepts and features, which are most commonly used in SAP Data Warehouse Cloud. 
 
 [Exercise 3 - Sales Orders](exercises/ex3/)  
-- [Exercise 3.1 - Create Business Partners View](exercises/ex3/business-partners-view/README.md)
+- [Exercise 3.1 - Create Business Partners View](exercises/ex3/business-partners-view)
     - Dimension View
     - ID + Text Semantic
     - Join Node  
