@@ -51,7 +51,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Data Wrangling    
         
 - [Exercise 3 - Sales Orders](exercises/ex3/)  
-    - [Exercise 3.1 - Create Business Partners View](exercises/ex3/business-partners-view)
+    - [Exercise 3.1 - Create Business Partners View](/exercises/ex3/business-partners-view)
         - Dimension View
         - ID + Text Semantic
         - Join Node  
@@ -60,36 +60,36 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Geo Spatial
         - Data Preview
         - View Deployment
-    - [Exercise 3.2 - Create Product Texts View](exercises/ex3/product-texts-view)
+    - [Exercise 3.2 - Create Product Texts View](/exercises/ex3/product-texts-view)
         - Text View 
-    - [Exercise 3.3 - Create Products View](exercises/ex3/products-view)
+    - [Exercise 3.3 - Create Products View](/exercises/ex3/products-view)
         - Text Association   
-    - [Exercise 3.4 - Generate Time Tables and Views](exercises/ex1/time-tables-views)
-    - [Exercise 3.5 - Create Sales Orders View](exercises/ex3/sales-orders-view)
+    - [Exercise 3.4 - Generate Time Tables and Views](/exercises/ex1/time-tables-views)
+    - [Exercise 3.5 - Create Sales Orders View](/exercises/ex3/sales-orders-view)
         - Analytical Dataset View
         - Filter Node
         - Associations
         - Measures
-    - [Exercise 3.6 - Create Sales Story in SAP Analytics Cloud](exercises/ex3/sales-story)
+    - [Exercise 3.6 - Create Sales Story in SAP Analytics Cloud](/exercises/ex3/sales-story)
         - ID + Description (Text)
         - Level Based Hierarchy
         - Time Series 
         - Geo Spatial - Bubble Layer
    
    
-- [Exercise 4 - Internal Orders](exercises/ex4/)
-    - [Exercise 4.1 - Create Employee View](exercises/ex4/employees-view)
+- [Exercise 4 - Internal Orders](/exercises/ex4/)
+    - [Exercise 4.1 - Create Employee View](/exercises/ex4/employees-view)
         - Parent Child Hierarchy (Internal)  
-    - [Exercise 4.2 - Create Vendor Product Category Hierarchy View](exercises/ex4/vendor-product-category-hierarchy-view)
+    - [Exercise 4.2 - Create Vendor Product Category Hierarchy View](/exercises/ex4/vendor-product-category-hierarchy-view)
         - Parenet Child Hierarchy (External) as a Hierarchy View
-    - [Exercise 4.3 - Create Vendor Products View](exercises/ex4/vendor-products-view)
+    - [Exercise 4.3 - Create Vendor Products View](/exercises/ex4/vendor-products-view)
         - Hierarchy Association  
-    - [Exercise 4.4 - Create Currency Rates View (TCURR)](exercises/ex4/tcurr-currency-view)
+    - [Exercise 4.4 - Create Currency Rates View (TCURR)](/exercises/ex4/tcurr-currency-view)
         - Union Node <b><i>under construction !!!</i></b>  
-    - [Exercise 4.5 - Create Currency Prefactors View (TCURF)](exercises/ex4/tcurf-currency-view)
-    - [Exercise 4.6 - Create Currency Configurations View (TCURV)](exercises/ex4/tcurv-currency-view)
-    - [Exercise 4.7 - Create Currency Precisions View (TCURX)](exercises/ex4/tcurx-currency-view)
-    - [Exercise 4.8 - Create Internal Orders View](exercises/ex4/internal-orders-view)
+    - [Exercise 4.5 - Create Currency Prefactors View (TCURF)](/exercises/ex4/tcurf-currency-view)
+    - [Exercise 4.6 - Create Currency Configurations View (TCURV)](/exercises/ex4/tcurv-currency-view)
+    - [Exercise 4.7 - Create Currency Precisions View (TCURX)](/exercises/ex4/tcurx-currency-view)
+    - [Exercise 4.8 - Create Internal Orders View](/exercises/ex4/internal-orders-view)
         - Calculation Node with Currency Conversion 
         - Input Parameters - <b><i>under construction !!!</i></b>
         - Data Access Control <b><i>under construction !!!</i></b>
