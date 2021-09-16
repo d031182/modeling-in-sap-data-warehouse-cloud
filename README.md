@@ -104,7 +104,6 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Compound Keys - <b><i>under construction !!!</i></b>
     - Exercise 4.6 - Create Cost Center Hierarchy View - <b><i>under construction !!!</i></b>
         - Time Dependency
-        - 
     - [Exercise 4.7 - Internal Orders] - <b><i>under construction !!!</i></b>- 
         - SQL View
         - Scripted View
