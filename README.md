@@ -70,6 +70,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Filter Node
         - Associations
         - Measures
+        - Replace Table
     - [Exercise 3.6 - Create Sales Story in SAP Analytics Cloud](/exercises/ex3/sales-story)
         - ID + Description (Text)
         - Level Based Hierarchy
