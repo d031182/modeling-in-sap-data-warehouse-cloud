@@ -17,13 +17,11 @@
 5. Add a new <b>Text Association</b> from the <i>Association</i> section  
   <br>![](../images/create_products_dimension_03.png)
 
-6.
-
-7. Find and select the view <b>V_PRODUCT_TEXTS</b>
+6. Find and select the view <b>V_PRODUCT_TEXTS</b>
   <br><br>![](../images/create_products_dimension_05.png)
 
-8. Map the column <b>V_PRODUCTS.PRODUCTID</b> and column <b>V_PRODUCT_TEXTS.PRODUCTID</b>
-  <br><br>![](../images/create_products_dimension_03.png)
+7. Map the column <b>V_PRODUCTS.PRODUCTID</b> and column <b>V_PRODUCT_TEXTS.PRODUCTID</b>
+  <br><br>![](../images/create_products_dimension_04.png)
 
-9. Click on <b><i>deploy</i></b> button to deploy the view
+8. Click on <b><i>deploy</i></b> button to deploy the view
   <br><br>![](../images/create_products_dimension_07.png)
