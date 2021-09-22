@@ -78,10 +78,11 @@
         "PREFACTORS_TABLE" => 'V_TCURF', 
         "RATES_TABLE" => 'V_TCURR')
       ```
+        > **Currency Conversion**: More information about the SAP HANA Function and its parameters can be found under the SAP [Help site](https://help.sap.com/viewer/7c78579ce9b14a669c1f3295b0d8ca16/Cloud/en-US/d22d746ed2951014bb7fb0114ffdaf96.html)
+
       <br>![](../images/create_internal_orders_ads_15.png)
       
-      > **Currency Conversion**: More information about the SAP HANA Function and its parameters can be found under the SAP Help site: https://help.sap.com/viewer/7c78579ce9b14a669c1f3295b0d8ca16/Cloud/en-US/d22d746ed2951014bb7fb0114ffdaf96.html 
-
+    
 19. Select the Calculation Node and click on <b>Data Preview</b> from the context menu.
     - Validate the values in <b>NETAMOUNT_TG</b> and <b>TARGET_CURRENCY</b>
     - Compare the values between <b>NETAMOUNT</b> and <b>NETAMOUNT_TG</b>
