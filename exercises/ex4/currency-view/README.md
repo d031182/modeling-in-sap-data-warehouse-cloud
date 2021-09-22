@@ -1,4 +1,4 @@
-# Create Currency Views
+# Wrap Currency Tables as Views
 
 Date: 2021-09-22
 
