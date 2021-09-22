@@ -97,7 +97,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Story Filters - <b><i>under construction !!!</i></b>
         - Data Access Control <b><i>under construction !!!</i></b>
         - Aggregation Node 
-    - [Exercise 4.6 - Create Internal Orders Story in SAP Analytics Cloud] - <b><i>under construction !!!</i></b>
+    - [Exercise 4.6 - Create Internal Orders Story in SAP Analytics Cloud] - :construction:<b><i>under construction !!!</i></b>
 
  
  - [Exercise 5 - Extended Internal Orders] - <b><i>under construction !!!</i></b>
