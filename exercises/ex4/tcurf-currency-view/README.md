@@ -1,4 +1,4 @@
-# Create <i>Currency Prefactors</i> View (TCURF)
+# Wrap <i>Currency Prefactors</i> Table (TCURF) as View
 
 1. Navigate to the Repository Explorer
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
