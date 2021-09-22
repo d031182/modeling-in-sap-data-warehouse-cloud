@@ -17,9 +17,9 @@ As a intermediate workaround you have to wrap the tables as views and declare th
         "CLIENT" => '002', "SCHEMA" => 'ZST_WORKSHOP', 
         "ERROR_HANDLING" => 'set_to_null', 
         "STEPS" => 'shift,convert,round', 
-        "PRECISIONS_TABLE" => 'V_TCURX', 
-        "CONFIGURATION_TABLE" => 'V_TCURV', 
-        "PREFACTORS_TABLE" => 'V_TCURF', 
-        "RATES_TABLE" => 'V_TCURR')
+        "PRECISIONS_TABLE" => '**VIEW_TCUR**', 
+        "CONFIGURATION_TABLE" => '**V_TCURV**', 
+        "PREFACTORS_TABLE" => '**V_TCURF**', 
+        "RATES_TABLE" => '**V_TCURR**')
       ```
 
