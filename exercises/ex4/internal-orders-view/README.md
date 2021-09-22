@@ -78,7 +78,7 @@
         "PREFACTORS_TABLE" => 'V_TCURF', 
         "RATES_TABLE" => 'V_TCURR')
       ```
-        > **Currency Conversion**: More information about the SAP HANA Function and its parameters can be found under the SAP [Help site](https://help.sap.com/viewer/7c78579ce9b14a669c1f3295b0d8ca16/Cloud/en-US/d22d746ed2951014bb7fb0114ffdaf96.html)
+        > **CONVERT_CURRENCY Function**: More information about the SAP HANA Function and its parameters can be found under the [SAP Help site](https://help.sap.com/viewer/7c78579ce9b14a669c1f3295b0d8ca16/Cloud/en-US/d22d746ed2951014bb7fb0114ffdaf96.html)
 
       <br>![](../images/create_internal_orders_ads_15.png)
       
