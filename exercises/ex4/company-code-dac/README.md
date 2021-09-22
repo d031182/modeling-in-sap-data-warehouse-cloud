@@ -31,7 +31,7 @@
    9004 | _your email address_ | _your user id_  
   <br><br>![](../images/create_dac_table_06.png)
 
-
+3. Click on the **Save** button to insert the records into the table.
   <br><br>![](../images/create_dac_table_07.png)
 ## Create Company Code Data Access Control
   <br><br>![](../images/create_dac_01.png)
