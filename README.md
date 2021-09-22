@@ -96,10 +96,11 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Input Parameters - :construction::construction::construction:
         - Story Filters - :construction::construction::construction:
         - Aggregation Node 
-
      - [Exercise 4.6 - Create Company Code Data Access Control](/exercises/ex4/company-code-dac)
-        - Data Access Control :construction::construction::construction:
+        - Table Data Maintenance :construction::construction::construction:
+        - Data Access Control :construction::construction::construction: 
      - [Exercise 4.7 - Create My Internal Orders View(/exercises/ex4/my-internal-orders-view)
+        - Inherit Views
         - Data Access Control :construction::construction::construction:  
      - [Exercise 4.8 - Create Internal Orders Story in SAP Analytics Cloud] - :construction::construction::construction:
  
@@ -109,13 +110,13 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
     - Exercise 4.5 - Create Cost Center View - :construction::construction::construction:
         - Compound Keys - :construction::construction::construction:
     - Exercise 4.6 - Create Cost Center Hierarchy View - :construction::construction::construction:
-        - Time Dependency
+        - Time Dependency :construction::construction::construction:
     - [Exercise 4.7 - Internal Orders] - :construction::construction::construction:
-        - SQL View
-        - Scripted View
-        - Window Functions
+        - SQL View :construction::construction::construction:
+        - Scripted View :construction::construction::construction:
+        - Window Functions :construction::construction::construction:
    - Excercise 4.8:  :construction::construction::construction:     
-        - Cross Space Sharing  
+        - Cross Space Sharing :construction::construction::construction:
             
 - [Exercise 6 - Create Entity Relationship Model (ERM)] - :construction::construction::construction:
    - Associations
