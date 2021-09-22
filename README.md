@@ -87,11 +87,11 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Hierarchy Association  
     - 
    -  [Exercise 4.4 - Wrap Currency Tables as Views](/exercises/ex4/currency-view)
-        - [Exercise 4.4.1 - Create Currency Rates View (TCURR)](/exercises/ex4/tcurr-currency-view)
+        - [Exercise 4.4.1 - Wrap Currency Rates (TCURR) Table](/exercises/ex4/tcurr-currency-view)
              - Union Node <b><i>under construction !!!</i></b>   
-        - [Exercise 4.4.2 - Create Currency Prefactors View (TCURF)](/exercises/ex4/tcurf-currency-view)
-        - [Exercise 4.4.3 - Create Currency Configurations View (TCURV)](/exercises/ex4/tcurv-currency-view)
-        - [Exercise 4.4.4 - Create Currency Precisions View (TCURX)](/exercises/ex4/tcurx-currency-view)
+        - [Exercise 4.4.2 - Wrap Currency Prefactors (TCURF) Table](/exercises/ex4/tcurf-currency-view)
+        - [Exercise 4.4.3 - Wrap Currency Configurations (TCURV) Table](/exercises/ex4/tcurv-currency-view)
+        - [Exercise 4.4.4 - Wrap Currency Precisions (TCURX) Table](/exercises/ex4/tcurx-currency-view)
      - [Exercise 4.5 - Create Internal Orders View](/exercises/ex4/internal-orders-view)
         - Calculation Node with Currency Conversion 
         - Input Parameters - <b><i>under construction !!!</i></b>
