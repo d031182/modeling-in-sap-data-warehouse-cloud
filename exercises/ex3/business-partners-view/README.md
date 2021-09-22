@@ -1,7 +1,8 @@
 
 # Create <i>Business Partners</i> View
 
-In this exercise we will create our first View of type **Dimension**. 
+In this exercise we will create our first View of type **Dimension**. A Dimension is a term which comes from the OLAP (Online Analytical Processing) and Starschema domain. It represents typically Master Data such as Business Partners, Products, Customers, Sales Organization. 
+
 
 1. Navigate to the Repository Explorer
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
