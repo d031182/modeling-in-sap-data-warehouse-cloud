@@ -110,12 +110,15 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
     - [Exercise 4.7 - Internal Orders] - :construction::construction::construction:
         - SQL View
         - Scripted View
-        - Window Functions     
+        - Window Functions
+   - Excercise 4.8:  :construction::construction::construction:     
+        - Cross Space Sharing  
             
 - [Exercise 6 - Create Entity Relationship Model (ERM)] - :construction::construction::construction:
    - Associations
    - Text Associations
    - Hierarchy Associations
+  
    
 ### Business Layer :construction::construction::construction:
 - [Exercise 7 - Sales Pipeline]
