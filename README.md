@@ -91,14 +91,17 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - [Exercise 4.4.2 - Wrap Currency Prefactors (TCURF) Table](/exercises/ex4/tcurf-currency-view)
         - [Exercise 4.4.3 - Wrap Currency Configurations (TCURV) Table](/exercises/ex4/tcurv-currency-view)
         - [Exercise 4.4.4 - Wrap Currency Precisions (TCURX) Table](/exercises/ex4/tcurx-currency-view)
-     - [Exercise 4.5 - Create Data Access Control](/exercises/ex4/dac)
-        - Data Access Control :construction::construction::construction:
-     - [Exercise 4.6 - Create Internal Orders View](/exercises/ex4/internal-orders-view)
+     - [Exercise 4.5 - Create Internal Orders View](/exercises/ex4/internal-orders-view)
         - Calculation Node with Currency Conversion 
         - Input Parameters - :construction::construction::construction:
         - Story Filters - :construction::construction::construction:
         - Aggregation Node 
-    - [Exercise 4.7 - Create Internal Orders Story in SAP Analytics Cloud] - :construction::construction::construction:
+
+     - [Exercise 4.6 - Create Data Access Control](/exercises/ex4/company-code-dac)
+        - Data Access Control :construction::construction::construction:
+     - [Exercise 4.7 - Create My Internal Orders View(/exercises/ex4/my-internal-orders-view)
+        - Data Access Control :construction::construction::construction:  
+     - [Exercise 4.8 - Create Internal Orders Story in SAP Analytics Cloud] - :construction::construction::construction:
  
  - [Exercise 5 - Extended Internal Orders] - :construction::construction::construction:
     - Exercise 4.5 - Create Extended Internal Orders View - :construction::construction::construction:
