@@ -85,7 +85,6 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Parenet Child Hierarchy (External) as a Hierarchy View
     - [Exercise 4.3 - Create Vendor Products View](/exercises/ex4/vendor-products-view)
         - Hierarchy Association  
-    - 
    -  [Exercise 4.4 - Wrap Currency Tables as Views](/exercises/ex4/currency-view)
         - [Exercise 4.4.1 - Wrap Currency Rates (TCURR) Table](/exercises/ex4/tcurr-currency-view)
              - Union Node <b><i>under construction !!!</i></b>   
