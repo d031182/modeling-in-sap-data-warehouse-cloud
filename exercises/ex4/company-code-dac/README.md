@@ -1,5 +1,7 @@
 # Create <i>Employees</i> View
 
+## Create Company Code Local Table 
+
 1. Navigate to the Repository Explorer
 2. Click on _**Create - Local Table**_ Button to create a new view
   <br><br>![](../images/create_dac_table_01.png)
@@ -15,12 +17,14 @@
     Yes | COMAPNYCODE | String (100) 
     Yes | USER_EMAIL | String (100)
     No | USER_ID | String (100)
-    
+
+
   <br><br>![](../images/create_dac_table_03.png)
   <br><br>![](../images/create_dac_table_04.png)
   <br><br>![](../images/create_dac_table_05.png)
   <br><br>![](../images/create_dac_table_06.png)
   <br><br>![](../images/create_dac_table_07.png)
+## Create Company Code Data Access Control
   <br><br>![](../images/create_dac_01.png)
   <br><br>![](../images/create_dac_02.png)
   <br><br>![](../images/create_dac_03.png)
