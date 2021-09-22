@@ -9,7 +9,13 @@
     - Semantic Usage: **Relational Dataset**
   <br><br>![](../images/create_dac_table_02.png)
   
-  
+4. Add the following columns in the **Columns** section:
+    Primary Key | Column Name | Data Type
+    ---|---|---
+    Yes | COMAPNYCODE | String (100) 
+    Yes | USER_EMAIL | String (100)
+    No | USER_ID | String (100)
+    
   <br><br>![](../images/create_dac_table_03.png)
   <br><br>![](../images/create_dac_table_04.png)
   <br><br>![](../images/create_dac_table_05.png)
