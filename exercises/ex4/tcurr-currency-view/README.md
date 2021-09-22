@@ -1,4 +1,4 @@
-# Create <i>Currency Rates</i> View (TCURR)
+# Wrap <i>Currency Rates</i> Table (TCURR) as View
 
 1. Navigate to the Repository Explorer
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
