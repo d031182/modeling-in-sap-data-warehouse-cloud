@@ -86,7 +86,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
     - [Exercise 4.3 - Create Vendor Products View](/exercises/ex4/vendor-products-view)
         - Hierarchy Association  
     - 
-   -  [Exercise 4.4 - Create Views for Currency Tables](/exercises/ex4/currency-view)
+   -  [Exercise 4.4 - Wrap Currency Tables as Views](/exercises/ex4/currency-view)
         - [Exercise 4.4.1 - Create Currency Rates View (TCURR)](/exercises/ex4/tcurr-currency-view)
              - Union Node <b><i>under construction !!!</i></b>   
         - [Exercise 4.4.2 - Create Currency Prefactors View (TCURF)](/exercises/ex4/tcurf-currency-view)
