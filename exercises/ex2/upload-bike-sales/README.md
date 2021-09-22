@@ -1,7 +1,7 @@
 # Upload <i>Bike Sales</i> CSV Files
 In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud by uploading some sample datasets. This is a prerequiste for all follow-up exercises. 
 
-> **CSV File Upload**: More information about uploading CSV file can be found in the [SAP Help site](https://help.sap.com/viewer/c8a54ee704e94e15926551293243fd1d/cloud/en-US/2509fe4d86aa472b9858164b55b38077.html).
+> :information_source: **CSV File Upload**: More information about uploading CSV file can be found in the [SAP Help site](https://help.sap.com/viewer/c8a54ee704e94e15926551293243fd1d/cloud/en-US/2509fe4d86aa472b9858164b55b38077.html).
 
 
 
