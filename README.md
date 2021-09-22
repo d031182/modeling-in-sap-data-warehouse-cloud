@@ -32,16 +32,16 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 ## Table of Content
 ### SAP Data Warehouse Fundamentals
 - [Exercise 1 - SAP Data Warehouse Cloud Fundamentals](exercises/ex1)
-     - [Exercise 1.1 - Repository Explorer] - <b><i>under construction !!!</i></b>
-     - [Exercise 1.2 - Data Source Browser] - <b><i>under construction !!!</i></b>
-     - [Exercise 1.3 - Space Management] - <b><i>under construction !!!</i></b>
+     - [Exercise 1.1 - Repository Explorer] - :construction::construction::construction:
+     - [Exercise 1.2 - Data Source Browser] - :construction::construction::construction:
+     - [Exercise 1.3 - Space Management] - :construction::construction::construction:
      - [Exercise 1.4 - Time Tables and Views Configurator](exercises/ex1/time-tables-views)
-     - [Exercise 1.5 - Currency Conversion Configurator] - <b><i>under construction !!!</i></b>
-     - [Exercise 1.6 - Fiscal Calendar Configurator] - <b><i>under construction !!!</i></b>
-     - [Exercise 1.7 - Modeling Entities] - <b><i>under construction !!!</i></b>
-     - [Exercise 1.8 - Data Lineage] - <b><i>under construction !!!</i></b>
-     - [Exercise 1.9 - Versioning] - <b><i>under construction !!!</i></b>
-     - [Exercise 1.10 - Change Management] - <b><i>under construction !!!</i></b>
+     - [Exercise 1.5 - Currency Conversion Configurator] - :construction::construction::construction:
+     - [Exercise 1.6 - Fiscal Calendar Configurator] - :construction::construction::construction:
+     - [Exercise 1.7 - Modeling Entities] - :construction::construction::construction:
+     - [Exercise 1.8 - Data Lineage] - :construction::construction::construction:
+     - [Exercise 1.9 - Versioning] - :construction::construction::construction:
+     - [Exercise 1.10 - Change Management] - :construction::construction::construction:
 
 ### Data Layer
 - [Exercise 2 - Upload Sample Data](exercises/ex2/)
@@ -87,37 +87,36 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Hierarchy Association  
    -  [Exercise 4.4 - Wrap Currency Tables as Views](/exercises/ex4/currency-view)
         - [Exercise 4.4.1 - Wrap Currency Rates (TCURR) Table](/exercises/ex4/tcurr-currency-view)
-             - Union Node <b><i>under construction !!!</i></b>   
+             - Union Node - :construction::construction::construction:
         - [Exercise 4.4.2 - Wrap Currency Prefactors (TCURF) Table](/exercises/ex4/tcurf-currency-view)
         - [Exercise 4.4.3 - Wrap Currency Configurations (TCURV) Table](/exercises/ex4/tcurv-currency-view)
         - [Exercise 4.4.4 - Wrap Currency Precisions (TCURX) Table](/exercises/ex4/tcurx-currency-view)
      - [Exercise 4.5 - Create Internal Orders View](/exercises/ex4/internal-orders-view)
         - Calculation Node with Currency Conversion 
-        - Input Parameters - <b><i>under construction !!!</i></b>
-        - Story Filters - <b><i>under construction !!!</i></b>
-        - Data Access Control <b><i>under construction !!!</i></b>
+        - Input Parameters - :construction::construction::construction:
+        - Story Filters - :construction::construction::construction:
+        - Data Access Control :construction::construction::construction:
         - Aggregation Node 
-    - [Exercise 4.6 - Create Internal Orders Story in SAP Analytics Cloud] - :construction:<b><i>under construction !!!</i></b>
-
+    - [Exercise 4.6 - Create Internal Orders Story in SAP Analytics Cloud] - :construction::construction::construction:
  
- - [Exercise 5 - Extended Internal Orders] - <b><i>under construction !!!</i></b>
-    - Exercise 4.5 - Create Extended Internal Orders View - <b><i>under construction !!!</i></b>
+ - [Exercise 5 - Extended Internal Orders] - :construction::construction::construction:
+    - Exercise 4.5 - Create Extended Internal Orders View - :construction::construction::construction:
         - Change Management    
-    - Exercise 4.5 - Create Cost Center View - <b><i>under construction !!!</i></b>
-        - Compound Keys - <b><i>under construction !!!</i></b>
-    - Exercise 4.6 - Create Cost Center Hierarchy View - <b><i>under construction !!!</i></b>
+    - Exercise 4.5 - Create Cost Center View - :construction::construction::construction:
+        - Compound Keys - :construction::construction::construction:
+    - Exercise 4.6 - Create Cost Center Hierarchy View - :construction::construction::construction:
         - Time Dependency
-    - [Exercise 4.7 - Internal Orders] - <b><i>under construction !!!</i></b>- 
+    - [Exercise 4.7 - Internal Orders] - :construction::construction::construction:
         - SQL View
         - Scripted View
         - Window Functions     
             
-- [Exercise 6 - Create Entity Relationship Model (ERM)] - <b><i>under construction !!!</i></b>
+- [Exercise 6 - Create Entity Relationship Model (ERM)] - :construction::construction::construction:
    - Associations
    - Text Associations
    - Hierarchy Associations
    
-### Business Layer
+### Business Layer :construction::construction::construction:
 - [Exercise 7 - Sales Pipeline]
     - [Exercise 7.1 - Create Business Entity]
     - [Exercise 7.2 - Create Consumption Model]
