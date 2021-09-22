@@ -1,5 +1,7 @@
 # Upload <i>Currency Conversion Sample Data</i> (ABAP TCUR*)
 
+> **CSV File Upload and Data Wrangling**: More information about CSV file upload and Data Wrangling can be found in the SAP Help site: https://help.sap.com/viewer/DRAFT/c8a54ee704e94e15926551293243fd1d/cloud/en-US/8bba251c78874736963703cff56b1b74.html
+
 ## Download the sample dataset:
 - Download the sample dataset via the following link: https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES
 - Make sure the following fiiles are available:
