@@ -1,7 +1,7 @@
 # Create <i>Employees</i> View
 
 In this exercise we will create a **Data Access Control** and apply it on the data models. 
->**Data Access Control**: Using a Data Access Control in SAP Data Warehouse Cloud, you can control and restrict users' data access on specific part of the data model. The Data Access Control acts like a **Lock**, which describes which column will be checked / filtered (e.g. Company Code) during query runtime. This lock can now attached on the your appropriate models and will trigger each time a validation. Users is able to see only those data for which he has been granted, e.g. User ABC is granted with authorization for Company Code 9004.
+>**Data Access Control**: Using a Data Access Control in SAP Data Warehouse Cloud, you can control and restrict users' data access on specific part of the data model. The Data Access Control acts like a **Lock**, which describes which column will be checked / filtered (e.g. Company Code) during query runtime. Once defined, this lock can be attached on your appropriate models and will trigger each time a validation. Users is able to see only those data for which he has been granted, e.g. User ABC is granted with authorization for Company Code 9004.
  
 
 
