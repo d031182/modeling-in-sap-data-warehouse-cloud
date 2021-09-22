@@ -97,7 +97,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Story Filters - :construction::construction::construction:
         - Aggregation Node 
 
-     - [Exercise 4.6 - Create Data Access Control](/exercises/ex4/company-code-dac)
+     - [Exercise 4.6 - Create Company Code Data Access Control](/exercises/ex4/company-code-dac)
         - Data Access Control :construction::construction::construction:
      - [Exercise 4.7 - Create My Internal Orders View(/exercises/ex4/my-internal-orders-view)
         - Data Access Control :construction::construction::construction:  
