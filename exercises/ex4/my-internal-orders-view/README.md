@@ -8,7 +8,6 @@
   <br><br>![](../images/create_my_internal_orders_ads_03.png)
   <br><br>![](../images/create_my_internal_orders_ads_04.png)
   <br><br>![](../images/create_my_internal_orders_ads_05.png)
-  <br><br>![](../images/create_my_internal_orders_ads_06.png)
   <br><br>![](../images/create_my_internal_orders_ads_07.png)
   <br><br>![](../images/create_my_internal_orders_ads_08.png)
   <br><br>![](../images/create_my_internal_orders_ads_09.png)
