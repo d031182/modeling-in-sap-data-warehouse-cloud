@@ -23,4 +23,4 @@ CONVERT_CURRENCY(
   "RATES_TABLE" => 'V_TCURR')
 ```
 
-**Please note that this will change in the upcomming releases**, where Currency Conversion can be configured centrally per space. 
+**Please note that this will change in the upcomming releases**. There it is planned that Currency Conversion can be configured centrally per space. 
