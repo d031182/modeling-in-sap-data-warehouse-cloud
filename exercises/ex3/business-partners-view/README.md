@@ -1,6 +1,8 @@
 
 # Create <i>Business Partners</i> View
 
+In this exercise we will create our first View of type **Dimension**. 
+
 1. Navigate to the Repository Explorer
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
   <br><br>![](/exercises/ex2/images/create_in_repository_explorer.png)
