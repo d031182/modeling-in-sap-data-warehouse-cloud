@@ -1,7 +1,7 @@
 
 # Create <i>Business Partners</i> View
 In this exercise we will create our first View of type *Dimension*. 
->:blue_book: **Dimension**: 
+>:mortar_board: **Dimension**: 
 >A Dimension is a term which comes from the OLAP (Online Analytical Processing) and Starschema domain. It represents Master Data such as Business Partners, Products, Customers, Sales Organization. Master Data usually carries texts and description attributes, which exist in multiple languages. 
 
 
