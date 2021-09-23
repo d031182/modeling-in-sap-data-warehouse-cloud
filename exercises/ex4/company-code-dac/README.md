@@ -58,9 +58,10 @@ In this step, we are creating the _Data Access Control_ object and specify the c
 3. Configure the following input:
     - Business Name: <b>V_INTERNAL_ORDERS</b>
     - Technical Name: <b>V_INTERNAL_ORDERS</b>  
-    <br><br>![](../images/create_dac_02.png)
-4. 
-  <br><br>![](../images/create_dac_03.png)
-  <br><br>![](../images/create_dac_04.png)
+    - Data Entity: ** **
+    - User Identifier: _your email address_
+    - Output
+    <br><br>![](../images/create_dac_04.png)
+4. Click on the **Deploy** button to apply the changes.
   
 
