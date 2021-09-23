@@ -85,17 +85,13 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Parenet Child Hierarchy (External) as a Hierarchy View
     - [Exercise 4.3 - Create Vendor Products View](/exercises/ex4/vendor-products-view)
         - Hierarchy Association  
-   -  [Exercise 4.4 - Wrap Currency Tables as Views](/exercises/ex4/currency-view)
-        - [Exercise 4.4.1 - Wrap Currency Rates (TCURR) Table](/exercises/ex4/tcurr-currency-view)
-             - Union Node - :construction::construction::construction:
-        - [Exercise 4.4.2 - Wrap Currency Prefactors (TCURF) Table](/exercises/ex4/tcurf-currency-view)
-        - [Exercise 4.4.3 - Wrap Currency Configurations (TCURV) Table](/exercises/ex4/tcurv-currency-view)
-        - [Exercise 4.4.4 - Wrap Currency Precisions (TCURX) Table](/exercises/ex4/tcurx-currency-view)
-     - [Exercise 4.5 - Create Internal Orders View](/exercises/ex4/internal-orders-view)
+    - [Exercise 4.4 - Wrap Currency Tables as Views](/exercises/ex4/currency-view)
+    - [Exercise 4.5 - Create Internal Orders View](/exercises/ex4/internal-orders-view)
         - Calculation Node with Currency Conversion 
         - Input Parameters - :construction::construction::construction:
         - Story Filters - :construction::construction::construction:
         - Aggregation Node 
+        - Union Node - :construction::construction::construction:
      - [Exercise 4.6 - Create Company Code Data Access Control](/exercises/ex4/company-code-dac)
         - Table Data Maintenance :construction::construction::construction:
         - Data Access Control :construction::construction::construction: 
