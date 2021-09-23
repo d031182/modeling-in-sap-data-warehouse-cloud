@@ -62,6 +62,7 @@ In this step, we are creating the _Data Access Control_ object and specify the c
     - Identifier Column: **USER_EMAIL**
     - Output: **COMPANYCODE**
     
+    <br><br>![](../images/create_dac_02.png)
     <br><br>![](../images/create_dac_03.png)
 4. Click on the **Deploy** button to apply the changes.
     <br><br>![](../images/create_dac_04.png)
