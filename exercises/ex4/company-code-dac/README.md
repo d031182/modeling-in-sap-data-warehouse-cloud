@@ -54,17 +54,15 @@ In this step, we are creating the _Data Access Control_ object and specify the c
 
 1. Navigate to the Repository Explorer
 2. Click on _**Create - Data Access Table**_ button to create a new data access control.
-  <br><br>![](../images/create_dac_table_01.png)
+  <br><br>![](../images/create_dac_01.png)
 3. fefe  
 
     Field | Value | 
     ---|---
     Business Name | DAC_COMPANYCODE 
     Technical Name | DAC_COMPANYCODE
-    <br><br>![](../images/create_dac_table_03.png)
+    <br><br>![](../images/create_dac_02.png)
 
-  <br><br>![](../images/create_dac_01.png)
-  <br><br>![](../images/create_dac_02.png)
   <br><br>![](../images/create_dac_03.png)
   <br><br>![](../images/create_dac_04.png)
   
