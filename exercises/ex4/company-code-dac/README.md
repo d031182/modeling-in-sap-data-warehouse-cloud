@@ -21,9 +21,9 @@ In this exercise we are going to create a **Local Table**.
 2. Click on _**Create - Local Table**_ Button to create a new view
   <br><br>![](../images/create_dac_table_01.png)
 3. Configure the following properties on the **General** section:
-    - Business Name: **T_COMPANYCODE_DAC**
-    - Technical Name: **T_COMPANYCODE_DAX**
-    - Semantic Usage: **Relational Dataset**
+    - Business Name: **DAC_COMPANYCODE**
+    - Technical Name: **DAC_COMPANYCODE**
+    - Type: **Relational Dataset**
   <br><br>![](../images/create_dac_table_02.png)
   
 4. Add the following columns in the **Columns** section:
@@ -58,9 +58,10 @@ In this step, we are creating the _Data Access Control_ object and specify the c
 3. Configure the following input:
     - Business Name: <b>V_INTERNAL_ORDERS</b>
     - Technical Name: <b>V_INTERNAL_ORDERS</b>  
-    - Data Entity: ** **
-    - User Identifier: _your email address_
-    - Output
+    - Data Entity: **T_CCOMPANYCODE_DAC Dataset**
+    - Identifier Column: **USER_EMAIL**
+    - Output: **COMPANY_CODE**
+    
     <br><br>![](../images/create_dac_04.png)
 4. Click on the **Deploy** button to apply the changes.
   
