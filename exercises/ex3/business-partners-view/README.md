@@ -1,8 +1,8 @@
 
 # Create <i>Business Partners</i> View
 In this exercise we will create our first View of type *Dimension*. 
->:mortar_board: **Dimension**: 
->A Dimension is a term which comes from the OLAP (Online Analytical Processing) and Starschema domain. It represents Master Data such as Business Partners, Products, Customers, Sales Organization. Master Data usually carries texts and description attributes, which exist in multiple languages. 
+>:mortar_board: **Dimension**:
+>A Dimension is a term which comes from the OLAP (Online Analytical Processing) and Starschema domain. It represents Master Data such as Business Partners, Products, Customers, Sales Organization. Master Data usually carries texts and descriptive attributes, which exist in multiple languages. 
 
 
 1. Navigate to the Repository Explorer
