@@ -49,6 +49,9 @@ In this exercise we are going to create a **Local Table**.
 3. Click on the **Save** button to insert the records into the table.
   <br><br>![](../images/create_dac_table_07.png)
 ## Create Company Code Data Access Control
+In this step, we are creating the _Data Access Control_ object and specify the critera for access per user.
+
+1. 
   <br><br>![](../images/create_dac_01.png)
   <br><br>![](../images/create_dac_02.png)
   <br><br>![](../images/create_dac_03.png)
