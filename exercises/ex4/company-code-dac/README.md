@@ -32,7 +32,8 @@ In this exercise we are going to create a **Local Table**.
     Yes | COMAPNYCODE | String (100) 
     Yes | USER_EMAIL | String (100)
     No | USER_ID | String (100)
-  <br><br>![](../images/create_dac_table_03.png)
+    
+    <br><br>![](../images/create_dac_table_03.png)
   
 5. Click on the **Deploy** button to deploy the table.
   <br><br>![](../images/create_dac_table_04.png)
@@ -51,7 +52,17 @@ In this exercise we are going to create a **Local Table**.
 ## Create Company Code Data Access Control
 In this step, we are creating the _Data Access Control_ object and specify the critera for access per user.
 
-1. 
+1. Navigate to the Repository Explorer
+2. Click on _**Create - Data Access Table**_ button to create a new data access control.
+  <br><br>![](../images/create_dac_table_01.png)
+3. fefe  
+
+    Field | Value | 
+    ---|---
+    Business Name | DAC_COMPANYCODE 
+    Technical Name | DAC_COMPANYCODE
+    <br><br>![](../images/create_dac_table_03.png)
+
   <br><br>![](../images/create_dac_01.png)
   <br><br>![](../images/create_dac_02.png)
   <br><br>![](../images/create_dac_03.png)
