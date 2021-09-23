@@ -56,11 +56,11 @@ In this step, we are creating the _Data Access Control_ object and specify the c
 2. Click on _**Create - Data Access Table**_ button to create a new data access control.
   <br><br>![](../images/create_dac_01.png)
 3. Configure the following input:
-    - Business Name: <b>V_INTERNAL_ORDERS</b>
-    - Technical Name: <b>V_INTERNAL_ORDERS</b>  
-    - Data Entity: **T_CCOMPANYCODE_DAC Dataset**
+    - Business Name: **DAC_COMPANYCODE**
+    - Technical Name: **DAC_COMPANYCODE**
+    - Data Entity: **T_COMPANYCODE_DAC**
     - Identifier Column: **USER_EMAIL**
-    - Output: **COMPANY_CODE**
+    - Output: **COMPANYCODE**
     
     <br><br>![](../images/create_dac_04.png)
 4. Click on the **Deploy** button to apply the changes.
