@@ -56,9 +56,9 @@ In this step, we are creating the _Data Access Control_ object and specify the c
 2. Click on _**Create - Data Access Table**_ button to create a new data access control.
   <br><br>![](../images/create_dac_01.png)
 3. Configure the following input:
-    - Business Name: **DAC_COMPANYCODE**
-    - Technical Name: **DAC_COMPANYCODE**
-    - Data Entity: **T_COMPANYCODE_DAC**
+    - Business Name: **D_COMPANYCODE**
+    - Technical Name: **D_COMPANYCODE**
+    - Data Entity: **T_DAC_DATA**
     - Identifier Column: **USER_EMAIL**
     - Output: **ALLOWED_VALUE**
     
