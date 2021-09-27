@@ -4,7 +4,8 @@
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
   <br><br>![](/exercises/ex2/images/create_in_repository_explorer.png)<br><br>
 3. Drag and drop the view **_V_INTERNAL_ORDERS_** into the canvas, which you have created previously.
-  >:mortal_board: **Note**: the properties and semantics from the previous view will be inherited to the new view, such as Measure classification, Attributes Semantics, etc. In the future also associations, text and hierarchy definitions will be reusable. 
+  >:mortar_board: **Note**: the properties and semantics from the previous view will be inherited to the new view, such as Measure classification, Attributes Semantics, etc. In the future also Input Parameters, Associations, Text and Hierarchy definitions will be reusable. 
+  
   <br><br>![](../images/create_my_internal_orders_ads_02.png)
 4. TBD :construction::construction::construction:
   <br><br>![](../images/create_my_internal_orders_ads_03.png)
