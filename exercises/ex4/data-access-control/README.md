@@ -8,7 +8,7 @@ In this exercise we will create a **Data Access Control** and apply it on the da
 
 
 ## Create Local Table
-In the first step you define a local table, which contains allowed value for a user.
+In the first step you define a local table, which contains the allowed value for a user.
 
 1. Navigate to the Repository Explorer
 2. Click on _**Create - Local Table**_ Button to create a new view
