@@ -41,7 +41,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
      - [Exercise 1.7 - Modeling Entities] - :construction::construction::construction:
      - [Exercise 1.8 - Data Lineage] - :construction::construction::construction:
      - [Exercise 1.9 - Versioning] - :construction::construction::construction:
-     - [Exercise 1.10 - Change Management] - :construction::construction::construction:
+     - [Exercise 1.10 - Change Management](exercises/ex1/change-management) - :construction::construction::construction:
 
 ### Data Layer
 - [Exercise 2 - Upload Sample Data](exercises/ex2/)
