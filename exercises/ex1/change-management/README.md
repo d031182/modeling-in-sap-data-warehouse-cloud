@@ -8,3 +8,5 @@ During a modeling and development life cycle, data model changes and modications
 ## Change Management approach in SAP Data Warehouse Cloud
 One quick way to stop the **Tower Problem** and inconsistencies is to prohibit and prevent changes and modifications on models with dependencies and impacts on other models.
 However, in reality this is not practical. 
+1. Strict prevention of inconsistent changes leads very quickly to **modeling inflexiblity**, since changes can not be applied after a model has dependencies. That means, users have to model things from scratch to overcome this strict rule, which is **highly inefficient**.
+2. **Changes and modifications can not be always prevented**, e.g. modifications on models in the source system. SAP Data Warehouse Cloud simply has no control over these models and for that can not prohibit such changes. 
