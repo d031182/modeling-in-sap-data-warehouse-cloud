@@ -9,7 +9,7 @@
   <br><br>![](../images/create_my_internal_orders_ads_02.png)
 4. TBD :construction::construction::construction:
   <br><br>![](../images/create_my_internal_orders_ads_03.png)
-4. Select the Output Node in the canvas and configure the following properties:
+5. Select the Output Node in the canvas and configure the following properties:
     - Business Name: <b>V_MY_INTERNAL_ORDERS</b>
     - Technical Name: <b>V_MY_INTERNAL_ORDERS</b>
     - Semantic Usage: <b>Analytical Dataset</b>
@@ -18,7 +18,10 @@
   <br><br>![](../images/create_my_internal_orders_ads_05.png)
   
  ### Data Access Control
+ 6. Navigate to the _Data Access Control_ section and add a new Data Access Control.
   <br><br>![](../images/create_my_internal_orders_ads_07.png)
+  
+  
   <br><br>![](../images/create_my_internal_orders_ads_08.png)
   <br><br>![](../images/create_my_internal_orders_ads_09.png)
   <br><br>![](../images/create_my_internal_orders_ads_10.png)
