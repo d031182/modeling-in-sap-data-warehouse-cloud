@@ -60,7 +60,7 @@ In this step, we are creating the _Data Access Control_ object and specify the c
     - Technical Name: **DAC_COMPANYCODE**
     - Data Entity: **T_COMPANYCODE_DAC**
     - Identifier Column: **USER_EMAIL**
-    - Output: **COMPANYCODE**
+    - Output: **ALLOWED_VALUE**
     
     <br><br>![](../images/create_dac_02.png)
     <br><br>![](../images/create_dac_03.png)
