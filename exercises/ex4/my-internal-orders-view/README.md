@@ -26,9 +26,9 @@
   <br><br>![](../images/create_my_internal_orders_ads_08.png)
   
 8. Map the **V_MY_INTERNAL_ORDERS.COMPANYCODE** column to the Data Access Control **D_COMPANYCODE.ALLOWED_VALUE** column.
-  >🎓Note: With the mapping, the data access of the view _V_MY_INTERNAL_ORDERS_ is now secured by filtering the data on _Company Code_ with user's allowed values. If user does not have valid entries in the _T_DAC_DATA_ table, he will not be able to see any value.
+   >🎓Note: With the mapping, the data access of the view _V_MY_INTERNAL_ORDERS_ is now secured by filtering the data on _Company Code_ with user's allowed values. If user does not have valid entries in the _T_DAC_DATA_ table, he will not be able to see any value.
   
- <br><br>![](../images/create_my_internal_orders_ads_09.png)
+   <br><br>![](../images/create_my_internal_orders_ads_09.png)
 
 9. Select on the _Output_ Node the Data Preview from the context menu. As a result you should be able to see only data for **Company Code 9004**, which is maintained in the table **T_DAC_DATA**
   <br><br>![](../images/create_my_internal_orders_ads_10.png)
