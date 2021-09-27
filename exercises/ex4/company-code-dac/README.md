@@ -21,8 +21,8 @@ In this exercise we are going to create a **Local Table**.
 2. Click on _**Create - Local Table**_ Button to create a new view
   <br><br>![](../images/create_dac_table_01.png)
 3. Configure the following properties on the **General** section:
-    - Business Name: **T_COMPANYCODE_DAC**
-    - Technical Name: **T_COMPANYCODE_DAC**
+    - Business Name: **T_DAC_DATA**
+    - Technical Name: **T_DAC_DATA**
     - Type: **Relational Dataset**
   <br><br>![](../images/create_dac_table_02.png)
   
