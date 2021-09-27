@@ -38,7 +38,7 @@ In this exercise we are going to create a **Local Table**.
 5. Click on the **Deploy** button to deploy the table.
   <br><br>![](../images/create_dac_table_04.png)
   
-## Maintain the Authorization and Data Access for the User 
+## Maintain the Allowed Value for the User 
 1. Click on the **Open Data Editor** button to enter the editing mode of the table:
   <br><br>![](../images/create_dac_table_05.png)
 2. Click on the **Add** button to create a new record with the following values:
