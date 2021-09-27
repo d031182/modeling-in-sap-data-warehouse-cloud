@@ -17,4 +17,4 @@ For that, SAP Data Warehouse Cloud is following rather the approach of **allowin
 2. Provide potential proposal to resolve issues and inconsistencies
 3. Allow to revert changes (rollback to last consistent state)
 4. Provide auto refactoring and auto propagation to improve efficiency and reduce manual adjustments
-![image](https://user-images.githubusercontent.com/71157089/134892373-e92f63f7-b829-44e9-b8d0-0723f6b19112.png)
+
