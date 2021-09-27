@@ -5,3 +5,6 @@ During a modeling and development life cycle, data model changes and modications
 
 <br><br>![](/exercises/ex1/images/cm_01.png)
 
+## Approach in SAP Data Warehouse Cloud
+One quick way to stop the **Tower Problem** and inconsistencies is to prohibit and prevent changes and modifications on models with dependencies and impacts on other models.
+However, in reality this is not practical. 
