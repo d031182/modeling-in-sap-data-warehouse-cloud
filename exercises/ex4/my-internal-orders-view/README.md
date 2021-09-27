@@ -32,7 +32,7 @@
 
 9. Select on the _Output_ Node the Data Preview from the context menu. As a result you should be to view only data for **Company Code 9004**, which is maintained for you user in the table **T_DAC_DATA**
   <br><br>![](../images/create_my_internal_orders_ads_10.png)
+
+10. Click on the **Deploy** button to deploy the view.
   <br><br>![](../images/create_my_internal_orders_ads_11.png)
   
-10. Click on the **Deploy** button to deploy the view.
-  <br><br>![](../images/create_my_internal_orders_ads_12.png)
