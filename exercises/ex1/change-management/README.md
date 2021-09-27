@@ -26,4 +26,4 @@ For that, SAP Data Warehouse Cloud is following rather the approach of **allowin
 4. provide auto refactoring and auto propagation to improve efficiency and reduce manual adjustments
 
 
-In short: SAP Data Warehouse Cloud allows any kind of changes, but has to support users to resolve the issues and regain a consistent state for the models.
+In short: SAP Data Warehouse Cloud allows any kind of changes, but supports users to resolve the issues and regain a consistent state for the models.
