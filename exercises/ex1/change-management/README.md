@@ -19,9 +19,9 @@ However, in reality this is not practical.
 2. **Changes and modifications can not be always prevented**, e.g. modifications on models in the source system. SAP Data Warehouse Cloud simply has no control over these models and for that can not prohibit such changes, but can only react to them.
 
 
-For that, SAP Data Warehouse Cloud is following rather the approach of **allowing incompatible changes in a controlled manner**. User may apply compatible as well as incompatible changes, while the system shall
+For that, SAP Data Warehouse Cloud is following rather the approach of **allowing incompatible changes in a controlled manner**. User may apply compatible as well as incompatible changes, which lead to model inconsitencies and make them no longer runnable during runtime. However, the system shall 
 1. provide transparency and detailed information on applied changes
 2. provide proposal to resolve issues and potential inconsistencies
 3. allow to revert changes (rollback to last consistent state)
 4. provide auto refactoring and auto propagation to improve efficiency and reduce manual adjustments
-
+In short, SAP Data Warehouse Cloud allows any kind of changes, but has to support users to regain a consistent state.
