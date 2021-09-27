@@ -42,7 +42,7 @@ In this exercise we are going to create a **Local Table**.
 1. Click on the **Open Data Editor** button to enter the editing mode of the table:
   <br><br>![](../images/create_dac_table_05.png)
 2. Click on the **Add** button to create a new record with the following values:
-   COMPANYCODE | USER_EMAIL | USER_ID
+   ALLOWED_VALUE | USER_EMAIL | USER_ID
    ---|---|---
    9004 | _your email address_ | _your user id_  
   <br><br>![](../images/create_dac_table_06.png)
