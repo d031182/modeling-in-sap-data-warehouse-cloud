@@ -28,7 +28,7 @@
   >🎓Note: With the mapping, the data access of the view _V_MY_INTERNAL_ORDERS_ is now secured by filtering the data on _Company Code_ with user's allowed values. If user does not have valid entries in the _T_COMPANYCODE_DAC_ table, he will not be able to see any value.
   
   <br><br>![](../images/create_my_internal_orders_ads_09.png)
-8. Select on the _Output_ Node the Data Preview from the context menu. 
+9. Select on the _Output_ Node the Data Preview from the context menu. As a result you should be to view only data for **Company Code 9004**. 
   <br><br>![](../images/create_my_internal_orders_ads_10.png)
   <br><br>![](../images/create_my_internal_orders_ads_11.png)
   <br><br>![](../images/create_my_internal_orders_ads_12.png)
