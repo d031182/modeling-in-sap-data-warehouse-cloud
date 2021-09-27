@@ -17,12 +17,14 @@
   <br><br>![](../images/create_my_internal_orders_ads_04.png)
   <br><br>![](../images/create_my_internal_orders_ads_05.png)
   
- ### Data Access Control
- 6. Navigate to the _Data Access Control_ section and add a new Data Access Control.
+### Data Access Control
+6. Navigate to the _Data Access Control_ section and add a new Data Access Control.
   <br><br>![](../images/create_my_internal_orders_ads_07.png)
   
-  
+7. Select the Data Access Control **DAC_COMPANYCODE**.
   <br><br>![](../images/create_my_internal_orders_ads_08.png)
+  
+8. By mapping the Data Access Control **DAC_COMPANYCODE.ALLOWED_VALUE** column to the **V_MY_INTERNAL_ORDERS.COMPANYCODE**, the view will be filtered by the Company Code with the user's allowed values.
   <br><br>![](../images/create_my_internal_orders_ads_09.png)
   <br><br>![](../images/create_my_internal_orders_ads_10.png)
   <br><br>![](../images/create_my_internal_orders_ads_11.png)
