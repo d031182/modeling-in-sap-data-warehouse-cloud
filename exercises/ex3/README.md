@@ -32,7 +32,4 @@ In this exercise, you will learn about the basic modeling concepts and features,
 <br><br>![](/exercises/ex3/images/SalesOrders_02.png)
 
 
-## Summary
 
-Now that you have ... 
-Continue to - [Exercise 1 - Exercise 1 Description](../ex1/README.md)
