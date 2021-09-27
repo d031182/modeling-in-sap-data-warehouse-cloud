@@ -113,7 +113,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Window Functions :construction::construction::construction:
    - Excercise 4.8:  :construction::construction::construction:     
         - Cross Space Sharing :construction::construction::construction:
-   - Excercise 4.9 View Persistence
+   - Excercise 4.9 View Persistence :construction::construction::construction:
             
 - [Exercise 6 - Create Entity Relationship Model (ERM)] - :construction::construction::construction:
    - Associations
