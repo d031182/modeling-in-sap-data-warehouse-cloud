@@ -1,3 +1,5 @@
+# Versioning
+<br><br>![](/exercises/ex1/images/versioning_01.png)
 
 ## Version Recovery
 
