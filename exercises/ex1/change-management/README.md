@@ -6,13 +6,10 @@ During a modeling and development life cycle, data model changes and modications
 <br><br>![](/exercises/ex1/images/cm_01.png)
 
 Following typical model changes are considered:
-- Adding a new column
-- Deleting an existing column
-- Renaming an existing column
-- Adding Input Parameter
-- Remove Input Parameter
-- Adding Associations
-- Remove Associations
+- Add / Delete / Rename of a Column
+- Add / Delete / Rename of Input Parameter
+- Add / Delete Associations
+- Share / Unshare Models
 - etc.
 
 ## Change Management approach in SAP Data Warehouse Cloud
