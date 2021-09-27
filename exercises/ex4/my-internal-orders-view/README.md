@@ -25,7 +25,7 @@
   <br><br>![](../images/create_my_internal_orders_ads_08.png)
   
 8. Map the **V_MY_INTERNAL_ORDERS.COMPANYCODE** column to the Data Access Control **DAC_COMPANYCODE.ALLOWED_VALUE** column.
-  >🎓Note: With the mapping, the data access of the view _V_MY_INTERNAL_ORDERS_ is now secured by validating / filtering the data on _Company Code_ with user's allowed values. 
+  >🎓Note: With the mapping, the data access of the view _V_MY_INTERNAL_ORDERS_ is now secured by filtering the data on _Company Code_ with user's allowed values. If user does not have valid entries in the _T_COMPANYCODE_DAC_ table, he will not be able to see any value.
   
   <br><br>![](../images/create_my_internal_orders_ads_09.png)
   <br><br>![](../images/create_my_internal_orders_ads_10.png)
