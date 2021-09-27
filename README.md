@@ -40,7 +40,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
      - [Exercise 1.6 - Fiscal Calendar Configurator] - :construction::construction::construction:
      - [Exercise 1.7 - Modeling Entities] - :construction::construction::construction:
      - [Exercise 1.8 - Data Lineage] - :construction::construction::construction:
-     - [Exercise 1.9 - Versioning] - :construction::construction::construction:
+     - [Exercise 1.9 - Versioning](exercises/ex1/versioning) - :construction::construction::construction:
      - [Exercise 1.10 - Change Management](exercises/ex1/change-management) - :construction::construction::construction:
 
 ### Data Layer
