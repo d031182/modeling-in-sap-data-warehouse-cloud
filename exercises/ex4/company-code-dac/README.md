@@ -1,4 +1,4 @@
-# Create _Company Code_ Data Access Control
+# Create Data Access Control
 
 In this exercise we will create a **Data Access Control** and apply it on the data models. 
 >:mortar_board: **Data Access Control**: Data access controls allow you to apply row-level security to your objects. When a data access control is applied to a data layer view or a business layer object, any user viewing its data will see only the rows for which they are authorized, based on the specified criteria. The Data Access Control acts like a **Lock**. Once defined, it can be attached to your data models to guard them from unauthorized data access.
