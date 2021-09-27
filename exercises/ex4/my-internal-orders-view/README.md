@@ -5,7 +5,13 @@
   <br><br>![](/exercises/ex2/images/create_in_repository_explorer.png)<br><br>
 3. Drag and drop the view **_V_INTERNAL_ORDERS_** into the canvas, which you have created previously.
   <br><br>![](../images/create_my_internal_orders_ads_02.png)
+4. TBD :construct:
   <br><br>![](../images/create_my_internal_orders_ads_03.png)
+4. Select the Output Node in the canvas and configure the following properties:
+    - Business Name: <b>V_INTERNAL_ORDERS</b>
+    - Technical Name: <b>V_INTERNAL_ORDERS</b>
+    - Semantic Usage: <b>Analytical Dataset</b>
+    - Expose for Consumption: <b>ON</b>
   <br><br>![](../images/create_my_internal_orders_ads_04.png)
   <br><br>![](../images/create_my_internal_orders_ads_05.png)
   <br><br>![](../images/create_my_internal_orders_ads_07.png)
