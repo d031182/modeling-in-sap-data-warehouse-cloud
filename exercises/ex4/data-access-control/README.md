@@ -7,7 +7,7 @@ In this exercise we will create a **Data Access Control** and apply it on the da
  
 
 
-## Create Company Code Local Table 
+## Create Local Table
 In the first step you define a sourece, which contains the granted authrization value per user.
 That could be a 
 - Local Table
