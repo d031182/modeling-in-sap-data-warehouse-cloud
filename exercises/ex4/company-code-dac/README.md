@@ -29,7 +29,7 @@ In this exercise we are going to create a **Local Table**.
 4. Add the following columns in the **Columns** section:
     Primary Key | Column Name | Data Type
     ---|---|---
-    Yes | COMAPNYCODE | String (100) 
+    Yes | ALLOWED_VALUE | String (100) 
     Yes | USER_EMAIL | String (100)
     No | USER_ID | String (100)
     
