@@ -43,11 +43,11 @@
  <br><br>![](../images/create_dac_table_05.png)
 12. Click on the **Add** button to create a new record with the following values:
   
-   ALLOWED_VALUE | USER_EMAIL | USER_ID
-   ---|---|---
-   9004 | _your user email_ | _your user id_  
+    ALLOWED_VALUE | USER_EMAIL | USER_ID
+    ---|---|---
+    9004 | _your user email_ | _your user id_  
 
-   <br><br>![](../images/create_dac_table_06.png)
+    <br><br>![](../images/create_dac_table_06.png)
 
 13. Click on the **Save** button to insert the records into the table.
  <br><br>![](../images/create_dac_table_07.png)
