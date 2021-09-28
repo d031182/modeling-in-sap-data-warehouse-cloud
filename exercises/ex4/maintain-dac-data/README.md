@@ -10,23 +10,24 @@ In this exercise we will create a **Data Access Control** and apply it on the da
 In the first step you define a local table, which contains the allowed value for a user.
 
 1. Navigate to the Repository Explorer
-2. Click on _**Create - Local Table**_ Button to create a new view
+2. Search and open the table _**T_DAC_DATA**_ 
   <br><br>![](../images/maintain_dac_01.png)
 
-  
-
-1. Click on the **Open Data Editor** button to enter the editing mode of the table:
+ 
+3. Click on the **Open Data Editor** button to enter the editing mode of the table:
   <br><br>![](../images/create_dac_table_02.png)
-2. Click on the **Add** button to create a new record with the following values:
+4. Click on the **Add** button to create a new record with the following values:
    ALLOWED_VALUE | USER_EMAIL | USER_ID
    ---|---|---
    9004 | _your user email_ | _your user id_  
-  <br><br>![](../images/maintain_dac_03.png)
+   <br><br>![](../images/maintain_dac_03.png)
 
-3. Click on the **Save** button to insert the records into the table.
+5. Click on the **Save** button to insert the records into the table.
   <br><br>![](../images/maintain_dac_04.png)
   
 
 ## Data Preview in View V_MY_INTERNAL_ORDERS 
+6. Navigate to the Repository Explorer
+7. 2. Search and open the view _**V_MY_INTERNAL_ORDERS**_ 
    <br><br>![](../images/maintain_dac_05.png)
-    <br><br>![](../images/maintain_dac_06.png)
+   <br><br>![](../images/maintain_dac_06.png)
