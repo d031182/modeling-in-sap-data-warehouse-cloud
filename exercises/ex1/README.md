@@ -1,11 +1,12 @@
-# SAP Data Warehouse Cloud Fundamentals
+# Upload CSV Files
 
-In this chapter, you will get a very rough introduction into some basic functionalities of SAP Data Warehouse Cloud, which is related and has impact on data modeling. 
-You will face them regularly during the exercises. 
+## Upload <i>Bike Sales</i> CSV Files
+In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud by uploading some sample datasets. This is a prerequiste for all follow-up exercises. 
 
 
 ## Summary
 
-You've now ...
+You've imported all sample data, that is required for all follow up exercises.
 
-Continue to - [Exercise 3 - Excercise 3 ](../ex3/README.md)
+Continue to - [Exercise 2](../ex2/README.md)
+
