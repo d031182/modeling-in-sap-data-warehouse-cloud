@@ -1,8 +1,8 @@
 # Maintain Data for a Data Access Control
 
-In this exercise we will create a **Data Access Control** and apply it on the data models. 
->:mortar_board: **Data Access Control**: Data access controls allow you to apply row-level security to your objects. When a data access control is applied to a data layer view or a business layer object, any user viewing its data will see only the rows for which they are authorized, based on the specified criteria. The Data Access Control acts like a **Lock**. Once defined, it can be attached to your data models to guard them from unauthorized data access.
->
+In this exercise we will maintain data of a **Data Access Control** and grant your user access to specific data of the view **_V_MY_INTERNAL_ORDERS_**. 
+This you will do by editing and inserting new entries in the Data Access Control table **_T_DAC_DATA_**.
+
 >For more information please see the [SAP Help site](https://help.sap.com/viewer/c8a54ee704e94e15926551293243fd1d/cloud/en-US/a032e51c730147c7a1fcac125b4cfe14.html).
  
 
