@@ -98,7 +98,6 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
      - [Exercise 4.8 - Create My Internal Orders View](/exercises/ex4/my-internal-orders-view)
         - Data Access Control 
         - View Stacking :construction::construction::construction:
-        - Table Data Maintenance   
      - [Exercise 4.9 - Maintain Data of a Data Access Control](/exercises/ex4/maintain-dac-data)
         - Data Access Control 
         - Table Data Maintenance  
