@@ -125,18 +125,18 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
     - 
 ### SAP Data Warehouse Fundamentals
-- [Fundamentals 1 - SAP Data Warehouse Cloud Fundamentals](exercises/ex0)
-     - [Fundamentals 1.1 - Repository Explorer] - :construction::construction::construction:
-     - [Fundamentals 1.2 - Data Source Browser] - :construction::construction::construction:
-     - [Fundamentals 1.3 - Space Management] - :construction::construction::construction:
-     - [Fundamentals 1.4 - Time Tables and Views Configurator](exercises/ex0/time-tables-views)
-     - [Fundamentals 1.5 - Currency Conversion Configurator] - :construction::construction::construction:
-     - [Fundamentals 1.6 - Fiscal Calendar Configurator] - :construction::construction::construction:
-     - [Fundamentals 1.7 - Modeling Entities] - :construction::construction::construction:
-     - [Fundamentals 1.8 - Data Lineage] - :construction::construction::construction:
-     - [Fundamentals 1.9 - Versioning](exercises/ex1/versioning) - :construction::construction::construction:
-     - [Fundamentals 1.10 - Change Management](exercises/ex0/change-management) - :construction::construction::construction:
-     - [Fundamentals 1.11 - View Persistence](exercises/ex0/change-management) - :construction::construction::construction:
+- [SAP Data Warehouse Cloud Fundamentals](exercises/ex0)
+     - [Repository Explorer] - :construction::construction::construction:
+     - [Data Source Browser] - :construction::construction::construction:
+     - [Space Management] - :construction::construction::construction:
+     - [Time Tables and Views Configurator](exercises/ex0/time-tables-views)
+     - [Currency Conversion Configurator] - :construction::construction::construction:
+     - [Fiscal Calendar Configurator] - :construction::construction::construction:
+     - [Modeling Entities] - :construction::construction::construction:
+     - [Data Lineage] - :construction::construction::construction:
+     - [Versioning](exercises/ex1/versioning) - :construction::construction::construction:
+     - [Change Management](exercises/ex0/change-management) - :construction::construction::construction:
+     - [View Persistence](exercises/ex0/change-management) - :construction::construction::construction:
 
 ## Links
 - SAP Data Warehouse Cloud in [SAP Roadmaps](https://roadmaps.sap.com/board?PRODUCT=73555000100800002141&range=FIRST-CURRENT)
