@@ -6,7 +6,6 @@ In this exercise we will create a **Data Access Control** and apply it on the da
 >For more information please see the [SAP Help site](https://help.sap.com/viewer/c8a54ee704e94e15926551293243fd1d/cloud/en-US/a032e51c730147c7a1fcac125b4cfe14.html).
  
 
-
 ## Create Data Access Control Table
 In the first step you define a local table, which contains the allowed value for a user.
 
@@ -31,17 +30,7 @@ In the first step you define a local table, which contains the allowed value for
 5. Click on the **Deploy** button to deploy the table.
   <br><br>![](../images/create_dac_table_04.png)
   
-## Maintain the Allowed Value for the User 
-1. Click on the **Open Data Editor** button to enter the editing mode of the table:
-  <br><br>![](../images/create_dac_table_05.png)
-2. Click on the **Add** button to create a new record with the following values:
-   ALLOWED_VALUE | USER_EMAIL | USER_ID
-   ---|---|---
-   9004 | _your user email_ | _your user id_  
-  <br><br>![](../images/create_dac_table_06.png)
 
-3. Click on the **Save** button to insert the records into the table.
-  <br><br>![](../images/create_dac_table_07.png)
 ## Create Company Code Data Access Control
 In this step, we are creating the _Data Access Control_ object and specify the critera for access per user.
 
