@@ -28,6 +28,6 @@ In the first step you define a local table, which contains the allowed value for
 
 ## Data Preview in View V_MY_INTERNAL_ORDERS 
 6. Navigate to the Repository Explorer
-7. 2. Search and open the view _**V_MY_INTERNAL_ORDERS**_ 
+7. Search and open the view _**V_MY_INTERNAL_ORDERS**_ 
    <br><br>![](../images/maintain_dac_05.png)
    <br><br>![](../images/maintain_dac_06.png)
