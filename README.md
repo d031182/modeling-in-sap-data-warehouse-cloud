@@ -66,29 +66,29 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Geo Spatial - Bubble Layer
    
    
-- [Exercise 4 - Internal Orders](/exercises/ex4/)
-    - [Exercise 4.1 - Create Employee View](/exercises/ex4/employees-view)
+- [Exercise 3 - Internal Orders](/exercises/ex3/)
+    - [Exercise 3.1 - Create Employee View](/exercises/ex3/employees-view)
         - Parent Child Hierarchy (Internal)  
-    - [Exercise 4.2 - Create Vendor Product Category Hierarchy View](/exercises/ex4/vendor-product-category-hierarchy-view)
+    - [Exercise 3.2 - Create Vendor Product Category Hierarchy View](/exercises/ex3/vendor-product-category-hierarchy-view)
         - Parenet Child Hierarchy (External) as a Hierarchy View
-    - [Exercise 4.3 - Create Vendor Products View](/exercises/ex4/vendor-products-view)
+    - [Exercise 3.3 - Create Vendor Products View](/exercises/ex3/vendor-products-view)
         - Hierarchy Association  
-    - [Exercise 4.4 - Wrap Currency Tables as Views](/exercises/ex4/currency-view)
-    - [Exercise 4.5 - Create Internal Orders View](/exercises/ex4/internal-orders-view)
+    - [Exercise 3.4 - Wrap Currency Tables as Views](/exercises/ex3/currency-view)
+    - [Exercise 3.5 - Create Internal Orders View](/exercises/ex3/internal-orders-view)
         - Calculation Node with Currency Conversion 
         - Input Parameters - :construction::construction::construction:
         - Story Filters - :construction::construction::construction:
         - Aggregation Node 
         - Union Node - :construction::construction::construction:
-     - [Exercise 4.7 - Create Data Access Control](/exercises/ex4/data-access-control)
+     - [Exercise 3.7 - Create Data Access Control](/exercises/ex3/data-access-control)
         - Data Access Control 
-     - [Exercise 4.8 - Create My Internal Orders View](/exercises/ex4/my-internal-orders-view)
+     - [Exercise 3.8 - Create My Internal Orders View](/exercises/ex3/my-internal-orders-view)
         - Data Access Control 
         - View Stacking :construction::construction::construction:
-     - [Exercise 4.9 - Maintain Data for a Data Access Control](/exercises/ex4/maintain-dac-data)
+     - [Exercise 3.9 - Maintain Data for a Data Access Control](/exercises/ex3/maintain-dac-data)
         - Data Access Control
         - Table Data Maintenance  
-     - [Exercise 4.10 - Create Internal Orders Story in SAP Analytics Cloud] - :construction::construction::construction:
+     - [Exercise 3.10 - Create Internal Orders Story in SAP Analytics Cloud] - :construction::construction::construction:
  
  - [Exercise 5 - Extended Internal Orders] - :construction::construction::construction:
     - Exercise 4.5 - Create Extended Internal Orders View - :construction::construction::construction:
