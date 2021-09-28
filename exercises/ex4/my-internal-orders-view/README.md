@@ -38,7 +38,6 @@
 
   <br><br>![](../images/create_my_internal_orders_ads_11.png)
   
-  <br><br>![](../images/create_my_internal_orders_ads_15.png)
 
 
 
