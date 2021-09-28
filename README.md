@@ -31,18 +31,18 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 
 ## Table of Content
 ### SAP Data Warehouse Fundamentals
-- [Exercise 1 - SAP Data Warehouse Cloud Fundamentals](exercises/ex1)
-     - [Exercise 1.1 - Repository Explorer] - :construction::construction::construction:
-     - [Exercise 1.2 - Data Source Browser] - :construction::construction::construction:
-     - [Exercise 1.3 - Space Management] - :construction::construction::construction:
-     - [Exercise 1.4 - Time Tables and Views Configurator](exercises/ex1/time-tables-views)
-     - [Exercise 1.5 - Currency Conversion Configurator] - :construction::construction::construction:
-     - [Exercise 1.6 - Fiscal Calendar Configurator] - :construction::construction::construction:
-     - [Exercise 1.7 - Modeling Entities] - :construction::construction::construction:
-     - [Exercise 1.8 - Data Lineage] - :construction::construction::construction:
-     - [Exercise 1.9 - Versioning](exercises/ex1/versioning) - :construction::construction::construction:
-     - [Exercise 1.10 - Change Management](exercises/ex1/change-management) - :construction::construction::construction:
-     - [Exercise 1.11 - View Persistence](exercises/ex1/change-management) - :construction::construction::construction:
+- [Fundamentals 1 - SAP Data Warehouse Cloud Fundamentals](exercises/ex0)
+     - [Fundamentals 1.1 - Repository Explorer] - :construction::construction::construction:
+     - [Fundamentals 1.2 - Data Source Browser] - :construction::construction::construction:
+     - [Fundamentals 1.3 - Space Management] - :construction::construction::construction:
+     - [Fundamentals 1.4 - Time Tables and Views Configurator](exercises/ex0/time-tables-views)
+     - [Fundamentals 1.5 - Currency Conversion Configurator] - :construction::construction::construction:
+     - [Fundamentals 1.6 - Fiscal Calendar Configurator] - :construction::construction::construction:
+     - [Fundamentals 1.7 - Modeling Entities] - :construction::construction::construction:
+     - [Fundamentals 1.8 - Data Lineage] - :construction::construction::construction:
+     - [Fundamentals 1.9 - Versioning](exercises/ex1/versioning) - :construction::construction::construction:
+     - [Fundamentals 1.10 - Change Management](exercises/ex0/change-management) - :construction::construction::construction:
+     - [Fundamentals 1.11 - View Persistence](exercises/ex0/change-management) - :construction::construction::construction:
 
 ### Data Layer
 - [Exercise 2 - Upload Sample Data](exercises/ex2/)
