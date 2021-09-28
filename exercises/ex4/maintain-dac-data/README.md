@@ -31,4 +31,5 @@ In the first step you define a local table, which contains the allowed value for
 6. Navigate to the Repository Explorer
 7. Search and open the view _**V_MY_INTERNAL_ORDERS**_ 
    <br><br>![](../images/maintain_dac_05.png)
+8. Select on the _Output_ Node the Data Preview from the context menu. As a result you should be able to see only data for **Company Code 9004**, which is maintained in the table **T_DAC_DATA**
    <br><br>![](../images/maintain_dac_06.png)
