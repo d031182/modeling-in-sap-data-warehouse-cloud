@@ -7,14 +7,17 @@
   >:mortar_board: **Note**: the properties and semantics from the previous view will be inherited to the new view, such as Measure classification, Attributes Semantics, etc. In the future also Input Parameters, Associations, Text and Hierarchy definitions will be reusable. 
   
   <br><br>![](../images/create_my_internal_orders_ads_02.png)
+  
+<!-- TBD
 4. TBD :construction::construction::construction:
   <br><br>![](../images/create_my_internal_orders_ads_03.png)
-  
+-->
+
 5. Select the Output Node in the canvas and configure the following properties:
-   - Business Name: <b>V_MY_INTERNAL_ORDERS</b>
-   - Technical Name: <b>V_MY_INTERNAL_ORDERS</b>
-   - Semantic Usage: <b>Analytical Dataset</b>
-   - Expose for Consumption: <b>ON</b>
+  - Business Name: <b>V_MY_INTERNAL_ORDERS</b>
+  - Technical Name: <b>V_MY_INTERNAL_ORDERS</b>
+  - Semantic Usage: <b>Analytical Dataset</b>
+  - Expose for Consumption: <b>ON</b>
  <br><br>![](../images/create_my_internal_orders_ads_04.png)
  <br><br>![](../images/create_my_internal_orders_ads_05.png)
   
