@@ -30,14 +30,14 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 [![DWC_Free_Trial](/images/FreeDWCTrial.png)](https://saphanajourney.com/data-warehouse-cloud/trial/)
 
 ## Table of Content
-
-### Data Layer
-- [Exercise 2 - Upload Sample Data](exercises/ex2/)
-     - [Exercise 2.1 - Upload BIKE SALES Sample Data](exercises/ex2/upload-bike-sales)
+### Get the Sample Data
+- [Exercise 1 - Upload Sample Data](exercises/ex1/)
+     - [Exercise 1.1 - Upload BIKE SALES Sample Data](exercises/ex1/upload-bike-sales)
         - Upload CSV Files 
-     - [Exercise 2.2 - Upload Currency Conversion Sample Data (TCUR*)](exercises/ex2/upload-tcur)
+     - [Exercise 1.2 - Upload Currency Conversion Sample Data (TCUR*)](exercises/ex1/upload-tcur)
         - Data Wrangling    
-        
+
+### Data Layer       
 - [Exercise 3 - Sales Orders](exercises/ex3/)  
     - [Exercise 3.1 - Create Business Partners View](/exercises/ex3/business-partners-view)
         - Dimension View
