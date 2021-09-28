@@ -38,8 +38,8 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Data Wrangling    
 
 ### Data Layer       
-- [Exercise 3 - Sales Orders](exercises/ex3/)  
-    - [Exercise 3.1 - Create Business Partners View](/exercises/ex3/business-partners-view)
+- [Exercise 2 - Sales Orders](exercises/ex2/)  
+    - [Exercise 2.1 - Create Business Partners View](/exercises/ex2/business-partners-view)
         - Dimension View
         - ID + Text Semantic
         - Join Node  
@@ -48,18 +48,18 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Geo Spatial
         - Data Preview
         - View Deployment
-    - [Exercise 3.2 - Create Product Texts View](/exercises/ex3/product-texts-view)
+    - [Exercise 2.2 - Create Product Texts View](/exercises/ex2/product-texts-view)
         - Text View 
-    - [Exercise 3.3 - Create Products View](/exercises/ex3/products-view)
+    - [Exercise 2.3 - Create Products View](/exercises/ex2/products-view)
         - Text Association   
-    - [Exercise 3.4 - Generate Time Tables and Views](/exercises/ex1/time-tables-views)
-    - [Exercise 3.5 - Create Sales Orders View](/exercises/ex3/sales-orders-view)
+    - [Exercise 2.4 - Generate Time Tables and Views](/exercises/ex0/time-tables-views)
+    - [Exercise 2.5 - Create Sales Orders View](/exercises/ex2/sales-orders-view)
         - Analytical Dataset View
         - Filter Node
         - Associations
         - Measures
         - Replace Table
-    - [Exercise 3.6 - Create Sales Story in SAP Analytics Cloud](/exercises/ex3/sales-story)
+    - [Exercise 2.6 - Create Sales Story in SAP Analytics Cloud](/exercises/ex2/sales-story)
         - ID + Description (Text)
         - Level Based Hierarchy
         - Time Series 
