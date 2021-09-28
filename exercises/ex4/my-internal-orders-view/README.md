@@ -31,14 +31,14 @@
    <br><br>![](../images/create_my_internal_orders_ads_09.png)
 
 9. Click on the **Deploy** button to deploy the view.
-  <br><br>![](../images/create_my_internal_orders_ads_11.png)
+  <br><br>![](../images/create_my_internal_orders_ads_10.png)
 
 ### Data Preview
 10. Select on the _Output_ Node the Data Preview from the context menu. As a result you should be able to see only data for **Company Code 9004**, which is maintained in the table **T_DAC_DATA**
 
   <br><br>![](../images/create_my_internal_orders_ads_12.png)
   
-  <br><br>![](../images/create_my_internal_orders_ads_10.png)
+  <br><br>![](../images/create_my_internal_orders_ads_13.png)
 
 
 
