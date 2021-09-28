@@ -6,7 +6,7 @@ In this exercise we will create a **Data Access Control** and apply it on the da
 >For more information please see the [SAP Help site](https://help.sap.com/viewer/c8a54ee704e94e15926551293243fd1d/cloud/en-US/a032e51c730147c7a1fcac125b4cfe14.html).
  
 
-## Create Data Access Control Table
+## Create Table for Data Access Control 
 In the first step you define a local table, which contains the allowed value for a user.
 
 1. Navigate to the Repository Explorer
@@ -31,7 +31,7 @@ In the first step you define a local table, which contains the allowed value for
   <br><br>![](../images/create_dac_table_04.png)
   
 
-## Create Company Code Data Access Control
+## Create Data Access Control
 In this step, we are creating the _Data Access Control_ object and specify the critera for access per user.
 
 1. Navigate to the Repository Explorer
