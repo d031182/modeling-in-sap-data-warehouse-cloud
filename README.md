@@ -93,13 +93,13 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Story Filters - :construction::construction::construction:
         - Aggregation Node 
         - Union Node - :construction::construction::construction:
-     - [Exercise 4.6 - Create Data Access Control](/exercises/ex4/data-access-control)
-        - Table Data Maintenance 
+     - [Exercise 4.7 - Create Data Access Control](/exercises/ex4/data-access-control)
         - Data Access Control 
-     - [Exercise 4.7 - Create My Internal Orders View](/exercises/ex4/my-internal-orders-view)
+     - [Exercise 4.8 - Create My Internal Orders View](/exercises/ex4/my-internal-orders-view)
         - Data Access Control 
-        - View Stacking :construction::construction::construction:  
-     - [Exercise 4.8 - Create Internal Orders Story in SAP Analytics Cloud] - :construction::construction::construction:
+        - View Stacking :construction::construction::construction:
+        - Table Data Maintenance   
+     - [Exercise 4.9 - Create Internal Orders Story in SAP Analytics Cloud] - :construction::construction::construction:
  
  - [Exercise 5 - Extended Internal Orders] - :construction::construction::construction:
     - Exercise 4.5 - Create Extended Internal Orders View - :construction::construction::construction:
