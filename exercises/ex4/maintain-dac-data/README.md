@@ -20,6 +20,7 @@ In the first step you define a local table, which contains the allowed value for
    ALLOWED_VALUE | USER_EMAIL | USER_ID
    ---|---|---
    9004 | _your user email_ | _your user id_  
+   
    <br><br>![](../images/maintain_dac_03.png)
 
 5. Click on the **Save** button to insert the records into the table.
