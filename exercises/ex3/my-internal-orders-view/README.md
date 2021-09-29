@@ -2,7 +2,7 @@
 
 1. Navigate to the Repository Explorer
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
-  <br><br>![](/exercises/ex2/images/create_in_repository_explorer.png)<br><br>
+  <br><br>![](/exercises/ex1/images/create_in_repository_explorer.png)<br><br>
 3. Drag and drop the view **_V_INTERNAL_ORDERS_** into the canvas, which you have created previously.
   >:mortar_board: **Note**: the properties and semantics from the previous view will be inherited to the new view, such as Measure classification, Attributes Semantics, etc. In the future also Input Parameters, Associations, Text and Hierarchy definitions will be reusable. 
   
