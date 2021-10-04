@@ -62,7 +62,9 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
     - [Exercise 2.6 - Create Sales Story in SAP Analytics Cloud](/exercises/ex2/sales-story)
         - ID + Description (Text)
         - Level Based Hierarchy
-        - Time Series 
+        - Time Series
+        - Variance on Previous and Current Period
+        - Range Filter
         - Geo Spatial - Bubble Layer
    
    
