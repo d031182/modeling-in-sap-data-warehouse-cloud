@@ -92,7 +92,7 @@
 29. Open the context menu of the chart, and click on **Compare To - Previous Year**.
   <br><br>![](../images/create_sales_story_36.png)
   
-  <br><br>![](../images/create_sales_story_36b.png)
+  <br><br>![](../images/create_sales_story_36a.png)
 
 ### Geo Spatial
 28. Add a new **Geo Map** into the canvas.
