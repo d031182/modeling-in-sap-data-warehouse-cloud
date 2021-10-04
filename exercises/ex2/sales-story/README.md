@@ -82,7 +82,8 @@
   
 26. Click on the **Hierarchy** button on the chart and set the level to **Level 2**.  
   <br><br>![](../images/create_sales_story_35.png)
-  
+
+27. In the Filters section add a new **Range Filter** for **CREATE_DATE** 
   <br><br>![](../images/create_sales_story_35a.png)
   
   <br><br>![](../images/create_sales_story_35b.png)
