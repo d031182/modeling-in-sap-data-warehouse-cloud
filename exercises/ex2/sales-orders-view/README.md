@@ -56,22 +56,20 @@
 *_YEAR for Year level
   >https://help.sap.com/viewer/c8a54ee704e94e15926551293243fd1d/cloud/en-US/5aae0e95361a4a4c964e69c52eada87d.html
 
-16a. Select the _Project Node_ and select the column **CREATDAT** to rename. 
-  <br><br>![](../images/create_sales_orders_ads_20.png)
-  
-16b. Rename the Business and Technical Name of the column to **CREATE_DATE**. 
+17. Select the _Project Node_ and select the column **CREATDAT** to rename.
+  <br><br>![](../images/create_sales_orders_ads_20.png)  
+18. Rename the Business and Technical Name of the column to **CREATE_DATE**.
   <br><br>![](../images/create_sales_orders_ads_21.png)
   
-17. Select the *Output Node* and add a new **Association** from the *Association Section*. 
+19. Select the *Output Node* and add a new **Association** from the *Association Section*. 
   <br><br>![](../images/create_sales_orders_ads_08.png)
-18. Find a select the view **SAP.TIME.VIEW_DIMENSION_DAY** (Time Dimension-Day)
+20. Find a select the view **SAP.TIME.VIEW_DIMENSION_DAY** (Time Dimension-Day)
   <br><br>![](../images/create_sales_orders_ads_13.png)
-19. Map the column **V_SALES_ORDERS.CREATE_DATE** with the column **SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL**
+21. Map the column **V_SALES_ORDERS.CREATE_DATE** with the column **SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL**
   <br><br>![](../images/create_sales_orders_ads_22.png)
-  
 
 ### Measures
-20. In the *Output Node* change the following attributes to **Measure**:
+22. In the *Output Node* change the following attributes to **Measure**:
   - **GROSSAMOUNT**
   - **NETAMOUNT**
   - **TAXAMOUNT**
@@ -79,7 +77,7 @@
     <br><br>![](../images/create_sales_orders_ads_15.png)
     <br><br>![](../images/create_sales_orders_ads_16.png)
   
-21. Click on **Deploy** button to deploy the view. Please check the **Status** after successful deployment.
+23. Click on **Deploy** button to deploy the view. Please check the **Status** after successful deployment.
   <br><br>![](../images/create_sales_orders_ads_17.png)
 
 
