@@ -55,7 +55,9 @@
 *_CALQUARTER for Quarter level
 *_YEAR for Year level
   >https://help.sap.com/viewer/c8a54ee704e94e15926551293243fd1d/cloud/en-US/5aae0e95361a4a4c964e69c52eada87d.html
-  
+
+16a. Select the _Project Node_ and select the column **CREATDAT** to rename. 
+  <br><br>![](../images/create_sales_orders_ads_20.png)
   
 17. Select the *Output Node* and add a new **Association** from the *Association Section*. 
   <br><br>![](../images/create_sales_orders_ads_08.png)
