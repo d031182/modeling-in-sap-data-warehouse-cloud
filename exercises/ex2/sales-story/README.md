@@ -77,7 +77,7 @@
 24. Add new **DIMENSION** into the dimensions section.  
   <br><br>![](../images/create_sales_story_33.png)
   
-25. Select the column **CREATDAT**.  
+25. Select the column **CREAT_DATE**.  
   <br><br>![](../images/create_sales_story_34.png)
   
 26. Click on the **Hierarchy** button on the chart and set the level to **Level 2**.  
