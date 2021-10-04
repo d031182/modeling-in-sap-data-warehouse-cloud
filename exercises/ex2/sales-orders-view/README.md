@@ -55,9 +55,9 @@
 19. Map the column **V_SALES_ORDERS.CREATEDAT** with the column **SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL**
   <br><br>![](../images/create_sales_orders_ads_14.png)
   
-  >:red_book: **Note**: In order to use a time dimension in SAP Analytics Cloud, you must create your dimension by following the procedure at Creating Time Dimensions. Manually-created or other time dimensions may not function correctly.
-
-In addition, attributes in an analytical dataset that are mapped to a time dimension via an association must have technical names that respect the following naming conventions:
+  >:book_red: **Note**: In order to use a time dimension in SAP Analytics Cloud, you must create your dimension by following the procedure at Creating Time Dimensions. Manually-created or other time dimensions may not function correctly.
+>
+>In addition, attributes in an analytical dataset that are mapped to a time dimension via an association must have technical names that respect the following naming conventions:
 *_DATE for Date/Day level
 *_CALMONTH for Month level
 *_CALQUARTER for Quarter level
