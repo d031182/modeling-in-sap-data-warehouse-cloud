@@ -85,7 +85,8 @@
 
 27. In the Filters section add a new **Range Filter** for **CREATE_DATE** 
   <br><br>![](../images/create_sales_story_35a.png)
-  
+
+28. Set the the **Look Back** property to **3**.
   <br><br>![](../images/create_sales_story_35b.png)
   
 27. Set the chart type to **Trend Line**.
