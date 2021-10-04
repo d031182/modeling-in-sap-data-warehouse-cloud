@@ -59,6 +59,9 @@
 16a. Select the _Project Node_ and select the column **CREATDAT** to rename. 
   <br><br>![](../images/create_sales_orders_ads_20.png)
   
+16b. Rename the column to **CREAT_DATE**. 
+  <br><br>![](../images/create_sales_orders_ads_21.png)
+  
 17. Select the *Output Node* and add a new **Association** from the *Association Section*. 
   <br><br>![](../images/create_sales_orders_ads_08.png)
 18. Find a select the view **SAP.TIME.VIEW_DIMENSION_DAY** (Time Dimension-Day)
