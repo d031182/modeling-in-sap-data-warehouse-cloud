@@ -83,6 +83,10 @@
 26. Click on the **Hierarchy** button on the chart and set the level to **Level 2**.  
   <br><br>![](../images/create_sales_story_35.png)
   
+  <br><br>![](../images/create_sales_story_35a.png)
+  
+  <br><br>![](../images/create_sales_story_35b.png)
+  
 27. Set the chart type to **Trend Line**.
   <br><br>![](../images/create_sales_story_36.png)
 
