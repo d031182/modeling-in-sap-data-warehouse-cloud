@@ -92,7 +92,7 @@
 29. Open the context menu of the chart, and click on **Compare To - Previous Year**.
   <br><br>![](../images/create_sales_story_36.png)
 
-30. Check the result of the chart.
+30. A new variance calculation will be added to the chart, which you can always change from the **Variance section**.
   <br><br>![](../images/create_sales_story_36a.png)
 
 ### Geo Spatial
