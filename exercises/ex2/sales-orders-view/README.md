@@ -46,6 +46,15 @@
 16. Map the column **V_SALES_ORDERS.PARTNERID** with the column **V_BUSINESS_PARTNERS.PARTNERID**
   <br><br>![](../images/create_sales_orders_ads_12.png)
   
+### Asscociating Time Dimension
+  >:book_red: **Note**: In order to use a time dimension in SAP Analytics Cloud, you must create your dimension by following the procedure at Creating Time Dimensions. Manually-created or other time dimensions may not function correctly.
+>
+>In addition, attributes in an analytical dataset that are mapped to a time dimension via an association must have technical names that respect the following naming conventions:
+*_DATE for Date/Day level
+*_CALMONTH for Month level
+*_CALQUARTER for Quarter level
+*_YEAR for Year level
+  >https://help.sap.com/viewer/c8a54ee704e94e15926551293243fd1d/cloud/en-US/5aae0e95361a4a4c964e69c52eada87d.html
   
   
 17. Select the *Output Node* and add a new **Association** from the *Association Section*. 
@@ -55,14 +64,6 @@
 19. Map the column **V_SALES_ORDERS.CREATEDAT** with the column **SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL**
   <br><br>![](../images/create_sales_orders_ads_14.png)
   
-  >:book_red: **Note**: In order to use a time dimension in SAP Analytics Cloud, you must create your dimension by following the procedure at Creating Time Dimensions. Manually-created or other time dimensions may not function correctly.
->
->In addition, attributes in an analytical dataset that are mapped to a time dimension via an association must have technical names that respect the following naming conventions:
-*_DATE for Date/Day level
-*_CALMONTH for Month level
-*_CALQUARTER for Quarter level
-*_YEAR for Year level
-  >https://help.sap.com/viewer/c8a54ee704e94e15926551293243fd1d/cloud/en-US/5aae0e95361a4a4c964e69c52eada87d.html
 
 ### Measures
 20. In the *Output Node* change the following attributes to **Measure**:
