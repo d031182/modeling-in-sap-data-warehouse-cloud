@@ -47,7 +47,7 @@
   <br><br>![](../images/create_sales_orders_ads_12.png)
   
 ### Asscociating Time Dimension
-  >:book_red: **Note**: In order to use a time dimension in SAP Analytics Cloud, you must create your dimension by following the procedure at Creating Time Dimensions. Manually-created or other time dimensions may not function correctly.
+  >:triangular_flag_on_post: **Note 4th-Oct-2021**: In order to use a time dimension in SAP Analytics Cloud, you must create your dimension by following the procedure at Creating Time Dimensions. Manually-created or other time dimensions may not function correctly.
 >
 >In addition, attributes in an analytical dataset that are mapped to a time dimension via an association must have technical names that respect the following naming conventions:
 *_DATE for Date/Day level
