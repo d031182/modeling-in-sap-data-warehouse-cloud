@@ -59,15 +59,15 @@
 16a. Select the _Project Node_ and select the column **CREATDAT** to rename. 
   <br><br>![](../images/create_sales_orders_ads_20.png)
   
-16b. Rename the column to **CREATE_DATE**. 
+16b. Rename the Business and Technical Name of the column to **CREATE_DATE**. 
   <br><br>![](../images/create_sales_orders_ads_21.png)
   
 17. Select the *Output Node* and add a new **Association** from the *Association Section*. 
   <br><br>![](../images/create_sales_orders_ads_08.png)
 18. Find a select the view **SAP.TIME.VIEW_DIMENSION_DAY** (Time Dimension-Day)
   <br><br>![](../images/create_sales_orders_ads_13.png)
-19. Map the column **V_SALES_ORDERS.CREATEDAT** with the column **SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL**
-  <br><br>![](../images/create_sales_orders_ads_14.png)
+19. Map the column **V_SALES_ORDERS.CREATE_DATE** with the column **SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL**
+  <br><br>![](../images/create_sales_orders_ads_22.png)
   
 
 ### Measures
