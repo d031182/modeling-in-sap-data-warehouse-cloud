@@ -89,8 +89,10 @@
 28. Set the the **Look Back** property to **3**.
   <br><br>![](../images/create_sales_story_35b.png)
   
-27. Set the chart type to **Trend Line**.
+29. Open the context menu of the chart, and click on **Compare To - Previous Year**.
   <br><br>![](../images/create_sales_story_36.png)
+  
+  <br><br>![](../images/create_sales_story_36b.png)
 
 ### Geo Spatial
 28. Add a new **Geo Map** into the canvas.
