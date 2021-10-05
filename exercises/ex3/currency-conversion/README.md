@@ -53,4 +53,4 @@
       <br><br>![](/exercises/ex4/images/currency_conversion_06.png)
 
 9. Click on <b><i>deploy</i></b> button to deploy the view
-<br><br>![](/exercises/ex4/images/currency_conversion_07.png)
+<br><br>![](../images/currency_conversion_07.png)
