@@ -139,8 +139,8 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 - [Change Management](exercises/ex0/change-management) - :construction::construction::construction:
 - [View Persistence](exercises/ex0/change-management) - :construction::construction::construction:
 
-## Issues and Feedbacks
-Issues and feedbacks are highly welcome. Please file your feedback and comment on the issues site of this repository. I will try to answer as soon as time allows.
+## Comments, Issues and Feedbacks
+Comments, issues and feedbacks are highly welcome to improve this tutorial grudually. Please file your feedback in the issues site of this repository. I will try to reply as soon as time allows :)
 https://github.com/d031182/modeling-in-sap-data-warehouse-cloud/issues
 
 ## Links
