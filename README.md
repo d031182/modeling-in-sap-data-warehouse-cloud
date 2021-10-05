@@ -16,6 +16,9 @@ In general, you should be aware that SAP Data Warehouse constantly updates and d
 That being said, I hope this tutorial will give you a solid understanding and insights into the fundamental modeling principles of SAP Data Warehouse Cloud on which you can build upon in the future.
 
 And now enjoy the tutorial ;)<br> 
+
+<br>[](/images/santran.png)
+
 San Tran<br>
 Product Manager, SAP
 
