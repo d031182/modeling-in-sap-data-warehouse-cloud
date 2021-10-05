@@ -26,7 +26,9 @@ In this exercise, you will learn about the basic modeling concepts and features,
     - [Exercise 2.6 - Create Sales Story in SAP Analytics Cloud](/exercises/ex2/sales-story)
         - ID + Description (Text)
         - Level Based Hierarchy
-        - Time Series 
+        - Time Series
+        - Variance on Previous and Current Period
+        - Range Filter
         - Geo Spatial - Bubble Layer
 
 <br><br>![](/exercises/ex2/images/SalesOrders_01.png)
