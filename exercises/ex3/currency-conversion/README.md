@@ -2,12 +2,12 @@
 
 1. Navigate to the Repository Explorer
 2. Search and open the view **V_INTERNAL_ORDERS** Button to create a new view
-  <br><br>![](/exercises/ex1/images/currency_conversion_01.png)<br><br>
+  <br><br>![](../images/currency_conversion_01.png)<br><br>
 3. Select the source node <b>CSV_InternalOrders</b> and add a new Calculation Node from the context menu.
-<br><br>![](../images/create_internal_orders_ads_12.png)
+<br><br>![](../images/currency_conversion_02.png)
 
 4. Select the Calculation Node and add a new <b>Calculated Column</b>.
-<br><br>![](../images/create_internal_orders_ads_13.png)
+<br><br>![](../images/currency_conversion_03.png)
 
 5. Configure the Calculated Column as the following:
     - Business Name: <b>TARGET_CURRENCY</b>
@@ -15,10 +15,10 @@
     - Data Type: <b>Double</b>
     - Length: <b>3</b>
     - Expression: <b>'EUR'</b>
-    <br><br>![](../images/create_internal_orders_ads_14.png)
+    <br><br>![](../images/currency_conversion_04.png)
 
 6. Select the Calculation Node and add another <b>Calculated Column</b>.
-<br><br>![](../images/create_internal_orders_ads_13.png)
+<br><br>![](../images/currency_conversion_03.png)
 
 7. Configure the Calculated Column as the following:
     - Business Name: <b>NETAMOUNT_TG</b>
