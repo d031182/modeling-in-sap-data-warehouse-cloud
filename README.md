@@ -80,8 +80,9 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Parenet Child Hierarchy (External) as a Hierarchy View
     - [Exercise 3.3 - Create Vendor Products View](/exercises/ex3/vendor-products-view)
         - Hierarchy Association  
-    - [Exercise 3.4 - Wrap Currency Tables as Views](/exercises/ex3/currency-wrapper-view)
-    - [Exercise 3.5 - Create Internal Orders View](/exercises/ex3/internal-orders-view)
+    - Exercise 3.4 - Create Internal Orders View
+        - [Exercise 3.4.1 - Create Internal Orders View](/exercises/ex3/internal-orders-view)
+        - [Exercise 3.4.2 - Wrap Currency Tables as Views](/exercises/ex3/currency-wrapper-view)
         - Calculation Node with Currency Conversion      
      - [Exercise 3.6 - Using Input Parameters](/exercises/ex3/input-parameter)
         - Input Parameters - :construction::construction::construction:
