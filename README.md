@@ -139,6 +139,10 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 - [Change Management](exercises/ex0/change-management) - :construction::construction::construction:
 - [View Persistence](exercises/ex0/change-management) - :construction::construction::construction:
 
+## Issues and Feedbacks
+Issues and feedbacks are highly welcome. Please file your feedback and comment on the issues site of this repository. I will try to answer as soon as time allows.
+https://github.com/d031182/modeling-in-sap-data-warehouse-cloud/issues
+
 ## Links
 - SAP Data Warehouse Cloud in [SAP Roadmaps](https://roadmaps.sap.com/board?PRODUCT=73555000100800002141&range=FIRST-CURRENT)
 - Latest and greatest features of SAP Data Warehouse Cloud are presented regularly in [What's New](https://jam4.sapjam.com/blogs/show/JytsjzYpI9LproZNYpdkhG)
