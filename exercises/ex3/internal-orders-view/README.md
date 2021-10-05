@@ -39,58 +39,8 @@
 13. Map the column <b>V_INTERNAL_ORDERS.CREATEDAT</b> with the column <b>SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL</b>
 <br><br>![](../images/create_internal_orders_ads_11.png)
 
-### Create Calculated Measures - Currency Conversion
-14. Select the source node <b>CSV_InternalOrders</b> and add a new Calculation Node from the context menu.
-<br><br>![](../images/create_internal_orders_ads_12.png)
-
-15. Select the Calculation Node and add a new <b>Calculated Column</b>.
-<br><br>![](../images/create_internal_orders_ads_13.png)
-
-16. Configure the Calculated Column as the following:
-    - Business Name: <b>TARGET_CURRENCY</b>
-    - Technical Name: <b>TARGET_CURRENCY</b>
-    - Data Type: <b>Double</b>
-    - Length: <b>3</b>
-    - Expression: <b>'EUR'</b>
-    <br><br>![](../images/create_internal_orders_ads_14.png)
-
-17. Select the Calculation Node and add another <b>Calculated Column</b>.
-<br><br>![](../images/create_internal_orders_ads_13.png)
-
-18. Configure the Calculated Column as the following:
-    - Business Name: <b>NETAMOUNT_TG</b>
-    - Technical Name: <b>NETAMOUNT_TG</b>
-    - Data Type: <b>Double</b>
-    - Length: <b>3</b>
-    - Expression: 
-      ```javascript
-      CONVERT_CURRENCY(
-        "AMOUNT" => "NETAMOUNT", 
-        "SOURCE_UNIT" => "CURRENCY", 
-        "TARGET_UNIT" => 'EUR', 
-        "CONVERSION_TYPE" => 'M', 
-        "REFERENCE_DATE" => CURRENT_DATE, 
-        "CLIENT" => '002', "SCHEMA" => 'ZST_WORKSHOP', 
-        "ERROR_HANDLING" => 'set_to_null', 
-        "STEPS" => 'shift,convert,round', 
-        "PRECISIONS_TABLE" => 'V_TCURX', 
-        "CONFIGURATION_TABLE" => 'V_TCURV', 
-        "PREFACTORS_TABLE" => 'V_TCURF', 
-        "RATES_TABLE" => 'V_TCURR')
-      ```
-        >🎓 **CONVERT_CURRENCY() Function**: More information about the SAP HANA Function and the configuration of the parameters can be found under the [SAP Help site](https://help.sap.com/viewer/7c78579ce9b14a669c1f3295b0d8ca16/Cloud/en-US/d22d746ed2951014bb7fb0114ffdaf96.html). 
-
-
-      <br>![](../images/create_internal_orders_ads_15.png)
-      
-    
-19. Select the Calculation Node and click on <b>Data Preview</b> from the context menu.
-    - Validate the values in <b>NETAMOUNT_TG</b> and <b>TARGET_CURRENCY</b>
-    - Compare the values between <b>NETAMOUNT</b> and <b>NETAMOUNT_TG</b>
-      <br><br>![](/exercises/ex4/images/create_internal_orders_ads_16.png)
-
 ### Set Measures
-19. Select the <i>Output Node</i> and change the following columns into measures:<b>
+14. Select the <i>Output Node</i> and change the following columns into measures:<b>
   - NETAMOUNT
   - NETAMOUNT_TG
   - GROSSAMOUNT
@@ -100,6 +50,6 @@
   <br>![](/exercises/ex4/images/create_internal_orders_ads_18.png)
 
 ### Deploy
-9. Click on <b><i>deploy</i></b> button to deploy the view
+15. Click on <b><i>deploy</i></b> button to deploy the view
 <br><br>![](/exercises/ex4/images/create_internal_orders_ads_29.png)
 <br>![](/exercises/ex4/images/create_internal_orders_ads_30.png)
