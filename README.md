@@ -17,7 +17,7 @@ That being said, I hope this tutorial will give you a solid understanding and in
 
 And now enjoy the tutorial ;)<br> 
 
-<br>[](images/santran.png)
+<br>[](/images/santran.png)<br>
 
 San Tran<br>
 Product Manager, SAP
