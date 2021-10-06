@@ -77,7 +77,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
     - [Exercise 3.1 -Create Employee View](/exercises/ex3/employees-view)
         - Parent Child Hierarchy (Internal)  
     - [Exercise 3.2 - Create Vendor Product Category Hierarchy View](/exercises/ex3/vendor-product-category-hierarchy-view)
-        - Parenet Child Hierarchy (External) as a Hierarchy View
+        - Parent Child Hierarchy (External) as a Hierarchy View
     - [Exercise 3.3 - Create Vendor Products View](/exercises/ex3/vendor-products-view)
         - Hierarchy Association
     - [Exercise 3.4 - Create Internal Orders View](/exercises/ex3/internal-orders-view)
