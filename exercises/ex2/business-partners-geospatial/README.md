@@ -1,9 +1,6 @@
 
 # Apply Geo Spatial on _Business Partners_ View
-In this exercise we will create our first View of type *Dimension*. 
->:mortar_board: **Dimension**:
->A Dimension is a term which comes from the OLAP (Online Analytical Processing) and Starschema domain. It represents Master Data such as Business Partners, Products, Customers, Sales Organization. Master Data usually carries texts and descriptive attributes, which exist in multiple languages. 
-
+In this exercise we will apply Geo Spatial configuration on the view _**V_BUSINESS_PARTNERS**_. 
 
 1. Navigate to the Repository Explorer
 2. Search and open the view _**V_BUSINESS_PARTNERS**_
