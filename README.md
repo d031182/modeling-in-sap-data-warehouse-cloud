@@ -75,12 +75,12 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Geo Spatial - Bubble Layer
    
 
-- [Exercise 3 - Internal Orders](exercises/ex3/)  
-    - [Exercise 3.1 -Create Employee View](/exercises/ex3/employees-view)
+- [**Exercise 3 - Internal Orders**](exercises/ex3/)  
+    - [**Exercise 3.1 -Create Employee View**](/exercises/ex3/employees-view)
         - Parent Child Hierarchy (Internal)  
-    - [Exercise 3.2 - Create Vendor Product Category Hierarchy View](/exercises/ex3/vendor-product-category-hierarchy-view)
+    - [**Exercise 3.2 - Create Vendor Product Category Hierarchy View**](/exercises/ex3/vendor-product-category-hierarchy-view)
         - Parent Child Hierarchy (External) as a Hierarchy View
-    - [Exercise 3.3 - Create Vendor Products View](/exercises/ex3/vendor-products-view)
+    - [**Exercise 3.3 - Create Vendor Products View**](/exercises/ex3/vendor-products-view)
         - Hierarchy Association
     - [**Exercise 3.4 - Create Internal Orders View**](/exercises/ex3/internal-orders-view)
         - [Exercise 3.4.1 - Wrap Currency Tables as Views](/exercises/ex3/currency-wrapper-view)
@@ -91,13 +91,13 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
           - Union Node - :construction::construction::construction:
           - Story Filters - :construction::construction::construction:
           - Aggregation Node - :construction::construction::construction:
-     - [Exercise 3.5 - Create My Internal Orders View](/exercises/ex3/my-internal-orders-view)
+     - [**Exercise 3.5 - Create My Internal Orders View**](/exercises/ex3/my-internal-orders-view)
         - [Exercise 3.5.1 - Create Data Access Control](/exercises/ex3/data-access-control)
           - Data Access Control
         - [Exercise 3.5.2 - Apply Data Access Control](/exercises/ex3/apply-data-access-control)
         - [Exercise 3.5.3 - Maintain Data for a Data Access Control](/exercises/ex3/maintain-dac-data)
           - Table Data Maintenance
-     - [Exercise 3.6 - Create Internal Orders Story in SAP Analytics Cloud] - :construction::construction::construction:
+     - [**Exercise 3.6 - Create Internal Orders Story in SAP Analytics Cloud**] - :construction::construction::construction:
     
  
  - [Exercise 5 - Extended Internal Orders] - :construction::construction::construction:
