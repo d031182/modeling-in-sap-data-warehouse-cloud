@@ -1,7 +1,7 @@
 # Apply Data Access Control in My Internal Orders View
 
 1. Navigate to the Repository Explorer
-2. Search and open the view **_V_MY_INTERNAL_ORDERS_** into the canvas, which you have created previously.
+2. Search and open the view **_V_MY_INTERNAL_ORDERS_**, which you have created previously.
   <br><br>![](../images/apply_dac_01.png)<br><br>
 
 3. Navigate to the _Data Access Control_ section of the Output Node and add a new Data Access Control.
