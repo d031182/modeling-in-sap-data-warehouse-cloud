@@ -84,11 +84,11 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - [Exercise 3.4.1 - Wrap Currency Tables as Views](/exercises/ex3/currency-wrapper-view)
         - [Exercise 3.4.2 - Apply Currency Conversion](/exercises/ex3/currency-conversion)
           - Calculation Node with Currency Conversion      
-     - [Exercise 3.6 - Using Input Parameters](/exercises/ex3/input-parameter)
-        - Input Parameters - :construction::construction::construction:
-        - Union Node - :construction::construction::construction:
-        - Story Filters - :construction::construction::construction:
-        - Aggregation Node - :construction::construction::construction:
+        - [Exercise 3.4.3 - Using Input Parameters](/exercises/ex3/input-parameter) - :construction::construction::construction:
+          - Input Parameters - :construction::construction::construction:
+          - Union Node - :construction::construction::construction:
+          - Story Filters - :construction::construction::construction:
+          - Aggregation Node - :construction::construction::construction:
      - [Exercise 3.7 - Create Data Access Control](/exercises/ex3/data-access-control)
         - Data Access Control 
      - [Exercise 3.8 - Create My Internal Orders View](/exercises/ex3/my-internal-orders-view)
