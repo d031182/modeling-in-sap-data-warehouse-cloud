@@ -82,7 +82,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Parent Child Hierarchy (External) as a Hierarchy View
     - [Exercise 3.3 - Create Vendor Products View](/exercises/ex3/vendor-products-view)
         - Hierarchy Association
-    - [Exercise 3.4 - Create Internal Orders View](/exercises/ex3/internal-orders-view)
+    - [**Exercise 3.4 - Create Internal Orders View**](/exercises/ex3/internal-orders-view)
         - [Exercise 3.4.1 - Wrap Currency Tables as Views](/exercises/ex3/currency-wrapper-view)
         - [Exercise 3.4.2 - Apply Currency Conversion](/exercises/ex3/currency-conversion)
           - Calculation Node with Currency Conversion      
