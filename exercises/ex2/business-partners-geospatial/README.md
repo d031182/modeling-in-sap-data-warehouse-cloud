@@ -6,8 +6,8 @@ In this exercise we will create our first View of type *Dimension*.
 
 
 1. Navigate to the Repository Explorer
-2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
-  <br><br>![](/exercises/ex1/images/create_in_repository_explorer.png)
+2. Search and open the view _**V_BUSINESS_PARTNERS**_
+  <br><br>![](../images/create_business_partner_geospatial_01.png)
 
 3. Click on **Details** button and configure the following properties:
     - Business Name: <b>V_BUSINESS_PARTNERS</b>
