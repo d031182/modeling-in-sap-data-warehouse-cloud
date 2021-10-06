@@ -38,15 +38,15 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 
 ## Table of Content
 ### Get the Sample Data
-- [Exercise 1 - Upload Sample Data](exercises/ex1/)
-     - [Exercise 1.1 - Upload BIKE SALES Sample Data](exercises/ex1/upload-bike-sales)
+- [**Exercise 1 - Upload Sample Data**](exercises/ex1/)
+     - [**Exercise 1.1 - Upload BIKE SALES Sample Data**](exercises/ex1/upload-bike-sales)
         - Upload CSV Files 
-     - [Exercise 1.2 - Upload Currency Conversion Sample Data (TCUR*)](exercises/ex1/upload-tcur)
+     - [**Exercise 1.2 - Upload Currency Conversion Sample Data (TCUR*)**](exercises/ex1/upload-tcur)
         - Data Wrangling    
 
 ### Data Layer       
-- [Exercise 2 - Sales Orders](exercises/ex2/)  
-    - [Exercise 2.1 - Create Business Partners View](/exercises/ex2/business-partners-view)
+- [**Exercise 2 - Sales Orders**](exercises/ex2/)  
+    - [**Exercise 2.1 - Create Business Partners View**](/exercises/ex2/business-partners-view)
         - Dimension View
         - ID + Text Semantic
         - Join Node  
@@ -55,18 +55,18 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Geo Spatial
         - Data Preview
         - View Deployment
-    - [Exercise 2.2 - Create Product Texts View](/exercises/ex2/product-texts-view)
+    - [**Exercise 2.2 - Create Product Texts View**](/exercises/ex2/product-texts-view)
         - Text View 
-    - [Exercise 2.3 - Create Products View](/exercises/ex2/products-view)
+    - **[Exercise 2.3 - Create Products View**](/exercises/ex2/products-view)
         - Text Association   
-    - [Exercise 2.4 - Generate Time Tables and Views](/exercises/ex0/time-tables-views)
-    - [Exercise 2.5 - Create Sales Orders View](/exercises/ex2/sales-orders-view)
+    - [**Exercise 2.4 - Generate Time Tables and Views**](/exercises/ex0/time-tables-views)
+    - [**Exercise 2.5 - Create Sales Orders View**](/exercises/ex2/sales-orders-view)
         - Analytical Dataset View
         - Filter Node
         - Associations
         - Measures
         - Replace Table
-    - [Exercise 2.6 - Create Sales Story in SAP Analytics Cloud](/exercises/ex2/sales-story)
+    - [**Exercise 2.6 - Create Sales Story in SAP Analytics Cloud**](/exercises/ex2/sales-story)
         - ID + Description (Text)
         - Level Based Hierarchy
         - Time Series
