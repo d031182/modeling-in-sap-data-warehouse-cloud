@@ -18,7 +18,6 @@
 6. Click on the **Deploy** button to deploy the view.
   <br><br>![](../images/apply_dac_05.png)
 
-### Data Preview
 7. Select on the _Output_ Node the Data Preview from the context menu. As a result you should not see any data, since your user does not have any valid access maintained in the table **T_DAC_DATA**. This will be part of the next exercise :)
 
   <br><br>![](../images/apply_dac_06.png)
