@@ -4,7 +4,7 @@ In this exercise we will maintain data of a **Data Access Control** and grant yo
 This you will do by editing and inserting new entries directly into the Data Access Control table **_T_DAC_DATA_**.
 Of course, you could also upload CSV file, which contains the access values for all users.
 
->For more information please see the [SAP Help site](https://help.sap.com/viewer/c8a54ee704e94e15926551293243fd1d/cloud/en-US/a032e51c730147c7a1fcac125b4cfe14.html).
+>For more information on Data Acccess Control please see the [SAP Help site](https://help.sap.com/viewer/c8a54ee704e94e15926551293243fd1d/cloud/en-US/a032e51c730147c7a1fcac125b4cfe14.html).
 
 ## Maintain allowed value in _T_DAC_DATA_
 In the first step you define a local table, which contains the allowed value for a user.
