@@ -44,6 +44,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
      - [**Exercise 1.2 - Upload Currency Conversion Sample Data (TCUR)**](exercises/ex1/upload-tcur)
         - Data Wrangling    
 
+- [<h2>Exercise 1 - Upload Sample Data</h2>](exercises/ex1/)  
 ### Data Layer       
 - [<h2>Exercise 2 - Sales Orders</h2>](exercises/ex2/)  
     - [**Exercise 2.1 - Create Business Partners View**](/exercises/ex2/business-partners-view)
