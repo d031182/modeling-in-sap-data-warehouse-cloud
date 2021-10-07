@@ -6,7 +6,6 @@ In this exercise we will apply Geo Spatial configuration on the view _**V_BUSINE
 2. Search and edit the view _**V_BUSINESS_PARTNERS**_
   <br><br>![](../images/create_business_partner_geospatial_01.png)
 
-### Geo Spatial
 3. Select the *Projection Node* and add a new **Calculation Node** from the context menu
   <br><br>![](../images/create_business_partner_dimension_11.png)
 4. Add a new **Geo-Coordinates Column**.
@@ -20,6 +19,5 @@ In this exercise we will apply Geo Spatial configuration on the view _**V_BUSINE
     - Longitude: **LONGITUDE** 
   <br><br>![](../images/create_business_partner_dimension_13.png)
 
-### Deployment
-15. Click on <b>Deploy</b> button to deploy the view
+6. Click on <b>Deploy</b> button to deploy the view
   <br><br>![](../images/create_business_partner_dimension_15.png)
