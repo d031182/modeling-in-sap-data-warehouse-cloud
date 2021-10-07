@@ -56,7 +56,6 @@
 <br><br>![](../images/create_internal_orders_ads_11.png)
 
 
-
 ### Deploy
 15. Click on <b><i>deploy</i></b> button to deploy the view
 <br><br>![](/exercises/ex4/images/create_internal_orders_ads_29.png)
