@@ -53,7 +53,7 @@
 <br><br>![](../images/create_internal_orders_association_08.png)
 
 13. Map the column <b>V_INTERNAL_ORDERS.CREATEDAT</b> with the column <b>SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL</b>
-<br><br>![](../images/create_internal_orders_ads_11.png)
+<br><br>![](../images/create_internal_orders_association_09.png)
 
 
 ### Deploy
