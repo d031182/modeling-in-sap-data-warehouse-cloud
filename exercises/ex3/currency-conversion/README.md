@@ -21,11 +21,11 @@
 <br><br>![](../images/currency_conversion_03.png)
 
 7. Configure the Calculated Column as the following:
-- Business Name: <b>NETAMOUNT_TG</b>
-- Technical Name: <b>NETAMOUNT_TG</b>
-- Data Type: <b>Double</b>
-- Length: <b>3</b>
-- Expression: 
+  - Business Name: <b>NETAMOUNT_TG</b>
+  - Technical Name: <b>NETAMOUNT_TG</b>
+  - Data Type: <b>Double</b>
+  - Length: <b>3</b>
+  - Expression: 
   
     ```javascript
     CONVERT_CURRENCY(
