@@ -1,4 +1,4 @@
-# Create <i>Hierarchy Association</i> View
+# Create <i>Hierarchy Association</i>
 
 1. Navigate to the Repository Explorer
 2. Search and edit the view _**V_VENDOR_PRODUCTS**_
