@@ -4,26 +4,26 @@
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
   <br><br>![](/exercises/ex1/images/create_in_repository_explorer.png)<br><br>
 3. Drag and drop the table <b><i>CSV_VendorProductCategoryHierarchy</i></b> into the canvas
-  <br><br>![](../images/create_internal_orders_ads_01a.png)
+  <br><br>![](../images/create_internal_orders_ads_01c.png)
 4. Select the Output Node in the canvas and configure the following properties:
     - Business Name: <b>V_INTERNAL_ORDERS</b>
     - Technical Name: <b>V_INTERNAL_ORDERS</b>
     - Semantic Usage: <b>Analytical Dataset</b>
     - Expose for Consumption: <b>ON</b>
-    <br><br>![](../images/create_internal_orders_ads_02a.png)
+    <br><br>![](../images/create_internal_orders_ads_02c.png)
 
 5. Select the <i>Output Node</i> and change the following columns into measures:<b>
   - NETAMOUNT
   - GROSSAMOUNT
   - TAXAMOUNT
   - QUANTITY</b>
-  <br><br>![](../images/create_internal_orders_ads_03a.png)
+  <br><br>![](../images/create_internal_orders_ads_03c.png)
 
 6. Click on the **CSV_InternalOrders Node** and add a **Projection Node** from the context menu.
-  <br><br>![](../images/create_internal_orders_ads_04a.png)
+  <br><br>![](../images/create_internal_orders_ads_04c.png)
   
 7. Select the column **CREATEDAT** from the **Projection Node** and click on **Change Name**.
-  <br><br>![](../images/create_internal_orders_ads_05a.png)
+  <br><br>![](../images/create_internal_orders_ads_05c.png)
 
 8. Change the name of the column to **CREATE_DATE**.
   <br><br>![](../images/create_internal_orders_ads_06.png)
@@ -58,5 +58,5 @@
 
 ### Deploy
 15. Click on <b><i>deploy</i></b> button to deploy the view
-<br><br>![](/exercises/ex4/images/create_internal_orders_ads_07a.png)
-<br>![](/exercises/ex4/images/create_internal_orders_ads_08a.png)
+<br><br>![](/exercises/ex4/images/create_internal_orders_ads_07c.png)
+<br>![](/exercises/ex4/images/create_internal_orders_ads_08c.png)
