@@ -1,4 +1,4 @@
-# Apply Currency Conversion for Internal Orders View
+# Create Calculation Node with Currency Conversion
 
 1. Navigate to the Repository Explorer
 2. Search and open the view **V_INTERNAL_ORDERS** Button to create a new view
