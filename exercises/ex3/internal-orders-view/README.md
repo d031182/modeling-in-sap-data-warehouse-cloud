@@ -38,19 +38,19 @@
 <br><br>![](../images/create_internal_orders_association_03.png)
 
 8. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
-<br><br>![](../images/create_internal_orders_ads_05.png)
+<br><br>![](../images/create_internal_orders_association_04.png)
 
 9. Find a select the view <b>V_EMPLOYEES</b>
-<br><br>![](../images/create_internal_orders_ads_08.png)
+<br><br>![](../images/create_internal_orders_association_05.png)
 
 10. Map the column <b>V_INTERNAL_ORDERS.EMPLOYEEID</b> with the column <b>V_EMPLOYEES.EMPLOYEEID</b>
-<br><br>![](../images/create_internal_orders_ads_09.png)
+<br><br>![](../images/create_internal_orders_association_06.png)
 
 11. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
-<br><br>![](../images/create_internal_orders_ads_05.png)
+<br><br>![](../images/create_internal_orders_association_07.png)
 
 12. Find a select the view <b>SAP.TIME.VIEW_DIMENSION_DAY (Time Dimension-Day)</b>
-<br><br>![](../images/create_internal_orders_ads_10.png)
+<br><br>![](../images/create_internal_orders_association_08.png)
 
 13. Map the column <b>V_INTERNAL_ORDERS.CREATEDAT</b> with the column <b>SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL</b>
 <br><br>![](../images/create_internal_orders_ads_11.png)
