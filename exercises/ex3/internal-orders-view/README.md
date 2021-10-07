@@ -23,7 +23,7 @@
   <br><br>![](../images/create_internal_orders_ads_03.png)
   
 7. Select the column **CREATEDAT** from the **Projection Node** and click on **Change Name**.
-  <br><br>![](../images/create_internal_orders_ads_05.png)
+  <br><br>![](../images/create_internal_orders_ads_04.png)
 
 8. Change the name of the column to **CREATE_DATE**.
   <br><br>![](../images/create_internal_orders_ads_06.png)
