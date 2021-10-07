@@ -2,7 +2,7 @@
 
 1. Navigate to the Repository Explorer
 2. Search and edit the view **V_PRODUCTS**
-   <br><br>![](/exercises/ex1/images/create_in_repository_explorer.png)  
+   <br><br>![](/exercises/ex1/images/create_product_text_association_01.png)  
 3. Add a new <b>Text Association</b> from the <i>Association</i> section  
   <br>![](../images/create_product_text_association_01.png)
 
