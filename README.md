@@ -38,7 +38,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 
 ## Table of Content
 ### Get the Sample Data
-- [**Exercise 1 - Upload Sample Data**](exercises/ex1/)
+- [<h2>Exercise 1 - Upload Sample Data</h2>](exercises/ex1/)
      - [**Exercise 1.1 - Upload BIKE SALES Sample Data**](exercises/ex1/upload-bike-sales)
         - Upload CSV Files 
      - [**Exercise 1.2 - Upload Currency Conversion Sample Data (TCUR*)**](exercises/ex1/upload-tcur)
