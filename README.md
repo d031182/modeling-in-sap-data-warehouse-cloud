@@ -59,7 +59,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
     - [**Exercise 2.2 - Create Products View**](/exercises/ex2/products-view)
         - [Exercise 2.2.1 - Create Product Texts View](/exercises/ex2/product-texts-view)
           - Text View 
-        - [Exercise 2.2.1 - Add Product Text Association](/exercises/ex2/product-texts-association)
+        - [Exercise 2.2.2 - Add Product Text Association](/exercises/ex2/product-texts-association)
           - Text Association
     - [**Exercise 2.4 - Generate Time Tables and Views**](/exercises/ex0/time-tables-views)
     - [**Exercise 2.5 - Create Sales Orders View**](/exercises/ex2/sales-orders-view)
