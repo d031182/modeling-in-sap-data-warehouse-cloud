@@ -7,10 +7,10 @@
   <br>![](../images/create_product_text_association_02.png)
 
 4. Find and select the view <b>V_PRODUCT_TEXTS</b>
-  <br><br>![](../images/create_products_dimension_05.png)
+  <br><br>![](../images/create_product_text_association_03.png)
 
 5. Map the column <b>V_PRODUCTS.PRODUCTID</b> and column <b>V_PRODUCT_TEXTS.PRODUCTID</b>
-  <br><br>![](../images/create_products_dimension_04.png)
+  <br><br>![](../images/create_product_text_association_04.png)
 
 6. Click on <b><i>deploy</i></b> button to deploy the view
-  <br><br>![](../images/create_products_dimension_07.png)
+  <br><br>![](../images/create_product_text_association_05.png)
