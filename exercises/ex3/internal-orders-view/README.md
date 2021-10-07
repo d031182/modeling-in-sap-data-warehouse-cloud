@@ -12,10 +12,19 @@
     - Expose for Consumption: <b>ON</b>
     <br><br>![](../images/create_internal_orders_ads_02.png)
 
-5. Click on the **CSV_InternalOrders Node** and add a **Projection Node** from the context menu.
+5. Select the <i>Output Node</i> and change the following columns into measures:<b>
+  - NETAMOUNT
+  - NETAMOUNT_TG
+  - GROSSAMOUNT
+  - TAXAMOUNT
+  - QUANTITY</b>
+  <br><br>![](/exercises/ex4/images/create_internal_orders_ads_17.png)
+  <br>![](/exercises/ex4/images/create_internal_orders_ads_18.png)
+
+6. Click on the **CSV_InternalOrders Node** and add a **Projection Node** from the context menu.
   <br><br>![](../images/create_internal_orders_ads_03.png)
   
-6. Select the column **CREATEDAT** from the **Projection Node** and click on **Change Name**.
+7. Select the column **CREATEDAT** from the **Projection Node** and click on **Change Name**.
   <br><br>![](../images/create_internal_orders_ads_04.png)
 
 
@@ -46,15 +55,7 @@
 13. Map the column <b>V_INTERNAL_ORDERS.CREATEDAT</b> with the column <b>SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL</b>
 <br><br>![](../images/create_internal_orders_ads_11.png)
 
-### Set Measures
-14. Select the <i>Output Node</i> and change the following columns into measures:<b>
-  - NETAMOUNT
-  - NETAMOUNT_TG
-  - GROSSAMOUNT
-  - TAXAMOUNT
-  - QUANTITY</b>
-  <br><br>![](/exercises/ex4/images/create_internal_orders_ads_17.png)
-  <br>![](/exercises/ex4/images/create_internal_orders_ads_18.png)
+
 
 ### Deploy
 15. Click on <b><i>deploy</i></b> button to deploy the view
