@@ -18,10 +18,9 @@
     - <b>PRODUCT ID</b>: set the label to <b>LONG_DESCR</b>
     <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_13.png)
  7. Close the Attribute Properties dialog
- 8.  Navigate to the <i>Associations</i> section and add a new <b>hieararchy association</b>
- 11. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
+ 8. Select the Output Node in the canvas and click on <b>Data Preview</b> from the context menu
    <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_03.png)
- 12. Click on <b><i>deploy</i></b> button to deploy the view
+ 9. Click on <b><i>deploy</i></b> button to deploy the view
   <br><br>![](/exercises/ex4/images/create_vendor_product_dimension_04.png)
 
 
