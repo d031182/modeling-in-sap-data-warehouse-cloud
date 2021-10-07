@@ -14,6 +14,10 @@
 
 5. Click on the **CSV_InternalOrders Node** and add a **Projection Node** from the context menu.
   <br><br>![](../images/create_internal_orders_ads_03.png)
+  
+6. Select the column **CREATEDAT** from the **Projection Node** and click on **Change Name**.
+  <br><br>![](../images/create_internal_orders_ads_04.png)
+
 
 ### Create Associations
 5. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
