@@ -10,20 +10,20 @@
     - Technical Name: <b>V_INTERNAL_ORDERS</b>
     - Semantic Usage: <b>Analytical Dataset</b>
     - Expose for Consumption: <b>ON</b>
-    <br><br>![](../images/create_internal_orders_ads_02.png)
+    <br><br>![](../images/create_internal_orders_ads_02a.png)
 
 5. Select the <i>Output Node</i> and change the following columns into measures:<b>
   - NETAMOUNT
   - GROSSAMOUNT
   - TAXAMOUNT
   - QUANTITY</b>
-  <br><br>![](../images/create_internal_orders_ads_02a.png)
+  <br><br>![](../images/create_internal_orders_ads_03a.png)
 
 6. Click on the **CSV_InternalOrders Node** and add a **Projection Node** from the context menu.
-  <br><br>![](../images/create_internal_orders_ads_03.png)
+  <br><br>![](../images/create_internal_orders_ads_04a.png)
   
 7. Select the column **CREATEDAT** from the **Projection Node** and click on **Change Name**.
-  <br><br>![](../images/create_internal_orders_ads_04.png)
+  <br><br>![](../images/create_internal_orders_ads_05a.png)
 
 8. Change the name of the column to **CREATE_DATE**.
   <br><br>![](../images/create_internal_orders_ads_06.png)
@@ -58,5 +58,5 @@
 
 ### Deploy
 15. Click on <b><i>deploy</i></b> button to deploy the view
-<br><br>![](/exercises/ex4/images/create_internal_orders_ads_07.png)
-<br>![](/exercises/ex4/images/create_internal_orders_ads_08.png)
+<br><br>![](/exercises/ex4/images/create_internal_orders_ads_07a.png)
+<br>![](/exercises/ex4/images/create_internal_orders_ads_08a.png)
