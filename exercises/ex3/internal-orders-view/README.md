@@ -4,7 +4,7 @@
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
   <br><br>![](/exercises/ex1/images/create_in_repository_explorer.png)<br><br>
 3. Drag and drop the table <b><i>CSV_VendorProductCategoryHierarchy</i></b> into the canvas
-  <br><br>![](../images/create_internal_orders_ads_01.png)
+  <br><br>![](../images/create_internal_orders_ads_01a.png)
 4. Select the Output Node in the canvas and configure the following properties:
     - Business Name: <b>V_INTERNAL_ORDERS</b>
     - Technical Name: <b>V_INTERNAL_ORDERS</b>
