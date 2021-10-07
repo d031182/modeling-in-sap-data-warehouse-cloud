@@ -30,12 +30,12 @@
 
 ### Create Associations
 5. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
-<br><br>![](../images/create_internal_orders_ads_05.png)
+<br><br>![](../images/create_internal_orders_association_01.png)
 6. Find a select the view <b>V_VENDOR_PRODUCTS</b>
-<br><br>![](../images/create_internal_orders_ads_06.png)
+<br><br>![](../images/create_internal_orders_association_02.png)
 
 7. Map the column <b>V_INTERNAL_ORDERS.PRODUCTID</b> with the column <b>V_VENDOR_PRODUCTS.PRODUCTID</b>
-<br><br>![](../images/create_internal_orders_ads_07.png)
+<br><br>![](../images/create_internal_orders_association_03.png)
 
 8. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
 <br><br>![](../images/create_internal_orders_ads_05.png)
