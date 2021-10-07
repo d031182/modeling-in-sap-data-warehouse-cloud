@@ -37,65 +37,62 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 [![DWC_Free_Trial](/images/FreeDWCTrial.png)](https://saphanajourney.com/data-warehouse-cloud/trial/)
 
 ## Table of Content
-### Get the Sample Data
-- [<h2>Exercise 1 - Upload Sample Data</h2>](exercises/ex1/) 
-     - [**Exercise 1.1 - Upload BIKE SALES Sample Data**](exercises/ex1/upload-bike-sales)
-        - Upload CSV Files 
-     - [**Exercise 1.2 - Upload Currency Conversion Sample Data (TCUR)**](exercises/ex1/upload-tcur)
-        - Data Wrangling    
-
-- [<h2>Exercise 1 - Upload Sample Data</h2>](exercises/ex1/)  
-### Data Layer       
-- [<h2>Exercise 2 - Sales Orders</h2>](exercises/ex2/)  
-    - [**Exercise 2.1 - Create Business Partners View**](/exercises/ex2/business-partners-view)
-        - Dimension View
-        - ID + Text Semantic
-        - Join Node  
-        - Projection Node
-        - Level Based Hierarchy 
-        - Data Preview
-        - View Deployment
-        - [Exercise 2.1.1 - Configure Geospatial Data (Latitude, Longitude)](/exercises/ex2/business-partners-geospatial)
-    - [**Exercise 2.2 - Create Products View**](/exercises/ex2/products-view)
-        - [Exercise 2.2.1 - Create Product Texts View](/exercises/ex2/product-texts-view)
-        - [Exercise 2.2.2 - Create Text Association](/exercises/ex2/product-texts-association)
-    - [**Exercise 2.3 - Generate Time Tables and Views**](/exercises/ex0/time-tables-views)
-    - [**Exercise 2.4 - Create Sales Orders View**](/exercises/ex2/sales-orders-view)
-        - Analytical Dataset View
-        - Filter Node
-        - Associations
-        - Measures
-        - Replace Table
-    - [**Exercise 2.5 - Create Sales Story in SAP Analytics Cloud**](/exercises/ex2/sales-story)
-        - ID + Description (Text)
-        - Level Based Hierarchy
-        - Time Series
-        - Variance on Previous and Current Period
-        - Range Filter
-        - Geo Spatial - Bubble Layer
+[<h2>Exercise 1 - Upload Sample Data</h2>](exercises/ex1/) 
+- [**Exercise 1.1 - Upload BIKE SALES Sample Data**](exercises/ex1/upload-bike-sales)
+   - Upload CSV Files 
+- [**Exercise 1.2 - Upload Currency Conversion Sample Data (TCUR)**](exercises/ex1/upload-tcur)
+   - Data Wrangling    
+    
+[<h2>Exercise 2 - Sales Orders</h2>](exercises/ex2/)  
+- [**Exercise 2.1 - Create Business Partners View**](/exercises/ex2/business-partners-view)
+   - Dimension View
+   - ID + Text Semantic
+   - Join Node  
+   - Projection Node
+   - Level Based Hierarchy 
+   - Data Preview
+   - View Deployment
+   - [Exercise 2.1.1 - Configure Geospatial Data (Latitude, Longitude)](/exercises/ex2/business-partners-geospatial)
+- [**Exercise 2.2 - Create Products View**](/exercises/ex2/products-view)
+   - [Exercise 2.2.1 - Create Product Texts View](/exercises/ex2/product-texts-view)
+   - [Exercise 2.2.2 - Create Text Association](/exercises/ex2/product-texts-association)
+- [**Exercise 2.3 - Generate Time Tables and Views**](/exercises/ex0/time-tables-views)
+- [**Exercise 2.4 - Create Sales Orders View**](/exercises/ex2/sales-orders-view)
+   - Analytical Dataset View
+   - Filter Node
+   - Associations
+   - Measures
+   - Replace Table
+- [**Exercise 2.5 - Create Sales Story in SAP Analytics Cloud**](/exercises/ex2/sales-story)
+   - ID + Description (Text)
+   - Level Based Hierarchy
+   - Time Series
+   - Variance on Previous and Current Period
+   - Range Filter
+   - Geo Spatial - Bubble Layer
    
 
-- [<h2>Exercise 3 - Internal Orders</h2>](exercises/ex3/)  
-    - [**Exercise 3.1 -Create Employee View**](/exercises/ex3/employees-view)
-        - Parent Child Hierarchy (Internal)  
-    - [**Exercise 3.2 - Create Vendor Products View**](/exercises/ex3/vendor-products-view)
-        - [Exercise 3.2.1 - Create Hierarchy View](/exercises/ex3/vendor-product-category-hierarchy-view)
-        - [Exercise 3.2.2 - Create Hierarchy Association](/exercises/ex3/vendor-products-hierarchy-association)
-    - [**Exercise 3.3 - Create Internal Orders View**](/exercises/ex3/internal-orders-view)
-        - [Exercise 3.3.1 - Wrap Currency Tables as Views](/exercises/ex3/currency-wrapper-view)
-        - [Exercise 3.3.2 - Create Calculation Node with Currency Conversion](/exercises/ex3/currency-conversion)
-        - [Exercise 3.3.3 - Using Input Parameters](/exercises/ex3/input-parameter) - :construction::construction::construction:
-          - Input Parameters - :construction::construction::construction:
-          - Union Node - :construction::construction::construction:
-          - Story Filters - :construction::construction::construction:
-          - Aggregation Node - :construction::construction::construction:
-     - [**Exercise 3.4 - Create My Internal Orders View**](/exercises/ex3/my-internal-orders-view)
-        - [Exercise 3.4.1 - Create Data Access Control](/exercises/ex3/data-access-control)
-          - Data Access Control
-        - [Exercise 3.4.2 - Apply Data Access Control](/exercises/ex3/apply-data-access-control)
-        - [Exercise 3.4.3 - Maintain Data for a Data Access Control](/exercises/ex3/maintain-dac-data)
-          - Table Data Maintenance
-     - [**Exercise 3.5 - Create Internal Orders Story in SAP Analytics Cloud**] - :construction::construction::construction:
+[<h2>Exercise 3 - Internal Orders</h2>](exercises/ex3/)  
+- [**Exercise 3.1 -Create Employee View**](/exercises/ex3/employees-view)
+   - Parent Child Hierarchy (Internal)  
+- [**Exercise 3.2 - Create Vendor Products View**](/exercises/ex3/vendor-products-view)
+   - [Exercise 3.2.1 - Create Hierarchy View](/exercises/ex3/vendor-product-category-hierarchy-view)
+   - [Exercise 3.2.2 - Create Hierarchy Association](/exercises/ex3/vendor-products-hierarchy-association)
+- [**Exercise 3.3 - Create Internal Orders View**](/exercises/ex3/internal-orders-view)
+   - [Exercise 3.3.1 - Wrap Currency Tables as Views](/exercises/ex3/currency-wrapper-view)
+   - [Exercise 3.3.2 - Create Calculation Node with Currency Conversion](/exercises/ex3/currency-conversion)
+   - [Exercise 3.3.3 - Using Input Parameters](/exercises/ex3/input-parameter) - :construction::construction::construction:
+     - Input Parameters - :construction::construction::construction:
+     - Union Node - :construction::construction::construction:
+     - Story Filters - :construction::construction::construction:
+     - Aggregation Node - :construction::construction::construction:
+- [**Exercise 3.4 - Create My Internal Orders View**](/exercises/ex3/my-internal-orders-view)
+   - [Exercise 3.4.1 - Create Data Access Control](/exercises/ex3/data-access-control)
+     - Data Access Control
+   - [Exercise 3.4.2 - Apply Data Access Control](/exercises/ex3/apply-data-access-control)
+   - [Exercise 3.4.3 - Maintain Data for a Data Access Control](/exercises/ex3/maintain-dac-data)
+     - Table Data Maintenance
+- [**Exercise 3.5 - Create Internal Orders Story in SAP Analytics Cloud**] - :construction::construction::construction:
     
  
  - [Exercise 5 - Extended Internal Orders] - :construction::construction::construction:
