@@ -50,7 +50,7 @@
 8. Select the Calculation Node and click on <b>Data Preview</b> from the context menu.
     - Validate the values in <b>NETAMOUNT_TG</b> and <b>TARGET_CURRENCY</b>
     - Compare the values between <b>NETAMOUNT</b> and <b>NETAMOUNT_TG</b>
-      <br><br>![](../images/currency_conversion_06.png)
+      <br><br>![](../images/currency_conversion_06a.png)
 
 9. Click on <b><i>deploy</i></b> button to deploy the view
 <br><br>![](../images/currency_conversion_07.png)
