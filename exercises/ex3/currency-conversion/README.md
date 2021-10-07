@@ -21,30 +21,32 @@
 <br><br>![](../images/currency_conversion_03.png)
 
 7. Configure the Calculated Column as the following:
-    - Business Name: <b>NETAMOUNT_TG</b>
-    - Technical Name: <b>NETAMOUNT_TG</b>
-    - Data Type: <b>Double</b>
-    - Length: <b>3</b>
-    - Expression: 
-      ```javascript
-      CONVERT_CURRENCY(
-        "AMOUNT" => "NETAMOUNT", 
-        "SOURCE_UNIT" => "CURRENCY", 
-        "TARGET_UNIT" => 'EUR', 
-        "CONVERSION_TYPE" => 'M', 
-        "REFERENCE_DATE" => CURRENT_DATE, 
-        "CLIENT" => '002', "SCHEMA" => 'ZST_WORKSHOP', 
-        "ERROR_HANDLING" => 'set_to_null', 
-        "STEPS" => 'shift,convert,round', 
-        "PRECISIONS_TABLE" => 'V_TCURX', 
-        "CONFIGURATION_TABLE" => 'V_TCURV', 
-        "PREFACTORS_TABLE" => 'V_TCURF', 
-        "RATES_TABLE" => 'V_TCURR')
-      ```
-        >🎓 **CONVERT_CURRENCY() Function**: More information about the SAP HANA Function and the configuration of the parameters can be found under the [SAP Help site](https://help.sap.com/viewer/7c78579ce9b14a669c1f3295b0d8ca16/Cloud/en-US/d22d746ed2951014bb7fb0114ffdaf96.html). 
+- Business Name: <b>NETAMOUNT_TG</b>
+- Technical Name: <b>NETAMOUNT_TG</b>
+- Data Type: <b>Double</b>
+- Length: <b>3</b>
+- Expression: 
+  
+    ```javascript
+    CONVERT_CURRENCY(
+      "AMOUNT" => "NETAMOUNT", 
+      "SOURCE_UNIT" => "CURRENCY", 
+      "TARGET_UNIT" => 'EUR', 
+      "CONVERSION_TYPE" => 'M', 
+      "REFERENCE_DATE" => CURRENT_DATE, 
+      "CLIENT" => '002', "SCHEMA" => 'ZST_WORKSHOP', 
+      "ERROR_HANDLING" => 'set_to_null', 
+      "STEPS" => 'shift,convert,round', 
+      "PRECISIONS_TABLE" => 'V_TCURX', 
+      "CONFIGURATION_TABLE" => 'V_TCURV', 
+      "PREFACTORS_TABLE" => 'V_TCURF', 
+      "RATES_TABLE" => 'V_TCURR')
+    ```
+    
+  >🎓 **CONVERT_CURRENCY() Function**: More information about the SAP HANA Function and the configuration of the parameters can be found under the [SAP Help site](https://help.sap.com/viewer/7c78579ce9b14a669c1f3295b0d8ca16/Cloud/en-US/d22d746ed2951014bb7fb0114ffdaf96.html). 
 
 
-      <br>![](../images/currency_conversion_05.png)
+  <br>![](../images/currency_conversion_05.png)
       
     
 8. Select the Calculation Node and click on <b>Data Preview</b> from the context menu.
