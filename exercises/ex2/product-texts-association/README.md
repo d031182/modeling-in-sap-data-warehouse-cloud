@@ -1,4 +1,4 @@
-# Create <i>Product Texts Association</i>
+# Create <i>Text Association</i>
 
 1. Navigate to the Repository Explorer
 2. Search and edit the view **V_PRODUCTS**
