@@ -4,7 +4,7 @@
 2. Search and edit the view **V_PRODUCTS**
    <br><br>![](/exercises/ex1/images/create_in_repository_explorer.png)  
 3. Add a new <b>Text Association</b> from the <i>Association</i> section  
-  <br>![](../images/create_products_dimension_03.png)
+  <br>![](../images/create_product_text_association_01.png)
 
 4. Find and select the view <b>V_PRODUCT_TEXTS</b>
   <br><br>![](../images/create_products_dimension_05.png)
