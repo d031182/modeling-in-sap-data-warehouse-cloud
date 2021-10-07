@@ -41,7 +41,7 @@
 <br><br>![](../images/create_internal_orders_association_04.png)
 
 9. Find a select the view <b>V_EMPLOYEES</b>
-<br><br>![](../images/create_internal_orders_association_05.png)
+<br><br>![](../images/create_internal_orders_association_06.png)
 
 10. Map the column <b>V_INTERNAL_ORDERS.EMPLOYEEID</b> with the column <b>V_EMPLOYEES.EMPLOYEEID</b>
 <br><br>![](../images/create_internal_orders_association_06.png)
