@@ -17,7 +17,7 @@
   - GROSSAMOUNT
   - TAXAMOUNT
   - QUANTITY</b>
-  <br><br>![](/exercises/ex4/images/create_internal_orders_ads_02a.png)
+  <br><br>![](../images/create_internal_orders_ads_02a.png)
 
 6. Click on the **CSV_InternalOrders Node** and add a **Projection Node** from the context menu.
   <br><br>![](../images/create_internal_orders_ads_03.png)
