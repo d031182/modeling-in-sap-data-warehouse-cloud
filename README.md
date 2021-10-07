@@ -96,7 +96,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 
 
  
-[Exercise 4 - Extended Internal Orders] - :construction::construction::construction:
+[<h2>Exercise 4 - Extended Internal Orders</h2>]():construction::construction::construction:
 - Exercise 4.1 - Create Extended Internal Orders View - :construction::construction::construction:
   - Change Management    
 - Exercise 4.2 - Create Cost Center View - :construction::construction::construction:
@@ -111,7 +111,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
   - Cross Space Sharing :construction::construction::construction:
 - Excercise 4.6 View Persistence :construction::construction::construction:
 
-- [Exercise 5 - Create Entity Relationship Model (ERM)] - :construction::construction::construction:
+[Exercise 5 - Create Entity Relationship Model (ERM)]() - :construction::construction::construction:
 - Associations
 - Text Associations
 - Hierarchy Associations
