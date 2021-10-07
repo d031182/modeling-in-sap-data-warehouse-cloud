@@ -55,7 +55,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Data Preview
         - View Deployment
         - [Exercise 2.1.1 - Configure Geospatial Data](/exercises/ex2/business-partners-geospatial)
-          - Geo Spatial, Latitude, Longitude
+          - Geospatial Data, Latitude, Longitude
     - [**Exercise 2.2 - Create Product Texts View**](/exercises/ex2/product-texts-view)
         - Text View 
     - [**Exercise 2.3 - Create Products View**](/exercises/ex2/products-view)
