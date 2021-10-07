@@ -96,25 +96,25 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 
 
  
- - [Exercise 5 - Extended Internal Orders] - :construction::construction::construction:
-    - Exercise 4.5 - Create Extended Internal Orders View - :construction::construction::construction:
-        - Change Management    
-    - Exercise 4.5 - Create Cost Center View - :construction::construction::construction:
-        - Compound Keys - :construction::construction::construction:
-    - Exercise 4.6 - Create Cost Center Hierarchy View - :construction::construction::construction:
-        - Time Dependency :construction::construction::construction:
-    - [Exercise 4.7 - Internal Orders] - :construction::construction::construction:
-        - SQL View :construction::construction::construction:
-        - Scripted View :construction::construction::construction:
-        - Window Functions :construction::construction::construction:
-   - Excercise 4.8:  :construction::construction::construction:     
-        - Cross Space Sharing :construction::construction::construction:
-   - Excercise 4.9 View Persistence :construction::construction::construction:
-            
-- [Exercise 6 - Create Entity Relationship Model (ERM)] - :construction::construction::construction:
-   - Associations
-   - Text Associations
-   - Hierarchy Associations
+[Exercise 4 - Extended Internal Orders] - :construction::construction::construction:
+- Exercise 4.1 - Create Extended Internal Orders View - :construction::construction::construction:
+  - Change Management    
+- Exercise 4.2 - Create Cost Center View - :construction::construction::construction:
+  - Compound Keys - :construction::construction::construction:
+- Exercise 4.3 - Create Cost Center Hierarchy View - :construction::construction::construction:
+  - Time Dependency :construction::construction::construction:
+- [Exercise 4.4 - Internal Orders] - :construction::construction::construction:
+  - SQL View :construction::construction::construction:
+  - Scripted View :construction::construction::construction:
+  - Window Functions :construction::construction::construction:
+- Excercise 4.5:  :construction::construction::construction:     
+  - Cross Space Sharing :construction::construction::construction:
+- Excercise 4.6 View Persistence :construction::construction::construction:
+
+- [Exercise 5 - Create Entity Relationship Model (ERM)] - :construction::construction::construction:
+- Associations
+- Text Associations
+- Hierarchy Associations
   
    
 ### Business Layer :construction::construction::construction:
