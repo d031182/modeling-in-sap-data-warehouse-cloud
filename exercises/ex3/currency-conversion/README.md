@@ -18,7 +18,7 @@
     <br><br>![](../images/currency_conversion_04.png)
 
 6. Select the Calculation Node and add another <b>Calculated Column</b>.
-<br><br>![](../images/currency_conversion_03.png)
+  <br><br>![](../images/currency_conversion_03.png)
 
 7. Configure the Calculated Column as the following:
   - Business Name: <b>NETAMOUNT_TG</b>
