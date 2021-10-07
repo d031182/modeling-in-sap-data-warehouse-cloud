@@ -54,8 +54,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Level Based Hierarchy 
         - Data Preview
         - View Deployment
-        - [Exercise 2.1.1 - Configure Geospatial Data](/exercises/ex2/business-partners-geospatial)
-          - Geospatial Data, Latitude, Longitude
+        - [Exercise 2.1.1 - Configure Geospatial Data (Latitude, Longitude)](/exercises/ex2/business-partners-geospatial)
     - [**Exercise 2.2 - Create Products View**](/exercises/ex2/products-view)
         - [Exercise 2.2.1 - Create Product Texts View](/exercises/ex2/product-texts-view)
         - [Exercise 2.2.2 - Add Product Text Association](/exercises/ex2/product-texts-association)
