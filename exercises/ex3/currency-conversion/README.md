@@ -53,4 +53,4 @@
       <br><br>![](../images/currency_conversion_06a.png)
 
 9. Click on <b><i>deploy</i></b> button to deploy the view
-<br><br>![](../images/currency_conversion_07.png)
+<br><br>![](../images/currency_conversion_07a.png)
