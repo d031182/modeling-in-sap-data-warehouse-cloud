@@ -10,4 +10,4 @@
  10. Map the columns <b>V_VENDOR_PRODUCTS.PRODUCTCATEGORYID</b> and <b>V_VENDOR_PRODUCT_CATEGORY_HIERARCHY.PRODUCTCATEGORY</b>
   <br><br>![](../images/create_vendor_products_hierarchy_association_04.png)
  12. Click on <b><i>deploy</i></b> button to deploy the view
-  <br><br>![](../images/create_vendor_products_hierarchy_association_05.png)
+  <br><br>![](../images/create_vendor_products_hierarchy_association_06.png)
