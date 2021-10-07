@@ -4,7 +4,7 @@
 2. Search and open the view **V_INTERNAL_ORDERS** Button to create a new view
   <br><br>![](../images/currency_conversion_01.png)<br><br>
 3. Select the source node <b>CSV_InternalOrders</b> and add a new Calculation Node from the context menu.
-<br><br>![](../images/currency_conversion_02.png)
+<br><br>![](../images/internal_orders_input_parameter_01.png)
 
 4. Select the Calculation Node and add a new <b>Calculated Column</b>.
 <br><br>![](../images/currency_conversion_03.png)
