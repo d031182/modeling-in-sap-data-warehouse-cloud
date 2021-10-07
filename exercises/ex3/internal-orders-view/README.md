@@ -26,7 +26,7 @@
   <br><br>![](../images/create_internal_orders_ads_04.png)
 
 8. Change the name of the column to **CREATE_DATE**.
-  <br><br>![](../images/create_internal_orders_ads_05.png)
+  <br><br>![](../images/create_internal_orders_ads_06.png)
 
 ### Create Associations
 5. Select the <i>Output</i> node in the canvas and add a new association from the <i>Associations</i> section: 
