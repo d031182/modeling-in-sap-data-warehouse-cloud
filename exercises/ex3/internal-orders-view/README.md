@@ -14,11 +14,10 @@
 
 5. Select the <i>Output Node</i> and change the following columns into measures:<b>
   - NETAMOUNT
-  - NETAMOUNT_TG
   - GROSSAMOUNT
   - TAXAMOUNT
   - QUANTITY</b>
-  <br><br>![](/exercises/ex4/images/create_internal_orders_ads_02b.png)
+  <br><br>![](/exercises/ex4/images/create_internal_orders_ads_02a.png)
 
 6. Click on the **CSV_InternalOrders Node** and add a **Projection Node** from the context menu.
   <br><br>![](../images/create_internal_orders_ads_03.png)
