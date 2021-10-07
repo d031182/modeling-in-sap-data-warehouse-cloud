@@ -45,7 +45,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Data Wrangling    
 
 ### Data Layer       
-- [**Exercise 2 - Sales Orders**](exercises/ex2/)  
+- [<h2>Exercise 2 - Sales Orders</h2>](exercises/ex2/)  
     - [**Exercise 2.1 - Create Business Partners View**](/exercises/ex2/business-partners-view)
         - Dimension View
         - ID + Text Semantic
@@ -76,7 +76,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
         - Geo Spatial - Bubble Layer
    
 
-- [**Exercise 3 - Internal Orders**](exercises/ex3/)  
+- [<h2>Exercise 3 - Internal Orders</h2>](exercises/ex3/)  
     - [**Exercise 3.1 -Create Employee View**](/exercises/ex3/employees-view)
         - Parent Child Hierarchy (Internal)  
     - [**Exercise 3.2 - Create Vendor Product Category Hierarchy View**](/exercises/ex3/vendor-product-category-hierarchy-view)
