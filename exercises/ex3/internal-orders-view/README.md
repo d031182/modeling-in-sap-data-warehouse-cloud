@@ -12,13 +12,23 @@
   - Semantic Usage: <b>Analytical Dataset</b>
   - Expose for Consumption: <b>ON</b>
   <br><br>![](../images/internal_orders_view_02.png)
+5. Select the *Output Node* and change the following columns to **Measure**:
+  - **GROSSAMOUNT**
+  - **NETAMOUNT**
+  - **TAXAMOUNT**
+  - **QUANTITY**
   <br><br>![](../images/internal_orders_view_03.png)
+
+6. Select the node _CSV_InternalOrders_ and add a new **Projection Node** from the context menu
   <br><br>![](../images/internal_orders_view_04.png)
+
+
+7. Select the _Projection Node_ and change the name of the column **CREATEDAT** 
   <br><br>![](../images/internal_orders_view_05.png)
+  
+8. Set the new name to **CREATE_DATE**
   <br><br>![](../images/internal_orders_view_06.png)
 
-
- 
 6. Click on the **Deploy** button to deploy the view.
   <br><br>![](../images/internal_orders_view_07.png)
   <br><br>![](../images/internal_orders_view_08.png)
