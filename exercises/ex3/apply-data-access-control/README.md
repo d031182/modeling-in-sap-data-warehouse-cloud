@@ -2,7 +2,7 @@
 
 1. Navigate to the Repository Explorer
 2. Search and open the view **_V_MY_INTERNAL_ORDERS_**, which you have created previously.
-  <br><br>![](../images/my_orders_dac_01.png)<br><br>
+  <br><br>![](../images/my_orders_dac_01a.png)<br><br>
 
 3. Navigate to the _Data Access Control_ section of the Output Node and add a new Data Access Control.
   <br><br>![](../images/apply_dac_02.png)
