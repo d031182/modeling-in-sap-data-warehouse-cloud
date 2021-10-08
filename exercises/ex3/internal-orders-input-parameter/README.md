@@ -6,6 +6,16 @@
 3. Select the source node <b>CSV_InternalOrders</b> and add a new Calculation Node from the context menu.
 <br><br>![](../images/internal_orders_input_parameter_02.png)
 
+<br><br>![](../images/internal_orders_input_parameter_02.png)
+<br><br>![](../images/internal_orders_input_parameter_03.png)
+<br><br>![](../images/internal_orders_input_parameter_04.png)
+<br><br>![](../images/internal_orders_input_parameter_05.png)
+<br><br>![](../images/internal_orders_input_parameter_06.png)
+<br><br>![](../images/internal_orders_input_parameter_07.png)
+<br><br>![](../images/internal_orders_input_parameter_08.png)
+<br><br>![](../images/internal_orders_input_parameter_09.png)
+<br><br>![](../images/internal_orders_input_parameter_10.png)
+
 4. Select the Calculation Node and add a new <b>Calculated Column</b>.
 <br><br>![](../images/currency_conversion_03.png)
 
