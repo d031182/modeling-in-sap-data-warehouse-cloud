@@ -72,7 +72,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
    - Geo Spatial - Bubble Layer
 
 
-[<h2>Exercise 3 - Sales Orders</h2>](exercises/ex2/)  
+[<h2>Exercise 3 - Internal Orders</h2>](exercises/ex2/)  
 - [**Exercise 3.1 - Create Employee View**](/exercises/ex3/employees-view)
    - Parent Child Hierarchy (Internal)
 - [**Exercise 3.2 - Create Vendor Products View**](/exercises/ex3/vendor-products-view)
