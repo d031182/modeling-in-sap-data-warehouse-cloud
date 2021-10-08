@@ -8,7 +8,7 @@
   
   <br><br>![](../images/my_orders_view_02.png)
 
-4. In the _Map Input Parameter_ dialog, set the _Action_ to **Map To** and set _Value_ to **New Input Parameter** 
+4. In the _Map Input Parameter_ dialog, set the _Action_ to **Set Value** and set _Value_ to **EUR** 
   <br><br>![](../images/my_orders_view_03b.png)
 
 5. Select the Output Node in the canvas and configure the following properties:
