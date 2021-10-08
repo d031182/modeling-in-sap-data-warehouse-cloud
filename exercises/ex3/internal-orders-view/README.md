@@ -19,7 +19,7 @@
   - **QUANTITY**
   <br><br>![](../images/internal_orders_view_03.png)
 
-6. Select the node _CSV_InternalOrders_ and add a new **Projection Node** from the context menu
+6. Select the **_CSV_InternalOrders_ Node** and add a new **Projection Node** from the context menu
   <br><br>![](../images/internal_orders_view_04.png)
 
 
