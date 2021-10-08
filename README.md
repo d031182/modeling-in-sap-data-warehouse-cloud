@@ -87,10 +87,8 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
    - Aggregation Node - :construction::construction::construction:
 - [**Exercise 3.4 - Create My Orders View**](/exercises/ex3/my-internal-orders-view)
    - [Exercise 3.4.1 - Create Data Access Control](/exercises/ex3/data-access-control)
-      - Data Access Control
    - [Exercise 3.4.2 - Apply Data Access Control](/exercises/ex3/apply-data-access-control)
    - [Exercise 3.4.3 - Maintain Data for a Data Access Control](/exercises/ex3/maintain-dac-data)
-      - Table Data Maintenance
 - [**Exercise 3.5 - Create Internal Orders Story in SAP Analytics Cloud**] - :construction::construction::construction:
 
 
