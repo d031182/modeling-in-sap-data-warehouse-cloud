@@ -3,13 +3,22 @@
 1. Navigate to the Repository Explorer
 2. Search and open the view **V_INTERNAL_ORDERS** Button to create a new view
   <br><br>![](../images/internal_orders_input_parameter_01.png)<br><br>
-3. Select the source node <b>CSV_InternalOrders</b> and add a new Calculation Node from the context menu.
-<br><br>![](../images/internal_orders_input_parameter_02.png)
+3. Select the _Output Node_ and click on the **Edit** button in the _Input Parameter_ section.
+  <br><br>![](../images/internal_orders_input_parameter_02.png)
+4. Add a new Input Parameter with the following properties:
+    - Business Name: **IP_TARGET_CURRENCY**
+    - Technical Name: **IP_TARGET_CURRENCY**
+    - Data Type: **String**
+    - Length: **3**
+    
+    <br>![](../images/internal_orders_input_parameter_03.png)
 
-<br><br>![](../images/internal_orders_input_parameter_02.png)
-<br><br>![](../images/internal_orders_input_parameter_03.png)
-<br><br>![](../images/internal_orders_input_parameter_04.png)
-<br><br>![](../images/internal_orders_input_parameter_05.png)
+5. Select the _Calculation Node_ and edit the column **NETAMOUNT_TG**
+  <br><br>![](../images/internal_orders_input_parameter_04.png)
+
+6. In the _Calculation Expression_ replace in the _CONVERT_CURRENCY()_ function the 'EUR' with the input parameter **:IP_TARGET_CURRENCY**
+  <br><br>![](../images/internal_orders_input_parameter_05.png)
+  
 <br><br>![](../images/internal_orders_input_parameter_06.png)
 <br><br>![](../images/internal_orders_input_parameter_07.png)
 <br><br>![](../images/internal_orders_input_parameter_08.png)
