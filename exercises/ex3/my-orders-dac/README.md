@@ -1,4 +1,4 @@
-# User Data Access Control in _My Orders_ View
+# Use Data Access Control in _My Orders_ View
 
 1. Navigate to the Repository Explorer
 2. Search and open the view **_V_MY_ORDERS_**, which you have created previously.
