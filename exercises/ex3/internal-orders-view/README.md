@@ -45,17 +45,18 @@
  <br><br>![](../images/internal_orders_association_05.png)
 
 14. Map the column **V_EMPLOYEES.EMPLOYEEID** with the column **V_INTERNAL_ORDERS.EMPLOYEEID**
-<br><br>![](../images/internal_orders_association_06.png)
+ <br><br>![](../images/internal_orders_association_06.png)
 
 15. Select the _Output Node_ and add a new **Association**
-<br><br>![](../images/internal_orders_association_07.png)
+ <br><br>![](../images/internal_orders_association_07.png)
 
-16. Search and select the view **Time Dimension - Day**
-<br><br>![](../images/internal_orders_association_08.png)
+16. Search and select the view **SAP.TIME.VIEW_DIMENSION_DAY (Time Dimension - Day)**
+ <br><br>![](../images/internal_orders_association_08.png)
 
+17. Map the column **V_INTERNAL_ORDERS.CREATE_DATE** with the column **SAP.TIME.VIEW_DIMENSION_DAY.DATE_SQL**
+  <br><br>![](../images/internal_orders_association_09.png)
 
-
-6. Click on the **Deploy** button to deploy the view.
+18. Click on the **Deploy** button to deploy the view.
   <br><br>![](../images/internal_orders_view_07.png)
   <br><br>![](../images/internal_orders_view_08.png)
 
