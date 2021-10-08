@@ -28,6 +28,19 @@
   
 8. Set the new name to **CREATE_DATE**
   <br><br>![](../images/internal_orders_view_06.png)
+  
+9.
+
+<br><br>![](../images/internal_orders_association_01.png)
+<br><br>![](../images/internal_orders_association_02.png)
+<br><br>![](../images/internal_orders_association_03.png)
+<br><br>![](../images/internal_orders_association_04.png)
+<br><br>![](../images/internal_orders_association_05.png)
+<br><br>![](../images/internal_orders_association_06.png)
+<br><br>![](../images/internal_orders_association_07.png)
+<br><br>![](../images/internal_orders_association_08.png)
+
+
 
 6. Click on the **Deploy** button to deploy the view.
   <br><br>![](../images/internal_orders_view_07.png)
