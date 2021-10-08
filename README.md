@@ -81,7 +81,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 - [**Exercise 3.3 - Create Internal Orders View**](/exercises/ex3/internal-orders-view)
    - [Exercise 3.3.1 - Wrap Currency Tables as Views](/exercises/ex3/currency-wrapper-view)
    - [Exercise 3.3.2 - Calculation Node with Currency Conversion](/exercises/ex3/internal-orders-currency-conversion)
-   - [Exercise 3.3.3 - Input Parameters](/exercises/ex3/internal-orders-input-parameter) - :construction::construction::construction:
+   - [Exercise 3.3.3 - Input Parameters](/exercises/ex3/internal-orders-input-parameter)
 - [**Exercise 3.4 - Create My Orders View**](/exercises/ex3/my-orders-view)
    - [Exercise 3.4.1 - Create Data Access Control](/exercises/ex3/data-access-control)
    - [Exercise 3.4.2 - Use Data Access Control](/exercises/ex3/my-orders-dac)
