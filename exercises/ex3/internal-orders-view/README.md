@@ -29,15 +29,28 @@
 8. Set the new name to **CREATE_DATE**
   <br><br>![](../images/internal_orders_view_06.png)
   
-9.
+9. Select the _Output Node_ and add a new **Association**
+ <br><br>![](../images/internal_orders_association_01.png)
 
-<br><br>![](../images/internal_orders_association_01.png)
-<br><br>![](../images/internal_orders_association_02.png)
-<br><br>![](../images/internal_orders_association_03.png)
-<br><br>![](../images/internal_orders_association_04.png)
-<br><br>![](../images/internal_orders_association_05.png)
+10. Search and select the view **V_VENDOR_PRODUCTS**
+ <br><br>![](../images/internal_orders_association_02.png)
+
+11. Map the column **V_VENDOR_PRODUCTS.PRODUCTID** with the column **V_INTERNAL_ORDERS.PRODUCTID**
+ <br><br>![](../images/internal_orders_association_03.png)
+
+12. Select the _Output Node_ and add a new **Association**
+ <br><br>![](../images/internal_orders_association_04.png)
+
+13. Search and select the view **V_EMPLOYEES**
+ <br><br>![](../images/internal_orders_association_05.png)
+
+14. Map the column **V_EMPLOYEES.EMPLOYEEID** with the column **V_INTERNAL_ORDERS.EMPLOYEEID**
 <br><br>![](../images/internal_orders_association_06.png)
+
+15. Select the _Output Node_ and add a new **Association**
 <br><br>![](../images/internal_orders_association_07.png)
+
+16. Search and select the view **Time Dimension - Day**
 <br><br>![](../images/internal_orders_association_08.png)
 
 
