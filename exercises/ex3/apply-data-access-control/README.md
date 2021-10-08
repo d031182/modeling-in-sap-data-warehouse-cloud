@@ -1,7 +1,7 @@
 # Apply Data Access Control in My Internal Orders View
 
 1. Navigate to the Repository Explorer
-2. Search and open the view **_V_MY_INTERNAL_ORDERS_**, which you have created previously.
+2. Search and open the view **_V_MY_ORDERS_**, which you have created previously.
   <br><br>![](../images/my_orders_dac_01a.png)<br><br>
 
 3. Navigate to the _Data Access Control_ section of the Output Node and add a new Data Access Control.
@@ -10,7 +10,7 @@
 4. Select the Data Access Control **D_COMPANYCODE**.
   <br><br>![](../images/apply_dac_03.png)
   
-5. Map the **V_MY_INTERNAL_ORDERS.COMPANYCODE** column to the Data Access Control **D_COMPANYCODE.ALLOWED_VALUE** column.
+5. Map the **_V_MY_ORDERS_.COMPANYCODE** column to the Data Access Control **D_COMPANYCODE.ALLOWED_VALUE** column.
    >🎓Note: With the mapping, the data access of the view _V_MY_INTERNAL_ORDERS_ is now secured by filtering the data on _Company Code_ with user's allowed values. If user does not have valid entries in the _T_DAC_DATA_ table, he will not be able to see any value.
   
    <br><br>![](../images/apply_dac_04.png)
