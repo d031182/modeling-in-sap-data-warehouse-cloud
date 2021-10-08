@@ -86,7 +86,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
    - [Exercise 3.4.1 - Create Data Access Control](/exercises/ex3/data-access-control)
    - [Exercise 3.4.2 - Use Data Access Control](/exercises/ex3/my-orders-dac)
    - [Exercise 3.4.3 - Maintain Data for a Data Access Control](/exercises/ex3/maintain-dac-data)
-   - [Exercise 3.4.4 - SAC Story Filters](/exercises/ex3/my-orders-sac-story-filter)
+   - [Exercise 3.4.4 - SAC Story Filter](/exercises/ex3/my-orders-sac-story-filter)
 - [**Exercise 3.5 - Create Internal Orders Story in SAP Analytics Cloud**] - :construction::construction::construction:
 
 
