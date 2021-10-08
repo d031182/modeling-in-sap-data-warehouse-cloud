@@ -16,18 +16,12 @@
   <br><br>![](../images/internal_orders_view_04.png)
   <br><br>![](../images/internal_orders_view_05.png)
   <br><br>![](../images/internal_orders_view_06.png)
+
+
+ 
+6. Click on the **Deploy** button to deploy the view.
   <br><br>![](../images/internal_orders_view_07.png)
   <br><br>![](../images/internal_orders_view_08.png)
-  
-
-
- <br><br>![](../images/my_orders_view_05a.png)
- 
- <br><br>![](../images/my_orders_view_06a.png)
-  
-  
-6. Click on the **Deploy** button to deploy the view.
-  <br><br>![](../images/my_orders_view_07a.png)
 
 
   
