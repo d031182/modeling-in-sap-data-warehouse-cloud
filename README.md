@@ -28,7 +28,8 @@ Product Manager, SAP
 
 p.s. many thanks to Amogh Kulkarni who provided the sample datasets for the exercises.
 
-## Pre-requisites
+# Pre-requisites
+## SAP Data Warehouse Cloud
 Before you can start with the exercises, please make sure to get a running SAP Data Warehouse Cloud tenant with the latest updates.
 For that you can apply for a **30-Days free Trial Tenant** under the following link:
 - https://www.sap.com/products/data-warehouse-cloud/trial.html
@@ -36,7 +37,9 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 
 [![DWC_Free_Trial](/images/FreeDWCTrial.png)](https://saphanajourney.com/data-warehouse-cloud/trial/)
 
-## Table of Content
+## SAP Analytics Cloud
+
+# Table of Content
 [<h2>Exercise 1 - Upload Sample Data</h2>](exercises/ex1/) 
 - [**Exercise 1.1 - Upload BIKE SALES Sample Data**](exercises/ex1/upload-bike-sales)
    - Upload CSV Files 
