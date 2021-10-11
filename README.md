@@ -38,6 +38,8 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 [![DWC_Free_Trial](/images/FreeDWCTrial.png)](https://saphanajourney.com/data-warehouse-cloud/trial/)
 
 ## SAP Analytics Cloud
+Optionaly you will need also a running SAP Analytics Cloud (SAC), which is required to build the Stories, Dashboards and Visualization on top of the SAP Data Warehouse Models.
+In case you are not interested, you can skip the exercises with the SAC. However, it is highly recommended to walk through these exercises as well, to see how the individual features are consumed from the client side.
 
 # Table of Content
 [<h2>Exercise 1 - Upload Sample Data</h2>](exercises/ex1/) 
