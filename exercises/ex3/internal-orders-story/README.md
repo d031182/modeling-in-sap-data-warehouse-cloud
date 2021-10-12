@@ -18,7 +18,7 @@
 7. Since the model _V_INTERNAL_ORDERS_ contains an _Input Parameter_, a Prompt Dialog will show up. Please enter **EUR** as currency for the parameter **IP_TARGET_CURRENCY**.
   <br><br>![](../images/internal_orders_story_07.png)
 
-8. Click on the **Filter** button of the Measures in the **Columns** section 
+8. **Filter** the measures from the **Columns** section 
   <br><br>![](../images/internal_orders_story_08.png)
 
 9. Select the measure **NETAMOUNT_TG** 
@@ -41,10 +41,18 @@
   <br><br>![](../images/internal_orders_story_14.png)
   
 
+15. **Filter** the measures from the **Columns** section 
   <br><br>![](../images/internal_orders_story_15.png)
+  
+16. Select the measure **NETAMOUNT_TG** 
   <br><br>![](../images/internal_orders_story_16.png)
+  
   <br><br>![](../images/internal_orders_story_16b.png)
+
+17. Add the column **PRODUCTID** into the **Rows** section
   <br><br>![](../images/internal_orders_story_17.png)
+
+
   <br><br>![](../images/internal_orders_story_18.png)
   <br><br>![](../images/internal_orders_story_19.png)
   <br><br>![](../images/internal_orders_story_20.png)
