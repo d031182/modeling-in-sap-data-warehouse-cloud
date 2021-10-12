@@ -92,7 +92,7 @@ In case you are not interested, you can skip the exercises with the SAC. However
    - [Exercise 3.4.2 - Use Data Access Control](/exercises/ex3/my-orders-dac)
    - [Exercise 3.4.3 - Maintain Data for a Data Access Control](/exercises/ex3/maintain-dac-data)
    - [Exercise 3.4.4 - SAC Story Filter](/exercises/ex3/my-orders-sac-story-filter)
-- [**Exercise 3.5 - Create Internal Orders Story in SAP Analytics Cloud**] - :construction::construction::construction:
+- [**Exercise 3.5 - Create Internal Orders Story in SAP Analytics Cloud**](/exercises/ex3/internal-orders-story)
 
 
  
