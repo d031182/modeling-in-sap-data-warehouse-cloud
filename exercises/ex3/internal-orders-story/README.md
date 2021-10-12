@@ -34,7 +34,7 @@
 12. Select the column **NAME_LAST**
   <br><br>![](../images/internal_orders_story_12.png)
 
-13. **Expand the Employee** Hierarchy and check result as the following
+13. **Expand the Employee Hierarchy** and check result as the following
   <br><br>![](../images/internal_orders_story_13.png)
   
 14. Add a **new Table** into the canvas
@@ -52,8 +52,10 @@
 17. Add the column **PRODUCTID** into the **Rows** section
   <br><br>![](../images/internal_orders_story_17.png)
 
-
+18. **Expand the Vendor Product Category Hierarchy** and check result as the following
   <br><br>![](../images/internal_orders_story_18.png)
+
+19. ...
   <br><br>![](../images/internal_orders_story_19.png)
   <br><br>![](../images/internal_orders_story_20.png)
   <br><br>![](../images/internal_orders_story_21.png)
