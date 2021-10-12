@@ -2,12 +2,20 @@
 
 1. In SAP Analytics Cloud navigate to **Stories** to add a new **Canvas**
   <br><br>![](../images/internal_orders_story_01.png)
-  
+2. Click on **Add Data**
   <br><br>![](../images/internal_orders_story_02.png)
+3. Click on **new Data Source**  
   <br><br>![](../images/internal_orders_story_03.png)
+4. Select from the _Connect to Live Data_ section the connection to **SAP Data Warehouse Cloud**
   <br><br>![](../images/internal_orders_story_04.png)
+
+5. Add a **new Table** to the canvas
   <br><br>![](../images/internal_orders_story_05.png)
+  
+6. Select **V_INTERNAL_ORDERS** as the data source
   <br><br>![](../images/internal_orders_story_06.png)
+  
+7. Since the model _V_INTERNAL_ORDERS_ contains an _Input Parameter_, a Prompt Dialog will show up. Please enter for **IP_TARGET_CURRENCY** the currency **EUR**.
   <br><br>![](../images/internal_orders_story_07.png)
   <br><br>![](../images/internal_orders_story_08.png)
   <br><br>![](../images/internal_orders_story_09.png)
