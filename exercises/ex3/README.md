@@ -2,7 +2,7 @@
 
 In this exercise, you will...
 <br>![](images/InternalOrders.png)
-<br>![](images/InternalOrders_02.png)
+<br>![](images/InternalOrders_02b.png)
 
 
 
