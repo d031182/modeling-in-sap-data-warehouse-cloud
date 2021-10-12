@@ -1,7 +1,8 @@
 # Internal Orders
 
 In this exercise, you will...
-<br>![](/exercises/ex4/images/InternalOrders.png)
+<br>![](images/InternalOrders.png)
+<br>![](images/InternalOrders_02.png)
 
 
 
