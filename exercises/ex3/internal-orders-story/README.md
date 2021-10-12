@@ -15,16 +15,32 @@
 6. Select **V_INTERNAL_ORDERS** as the data source
   <br><br>![](../images/internal_orders_story_06.png)
   
-7. Since the model _V_INTERNAL_ORDERS_ contains an _Input Parameter_, a Prompt Dialog will show up. Please enter for **IP_TARGET_CURRENCY** the currency **EUR**.
+7. Since the model _V_INTERNAL_ORDERS_ contains an _Input Parameter_, a Prompt Dialog will show up. Please enter **EUR** as currency for the parameter **IP_TARGET_CURRENCY**.
   <br><br>![](../images/internal_orders_story_07.png)
+
+8. Click on the **Filter** button of the Measures in the **Columns** section 
   <br><br>![](../images/internal_orders_story_08.png)
+
+9. Select the measure **NETAMOUNT_TG** 
   <br><br>![](../images/internal_orders_story_09.png)
   <br><br>![](../images/internal_orders_story_09b.png)
+
+10. Add the column **EMPLOYEEID** into the **Rows** section
   <br><br>![](../images/internal_orders_story_10.png)
+
+11. Click on **Properties** from the context menu of **EMPLOYEEID**
   <br><br>![](../images/internal_orders_story_11.png)
+  
+12. Select the column **NAME_LAST**
   <br><br>![](../images/internal_orders_story_12.png)
+
+13. **Expand the Employee** Hierarchy and check result as the following
   <br><br>![](../images/internal_orders_story_13.png)
+  
+14. Add a **new Table** into the canvas
   <br><br>![](../images/internal_orders_story_14.png)
+  
+
   <br><br>![](../images/internal_orders_story_15.png)
   <br><br>![](../images/internal_orders_story_16.png)
   <br><br>![](../images/internal_orders_story_16b.png)
