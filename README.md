@@ -98,6 +98,8 @@ In case you are not interested, you can skip the exercises with the SAC. However
 
  
 [<h2>Exercise 4 - Extended Internal Orders</h2>]():construction::construction::construction:
+> Lessons: Time Dependency
+
 - Exercise 4.1 - Create Extended Internal Orders View - :construction::construction::construction:
   - Change Management    
   - Union Node - :construction::construction::construction:
