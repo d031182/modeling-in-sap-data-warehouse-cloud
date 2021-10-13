@@ -16,7 +16,7 @@
    - [Exercise 3.4.4 - SAC Story Filter](/exercises/ex3/my-orders-sac-story-filter)
 - [**Exercise 3.5 - Create Internal Orders Story in SAP Analytics Cloud**](/exercises/ex3/internal-orders-story)
 
-<br>![](images/InternalOrders.png)
+<br>![](images/InternalOrders_01.png)
 <br>![](images/InternalOrders_02.png)
 
 
