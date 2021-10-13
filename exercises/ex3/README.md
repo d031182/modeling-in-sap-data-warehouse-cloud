@@ -1,6 +1,5 @@
-# Internal Orders
+# Exercise 3 - Internal Orders
 
-[<h2>Exercise 3 - Internal Orders</h2>](exercises/ex2/)  
 - [**Exercise 3.1 - Create Employee View**](/exercises/ex3/employees-view)
    - Parent Child Hierarchy (Internal)
 - [**Exercise 3.2 - Create Vendor Products View**](/exercises/ex3/vendor-products-view)
