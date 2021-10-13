@@ -28,7 +28,7 @@ Product Manager, SAP
 
 p.s. many thanks to Amogh Kulkarni who provided the sample datasets for the exercises.
 
-# Pre-requisites
+## Pre-requisites
 ### SAP Data Warehouse Cloud
 
 <img align="right" src="/images/FreeDWCTrial_2.png">
