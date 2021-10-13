@@ -18,7 +18,7 @@
 - [**Exercise 3.5 - Create Internal Orders Story in SAP Analytics Cloud**](/exercises/ex3/internal-orders-story)
 
 <br>![](images/InternalOrders.png)
-<br>![](images/InternalOrders_02b.png)
+<br>![](images/InternalOrders_02.png)
 
 
 
