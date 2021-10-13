@@ -100,6 +100,10 @@ In case you are not interested, you can skip the exercises with the SAC. However
 [<h2>Exercise 4 - Extended Internal Orders</h2>](exercises/ex3/):construction::construction::construction:
 > **Lessons**: Time Dependency
 
+- Exercise 4.1 - Create Entity Relationship Model (ERM) - :construction::construction::construction:
+   - Associations
+   - Text Associations
+   - Hierarchy Associations
 - Exercise 4.1 - Create Extended Internal Orders View - :construction::construction::construction:
   - Change Management    
   - Union Node - :construction::construction::construction:
@@ -116,11 +120,6 @@ In case you are not interested, you can skip the exercises with the SAC. However
   - Cross Space Sharing :construction::construction::construction:
 - Excercise 4.6 View Persistence :construction::construction::construction:
 
-[<h2>Exercise 5 - Create Entity Relationship Model (ERM)</h2>]() - :construction::construction::construction:
-- Associations
-- Text Associations
-- Hierarchy Associations
-  
    
 ### Business Layer :construction::construction::construction:
 - [Exercise 7 - Sales Pipeline]
