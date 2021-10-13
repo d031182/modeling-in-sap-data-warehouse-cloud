@@ -39,7 +39,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 
 ## SAP Analytics Cloud
 Optionally you will need also a running SAP Analytics Cloud (SAC), which is required to build the Stories, Dashboards and Visualization on top of the SAP Data Warehouse Models.
-In case you are not interested, you can skip the exercises with the SAC. However, it is highly recommended to walk through these exercises as well, to see how the individual features are consumed from the client side. For that, you can request an SAC trial tenant from the following link:
+In case you are not interested, you can skip the exercises with the SAC part. However, it is highly recommended to walk through these exercises as well, to see how the individual features are consumed from the client side. For that, you can request an SAC trial tenant from the following link:
 - https://www.sap.com/products/cloud-analytics/trial.html
 
 # Table of Content
