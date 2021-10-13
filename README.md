@@ -30,12 +30,15 @@ p.s. many thanks to Amogh Kulkarni who provided the sample datasets for the exer
 
 # Pre-requisites
 ## SAP Data Warehouse Cloud
+
+<img align="right" src="/images/FreeDWCTrial_2.png">
+
 Before you can start with the exercises, please make sure to get a running SAP Data Warehouse Cloud tenant with the latest updates.
 For that you can apply for a **30-Days free Trial Tenant** under the following link:
 - https://www.sap.com/products/data-warehouse-cloud/trial.html
 - https://saphanajourney.com/data-warehouse-cloud/trial/
 
-[![DWC_Free_Trial](/images/FreeDWCTrial_2.png)](https://saphanajourney.com/data-warehouse-cloud/trial/)
+
 
 ## SAP Analytics Cloud
 Optionally you will need also a running SAP Analytics Cloud (SAC), which is required to build the Stories, Dashboards and Visualization on top of the SAP Data Warehouse Models.
