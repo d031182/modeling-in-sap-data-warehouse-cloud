@@ -1,8 +1,7 @@
-# Sales Orders
+# Exercise 2 - Sales Orders
 
 In this exercise, you will learn about the basic modeling concepts and features, which are most commonly used in SAP Data Warehouse Cloud. 
 
-[<h2>Exercise 2 - Sales Orders</h2>](exercises/ex2/)  
 - [**Exercise 2.1 - Create Business Partners View**](/exercises/ex2/business-partners-view)
    - Dimension View
    - ID + Text Semantic
