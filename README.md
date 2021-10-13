@@ -78,7 +78,7 @@ In case you are not interested, you can skip the exercises with the SAC. However
    - Geo Spatial - Bubble Layer
 
 
-[<h2>Exercise 3 - Internal Orders</h2>](exercises/ex2/)  
+[<h2>Exercise 3 - Internal Orders</h2>](exercises/ex3/)  
 - [**Exercise 3.1 - Create Employee View**](/exercises/ex3/employees-view)
    - Parent Child Hierarchy (Internal)
 - [**Exercise 3.2 - Create Vendor Products View**](/exercises/ex3/vendor-products-view)
@@ -97,7 +97,7 @@ In case you are not interested, you can skip the exercises with the SAC. However
 
 
  
-[<h2>Exercise 4 - Extended Internal Orders</h2>]():construction::construction::construction:
+[<h2>Exercise 4 - Extended Internal Orders</h2>](exercises/ex3/):construction::construction::construction:
 > Lessons: Time Dependency
 
 - Exercise 4.1 - Create Extended Internal Orders View - :construction::construction::construction:
