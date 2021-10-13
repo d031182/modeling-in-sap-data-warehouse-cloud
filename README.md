@@ -35,7 +35,7 @@ For that you can apply for a **30-Days free Trial Tenant** under the following l
 - https://www.sap.com/products/data-warehouse-cloud/trial.html
 - https://saphanajourney.com/data-warehouse-cloud/trial/
 
-[![DWC_Free_Trial](/images/FreeDWCTrial.png)](https://saphanajourney.com/data-warehouse-cloud/trial/)
+[![DWC_Free_Trial](/images/FreeDWCTrial_2.png)](https://saphanajourney.com/data-warehouse-cloud/trial/)
 
 ## SAP Analytics Cloud
 Optionally you will need also a running SAP Analytics Cloud (SAC), which is required to build the Stories, Dashboards and Visualization on top of the SAP Data Warehouse Models.
