@@ -1,7 +1,11 @@
 # Exercise 1 - Upload CSV Files
-
-## Upload <i>Bike Sales</i> CSV Files
 In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud by uploading some sample datasets. This is a prerequiste for all follow-up exercises. 
+
+- [**Exercise 1.1 - Upload BIKE SALES Sample Data**](exercises/ex1/upload-bike-sales)
+   - Upload CSV Files 
+- [**Exercise 1.2 - Upload Currency Conversion Sample Data (TCUR)**](exercises/ex1/upload-tcur)
+   - Data Wrangling    
+
 
 
 ## Summary
