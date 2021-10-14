@@ -122,7 +122,7 @@ In case you are not interested, you can skip the exercises with the SAC part. Ho
 - Excercise 4.5:  :construction::construction::construction:     
   - Cross Space Sharing :construction::construction::construction:
 - Excercise 4.6 View Persistence :construction::construction::construction:
-
+- Exercise 4.7 DataFlow from Local Table to Local Table
    
 ### Business Layer :construction::construction::construction:
 - [Exercise 7 - Sales Pipeline]
