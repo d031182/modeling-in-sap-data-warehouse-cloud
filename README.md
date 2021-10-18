@@ -45,6 +45,9 @@ Optionally you will need also a running SAP Analytics Cloud (SAC), which is requ
 In case you are not interested, you can skip the exercises with the SAC part. However, it is highly recommended to walk through these exercises as well, to see how the individual features are consumed from the client side. For that, you can request an SAC trial tenant from the following link:
 - https://www.sap.com/products/cloud-analytics/trial.html
 
+Furthermore, I would like to refer to SAP Analytics Designer Developer Handbook inluding lots of Best Practices: 
+https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-handbook/
+
 # Table of Content
 [<h2>Exercise 1 - Upload Sample Data</h2>](exercises/ex1/) 
 - [**Exercise 1.1 - Upload BIKE SALES Sample Data**](exercises/ex1/upload-bike-sales)
