@@ -15,12 +15,13 @@ CONVERT_CURRENCY(
   "PRECISIONS_TABLE" => 'V_TCURX', 
   "CONFIGURATION_TABLE" => 'V_TCURV', 
   "PREFACTORS_TABLE" => 'V_TCURF', 
-  "RATES_TABLE" => 'V_TCURR')
+  "RATES_TABLE" => 'V_TCURR'
+  "NOTATION_TABLE" => 'V_TCURN')
 ```
 >:mortar_board: **CONVERT_CURRENCY() Function**: More information about the SAP HANA Function and the configuration of the parameters can be found under the [SAP Help site](https://help.sap.com/viewer/7c78579ce9b14a669c1f3295b0d8ca16/Cloud/en-US/d22d746ed2951014bb7fb0114ffdaf96.html).
 
 >:triangular_flag_on_post: **2021-09-22**:
->As of today, SAP Analytics Cloud must not access any table directly in SAP Data Warehouse Cloud due to security boundaries. That applies also for the currency conversion relevant tables such as **TUCRR (Rates)**, **TCURX (Precisions)**, **TCURV (Configurations)**, **TCURF (Prefactors)**.
+>As of today, SAP Analytics Cloud must not access any table directly in SAP Data Warehouse Cloud due to security boundaries. That applies also for the currency conversion relevant tables such as **TUCRR (Rates)**, **TCURX (Precisions)**, **TCURV (Configurations)**, **TCURF (Prefactors)**, **TCURN (Notation)**.
 >
 >As an intermediate workaround you have to wrap the tables as views and declare them in the usage of the Currency Conversion function.
 >**Please note that this will change in the upcomming releases**. There it is planned that Currency Conversion can be configured centrally per space. 
