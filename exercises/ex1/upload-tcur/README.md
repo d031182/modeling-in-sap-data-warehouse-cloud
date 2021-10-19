@@ -149,13 +149,10 @@
     Column | Data Type
     ---------|---------
     MANDT | String
-    KURST | String
     FCURR | String
     TCURR | String
     GDATU | String
-    UKURS | Number
-    FFACT | Integer
-    TFACT | Integer
+    NOTATION | Integer
     
     <br><br>![](../images/import_tcurn_01.png)
     <br><br>![](../images/import_tcurn_02.png)
