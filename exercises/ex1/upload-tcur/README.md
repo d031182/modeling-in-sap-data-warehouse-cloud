@@ -16,9 +16,9 @@
 ## Upload <i>Currency Rates</i> CSV file
 1. Navigate to the Data Builder of SAP Data Warehouse Cloud
 2. Click on the <b><i>Import CSV File</i></b>
-  <br><br>![Import CSV File](../images/ImportCSVFile_2.png)
+  <br><br>![Import CSV File](../images/import_csv_01.png)
 3. Select the <i><b>TCURR.csv</b></i> as source file and click on Upload
-  <br><br>![Import CSV File](../images/ImportCSVFile_3.png)
+  <br><br>![Import CSV File](../images/import_csv_02.png)
 4. Adjust the column data types as the following:
 
     Column | Data Type
@@ -41,9 +41,9 @@
 ## Upload <i>Currency Prefactors</i> CSV file
 1. Navigate to the Data Builder of SAP Data Warehouse Cloud
 2. Click on the <b><i>Import CSV File</i></b>
-  <br><br>![Import CSV File](../images/ImportCSVFile_2.png)
+  <br><br>![Import CSV File](../images/import_csv_01.png)
 3. Select the <i><b>TCURF.csv</b></i> as source file and click on Upload
-  <br><br>![Import CSV File](../images/ImportCSVFile_3.png)
+  <br><br>![Import CSV File](../images/import_csv_02.png)
 4. Adjust the column data types as the following:
 
     Column | Data Type
@@ -65,9 +65,9 @@
 ## Upload <i>Currency Configuration</i> CSV file
 1. Navigate to the Data Builder of SAP Data Warehouse Cloud
 2. Click on the <b><i>Import CSV File</i></b>
-  <br><br>![Import CSV File](../images/ImportCSVFile_2.png)
+  <br><br>![Import CSV File](../images/import_csv_01.png)
 3. Select the <i><b>TCURV.csv</b></i> as source file and click on Upload
-  <br><br>![Import CSV File](../images/ImportCSVFile_3.png)
+  <br><br>![Import CSV File](../images/import_csv_02.png)
 4. Adjust the column data types as the following:
 
     Column | Data Type
@@ -91,9 +91,9 @@
 ## Upload <i>Currency Precisions</i> CSV file
 1. Navigate to the Data Builder of SAP Data Warehouse Cloud
 2. Click on the <b><i>Import CSV File</i></b>
-  <br><br>![Import CSV File](../images/ImportCSVFile_2.png)
+  <br><br>![Import CSV File](../images/import_csv_01.png)
 3. Select the <i><b>TCURX.csv</b></i> as source file and click on Upload
-  <br><br>![Import CSV File](../images/ImportCSVFile_3.png)
+  <br><br>![Import CSV File](../images/import_csv_02.png)
 4. Adjust the column data types as the following:
 
     Column | Data Type
@@ -110,9 +110,9 @@
 ## Upload <i>Currency Conversion</i> Sample Data (ABAP TCUR* Tables)
 1. Navigate to the Data Builder of SAP Data Warehouse Cloud
 2. Click on the <b><i>Import CSV File</i></b>
-  <br><br>![Import CSV File](../images/ImportCSVFile_2.png)
+  <br><br>![Import CSV File](../images/import_csv_01.png)
 3. Select the <i><b>SFLIGHT.csv</b></i> as source file and click on Upload
-  <br><br>![Import CSV File](../images/ImportCSVFile_3.png)
+  <br><br>![Import CSV File](../images/import_csv_02.png)
 4. Adjust the column data types as the following:
 
     Column | Data Type
