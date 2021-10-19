@@ -22,10 +22,10 @@ In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud 
 
 2. Navigate to the Data Builder of SAP Data Warehouse Cloud
 3. Click on the <b><i>Import CSV File</i></b>
-  ![Import CSV File](../images/ImportCSVFile_2.png)
+  ![Import CSV File](../images/import_csv_01.png)
 4. Select a source file, e.g. SalesOrders.csv, Products.csv, etc. 
 5. Click on <b><i>Upload</i></b>
-  ![Import CSV File](../images/ImportCSVFile_3.png)
+  ![Import CSV File](../images/import_csv_02.png)
 6. In this page you will have the options to wrangle and adopt the data to your needs, e.g.:
     - Change Data Types
     - Concatenate different columns into one
