@@ -158,4 +158,4 @@
     <br><br>![](../images/import_tcurn_02.png)
     
 5. Click on Deploy to upload the file and create local table with the Business Name and Technical Name <b><i>CSV_TCURR</i></b>
-    <br><br>![](../images/import_tcurn_03.png)
+    <br><br>![](../images/import_tcurn_03b.png)
