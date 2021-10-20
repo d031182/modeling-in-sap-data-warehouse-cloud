@@ -49,10 +49,10 @@ Furthermore, I would like to refer to SAP Analytics Designer Developer Handbook 
 https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-handbook/
 
 # Table of Content
-[<h2>Exercise 1 - Upload Sample Data</h2>](exercises/ex1/) 
-- [**Exercise 1.1 - Upload BIKE SALES Sample Data**](exercises/ex1/upload-bike-sales)
+[<h2>Exercise 1 - Upload Sample Data</h2>](/exercises/ex1/) 
+- [**Exercise 1.1 - Upload BIKE SALES Sample Data**](/exercises/ex1/upload-bike-sales)
    - Upload CSV Files 
-- [**Exercise 1.2 - Upload Currency Conversion Sample Data (TCUR)**](exercises/ex1/upload-tcur)
+- [**Exercise 1.2 - Upload Currency Conversion Sample Data (TCUR)**](/exercises/ex1/upload-tcur)
    - Data Wrangling    
     
 [<h2>Exercise 2 - Sales Orders</h2>](exercises/ex2/)  
