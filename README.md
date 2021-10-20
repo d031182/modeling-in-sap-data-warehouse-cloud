@@ -149,9 +149,9 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 - [Fiscal Calendar Configurator] - :construction::construction::construction:
 - [Modeling Entities] - :construction::construction::construction:
 - [Data Lineage] - :construction::construction::construction:
-- [Versioning](exercises/ex1/versioning) - :construction::construction::construction:
+- [Versioning](/exercises/ex0/versioning) - :construction::construction::construction:
 - [Change Management](exercises/ex0/change-management) - :construction::construction::construction:
-- [View Persistence](exercises/ex0/change-management) - :construction::construction::construction:
+- [View Persistence](/exercises/ex0/change-management) - :construction::construction::construction:
 
 ## Comments, Issues and Feedbacks
 Comments, issues and feedbacks are highly welcome to improve this tutorial grudually. Please file your feedback in the issues site of this repository. I will try to reply as soon as time allows :)
