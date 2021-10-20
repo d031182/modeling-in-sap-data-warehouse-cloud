@@ -93,7 +93,7 @@ CONVERT_CURRENCY(
 
 1. Navigate to the Repository Explorer
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
-  <br><br>![](/exercises/ex1/images/repo_create_graphical_view_01.png)<br><br>
+  <br><br>![](/exercises/ex2/images/repo_create_graphical_view_01.png)<br><br>
 3. Drag and drop the table <b><i>CSV_TCURN</i></b> into the canvas
   <br><br>![](../images/create_v_tcurn_06.png)<br><br>
 4. Select the Output Node in the canvas and configure the following properties:
