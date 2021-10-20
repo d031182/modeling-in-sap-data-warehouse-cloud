@@ -18,6 +18,9 @@ CONVERT_CURRENCY(
   "RATES_TABLE" => 'V_TCURR'
   "NOTATION_TABLE" => 'V_TCURN')
 ```
+
+![](/exercises/ex0/images/sap_logo_s.png)
+
 >:mortar_board: **CONVERT_CURRENCY() Function**: More information about the SAP HANA Function and the configuration of the parameters can be found under the [SAP Help site](https://help.sap.com/viewer/7c78579ce9b14a669c1f3295b0d8ca16/Cloud/en-US/d22d746ed2951014bb7fb0114ffdaf96.html).
 
 >:triangular_flag_on_post: **2021-09-22**:
