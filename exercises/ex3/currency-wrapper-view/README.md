@@ -35,7 +35,7 @@ CONVERT_CURRENCY(
 
 1. Navigate to the Repository Explorer
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
-  <br><br>![](../images/repo_create_graphical_view_01.png)<br><br>
+  <br><br>![](/exercises/ex3/images/repo_create_graphical_view_01.png)<br><br>
 3. Drag and drop the table <b><i>CSV_TCURR</i></b> into the canvas
   <br><br>![](../images/create_tcurr_04.png)<br><br>
 4. Select the Output Node in the canvas and configure the following properties:
@@ -49,7 +49,7 @@ CONVERT_CURRENCY(
 
 1. Navigate to the Repository Explorer
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
-  <br><br>![](/exercises/ex1/images/create_in_repository_explorer.png)<br><br>
+  <br><br>![](/exercises/ex3/images/repo_create_graphical_view_01.png)<br><br>
 3. Drag and drop the table <b><i>CSV_TCURF</i></b> into the canvas
   <br><br>![](../images/create_tcurf_05.png)<br><br>
 4. Select the Output Node in the canvas and configure the following properties:
@@ -64,7 +64,7 @@ CONVERT_CURRENCY(
 
 1. Navigate to the Repository Explorer
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
-  <br><br>![](/exercises/ex1/images/create_in_repository_explorer.png)<br><br>
+  <br><br>![](/exercises/ex3/images/repo_create_graphical_view_01.png)<br><br>
 3. Drag and drop the table <b><i>CSV_TCURV</i></b> into the canvas
   <br><br>![](../images/create_tcurv_04.png)<br><br>
 4. Select the Output Node in the canvas and configure the following properties:
@@ -78,7 +78,7 @@ CONVERT_CURRENCY(
 
 1. Navigate to the Repository Explorer
 2. Click on <b><i>Create - Graphical View</i></b> Button to create a new view
-  <br><br>![](/exercises/ex1/images/create_in_repository_explorer.png)<br><br>
+  <br><br>![](/exercises/ex3/images/repo_create_graphical_view_01.png)<br><br>
 3. Drag and drop the table <b><i>CSV_TCURX</i></b> into the canvas
   <br><br>![](../images/create_tcurx_03.png)<br><br>
 4. Select the Output Node in the canvas and configure the following properties:
