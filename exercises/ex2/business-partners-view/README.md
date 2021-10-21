@@ -84,3 +84,6 @@ With the projection node, you can exclude or restore columns from your model. He
 ### Deployment
 17. Click on <b>Deploy</b> button to deploy the view
   <br><br>![](../images/create_business_partner_dimension_15.png)
+  
+  
+ ![visitors](https://visitor-badge.deta.dev/badge?page_id=d031182.modeling.business-partners-view&left_color=red&right_color=green)
