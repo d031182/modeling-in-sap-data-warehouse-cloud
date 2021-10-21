@@ -170,4 +170,4 @@ Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This
 
 left_color=red, right_color=green, left_text=HelloVisitors
 
- ![visitors](https://visitor-badge.deta.dev/badge?page_id=d031182.visitor-badge&left_color=blue&right_color=green&left_text=MyVisitors)
+ ![visitors](https://visitor-badge.deta.dev/badge?page_id=d031182.visitor-badge&left_color=blue&right_color=lightblue&left_text=MyVisitors)
