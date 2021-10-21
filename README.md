@@ -168,6 +168,5 @@ https://github.com/d031182/modeling-in-sap-data-warehouse-cloud/issues
 ## License
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
 
-left_color=red, right_color=green, left_text=HelloVisitors
 
- ![visitors](https://visitor-badge.deta.dev/badge?page_id=d031182.visitor-badge&left_color=blue&right_color=lightblue&left_text=MyVisitors)
+![visitors](https://visitor-badge.deta.dev/badge?page_id=d031182.visitor-badge&left_color=blue&right_color=lightblue&left_text=MyPageVisitors)
