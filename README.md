@@ -1,6 +1,8 @@
 # Modeling in SAP Data Warehouse Cloud
 ## Description
 
+
+
 This repository aims to onboard new users into Modeling in SAP Data Warehouse Cloud in the most practical manner. For that you will build a real working data model, which will embrace specific features and functions. During the journey there will be additional tips and explanations on various modeling concepts.
 
 <!-- <div><video controls src="/images/TestVideo.mp4" muted="false"></video></div> -->
@@ -165,3 +167,5 @@ https://github.com/d031182/modeling-in-sap-data-warehouse-cloud/issues
 
 ## License
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This project is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSES/Apache-2.0.txt) file.
+
+ ![visitors](https://visitor-badge.deta.dev/badge?page_id=d031182.visitor-badge&left_color=red&right_color=green)
