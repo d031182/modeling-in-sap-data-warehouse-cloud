@@ -171,5 +171,7 @@ Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This
 
 ![visitor badge](https://visitor-badge.deta.dev/badge?page_id=d031182.visitor-badge&left_color=blue&right_color=lightblue&left_text=modeling)
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=d031182.visitor-badge&left_text=modeling)
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_text=MyPageVisit2222ors)
 
