@@ -93,6 +93,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
    - [Exercise 3.2.1 - Create Parent-Child Hierarchy View](/exercises/ex3/vendor-product-category-hierarchy-view)
       - Parent Child Hierarchy (External), Standalone Hierarchy  
    - [Exercise 3.2.2 - Create Hierarchy Association](/exercises/ex3/vendor-products-hierarchy-association)
+      - Hierarchy Association 
 - [**Exercise 3.3 - Create Internal Orders View**](/exercises/ex3/internal-orders-view)
    - [Exercise 3.3.1 - Wrap Currency Tables as Views](/exercises/ex3/currency-wrapper-view)
    - [Exercise 3.3.2 - Calculation Node with Currency Conversion](/exercises/ex3/internal-orders-currency-conversion)
