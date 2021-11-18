@@ -89,9 +89,9 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 [<h2>Exercise 3 - Internal Orders</h2>](exercises/ex3/)  
 - [**Exercise 3.1 - Create Employee View**](/exercises/ex3/employees-view)
    - Parent Child Hierarchy (Internal)
-- [**Exercise 3.2 - Create Vendor Products View**](/exercises/ex3/vendor-products-view)
-- [**Exercise 3.3 - Create Vendor Product Category Hierarchy View**](/exercises/ex3/vendor-product-category-hierarchy-view)
+- [**Exercise 3.2 - Create Vendor Product Category Hierarchy View**](/exercises/ex3/vendor-product-category-hierarchy-view)
    - Parent Child Hierarchy (External), Standalone Hierarchy  
+- [**Exercise 3.3 - Create Vendor Products View**](/exercises/ex3/vendor-products-view)
    - [Exercise 3.3.1 - Create Hierarchy Association](/exercises/ex3/vendor-products-hierarchy-association)
       - Hierarchy Association 
 - [**Exercise 3.4 - Create Internal Orders View**](/exercises/ex3/internal-orders-view)
