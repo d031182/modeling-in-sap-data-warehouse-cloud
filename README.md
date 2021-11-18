@@ -90,7 +90,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 - [**Exercise 3.1 - Create Employee View**](/exercises/ex3/employees-view)
    - Parent Child Hierarchy (Internal)
 - [**Exercise 3.2 - Create Vendor Products View**](/exercises/ex3/vendor-products-view)
-   - [Exercise 3.2.1 - Create Parent-Child Hierarchy View](/exercises/ex3/vendor-product-category-hierarchy-view)
+   - [Exercise 3.2.1 - Create Vendor Product Category Hierarchy View](/exercises/ex3/vendor-product-category-hierarchy-view)
       - Parent Child Hierarchy (External), Standalone Hierarchy  
    - [Exercise 3.2.2 - Create Hierarchy Association](/exercises/ex3/vendor-products-hierarchy-association)
       - Hierarchy Association 
