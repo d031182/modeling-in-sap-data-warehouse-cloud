@@ -165,9 +165,10 @@ Comments, issues and feedbacks are highly welcome to improve this tutorial grudu
 https://github.com/d031182/modeling-in-sap-data-warehouse-cloud/issues
 
 ## Links
-- SAP Data Warehouse Cloud in [SAP Roadmaps](https://roadmaps.sap.com/board?PRODUCT=73555000100800002141&range=FIRST-CURRENT)
-- Latest and greatest features of SAP Data Warehouse Cloud are presented regularly in [What's New](https://jam4.sapjam.com/blogs/show/JytsjzYpI9LproZNYpdkhG)
-- SAP Help Site of SAP Data Warehouse Cloud: https://help.sap.com/viewer/product/SAP_DATA_WAREHOUSE_CLOUD/cloud/en-US
+- **SAP Data Warehouse Cloud**
+     - SAP Data Warehouse Cloud in [SAP Roadmaps](https://roadmaps.sap.com/board?PRODUCT=73555000100800002141&range=FIRST-CURRENT)
+     - Latest and greatest features of SAP Data Warehouse Cloud are presented regularly in [What's New](https://jam4.sapjam.com/blogs/show/JytsjzYpI9LproZNYpdkhG)
+     - SAP Help Site of SAP Data Warehouse Cloud: https://help.sap.com/viewer/product/SAP_DATA_WAREHOUSE_CLOUD/cloud/en-US
 - **SAP Analyics Cloud**
      - SAP Analytics Cloud Getting Started: https://community.sap.com/topics/cloud-analytics/getting-started  
      - SAP Analytics Designer Developer Handbook: https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-handbook/
