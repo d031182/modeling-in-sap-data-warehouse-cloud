@@ -8,16 +8,16 @@ In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud 
 1. Download the sample dataset via the following link: https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES
 
 2. Make sure the following files are available (last update 30th August 2021):
-        - SalesOrders.csv
-        - SalesOrderItems.csv
-        - Addresses.csv
-        - BusinessPartners.csv
-        - Products.csv
-        - ProductTexts.csv
-        - InternalOrders.csv
-        - VendorProduct.csv
-        - VendorProductCategoryHierarchy.csv
-        - Employees.csv
+   - SalesOrders.csv
+   - SalesOrderItems.csv
+   - Addresses.csv
+   - BusinessPartners.csv
+   - Products.csv
+   - ProductTexts.csv
+   - InternalOrders.csv
+   - VendorProduct.csv
+   - VendorProductCategoryHierarchy.csv
+   - Employees.csv
       
     ![https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES](/images/csv_test_data.png)
 
