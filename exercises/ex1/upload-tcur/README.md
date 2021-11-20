@@ -2,18 +2,6 @@
 
 > 📘 **CSV File Upload and Data Wrangling**: More information about CSV file upload and Data Wrangling can be found in the [SAP Help site](https://help.sap.com/viewer/c8a54ee704e94e15926551293243fd1d/cloud/en-US/2509fe4d86aa472b9858164b55b38077.html).
 
-## Download the sample dataset:
-- Download the sample dataset via the following link: https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES
-- Make sure the following fiiles are available:
-    - TCURR.csv (Currency Rates)
-    - TCURF.csv (Currency Prefactors)
-    - TCURV.csv (Currency Configurations)
-    - TCURX.csv (Currency Precisions)
-    - SFLIGHT.csv (Flight Sample Dataset)
-
-       
-
-## Upload <i>Currency Rates</i> CSV file
 1. Navigate to the Data Builder of SAP Data Warehouse Cloud
 2. Click on the <b><i>Import CSV File</i></b>
   <br><br>![Import CSV File](../images/import_csv_01.png)
