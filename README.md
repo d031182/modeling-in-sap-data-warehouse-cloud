@@ -100,7 +100,8 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
    - [Exercise 3.4.2 - Calculation Node with Currency Conversion](/exercises/ex3/internal-orders-currency-conversion)
    - [Exercise 3.4.3 - Input Parameters](/exercises/ex3/internal-orders-input-parameter)
 - [**Exercise 3.5 - Create My Orders View**](/exercises/ex3/my-orders-view)
-   - [Exercise 3.5.1 - Create Data Access Control](/exercises/ex3/data-access-control)
+   - [Exercise 3.5.1 - Create Company Code Data Access Control](/exercises/ex3/data-access-control)
+      - Data Access Control  
    - [Exercise 3.5.2 - Use Data Access Control](/exercises/ex3/my-orders-dac)
    - [Exercise 3.5.3 - Maintain Data for a Data Access Control](/exercises/ex3/maintain-dac-data)
    - [Exercise 3.5.4 - SAC Story Filter](/exercises/ex3/my-orders-sac-story-filter)
