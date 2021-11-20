@@ -18,6 +18,12 @@ In this exercise, we will learn how to bring data into SAP Data Warehouse Cloud 
    - VendorProduct.csv
    - VendorProductCategoryHierarchy.csv
    - Employees.csv
+   
+   - TCURR.csv (Currency Rates)
+   - TCURF.csv (Currency Prefactors)
+   - TCURV.csv (Currency Configurations)
+   - TCURX.csv (Currency Precisions)
+   - SFLIGHT.csv (Flight Sample Dataset)
       
     ![https://github.com/d031182/reference-data-model-samples/tree/main/data/BIKE_SALES](/images/csv_test_data.png)
 
