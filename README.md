@@ -97,7 +97,8 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
       - Hierarchy Association 
 - [**Exercise 3.4 - Create Internal Orders View**](/exercises/ex3/internal-orders-view)
    - [Exercise 3.4.1 - Wrap Currency Tables as Views](/exercises/ex3/currency-wrapper-view)
-   - [Exercise 3.4.2 - Calculation Node with Currency Conversion](/exercises/ex3/internal-orders-currency-conversion)
+   - [Exercise 3.4.2 - Apply Currency Conversion](/exercises/ex3/internal-orders-currency-conversion)
+      - Calculation Node 
    - [Exercise 3.4.3 - Input Parameters](/exercises/ex3/internal-orders-input-parameter)
 - [**Exercise 3.5 - Create My Orders View**](/exercises/ex3/my-orders-view)
    - [Exercise 3.5.1 - Create Company Code Data Access Control](/exercises/ex3/data-access-control)
