@@ -164,6 +164,7 @@ https://blogs.sap.com/2021/08/25/introduction-to-analytics-designer-developer-ha
 ## Comments, Issues and Feedbacks
 Comments, issues and feedbacks are highly welcome to improve this tutorial grudually. For that please add a comment on the linked blog:
 https://blogs.sap.com/2021/11/19/modeling-in-sap-data-warehouse-cloud/
+
 I will try to reply as soon as time allows :)
 
 ## Links
