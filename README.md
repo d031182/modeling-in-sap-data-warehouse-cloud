@@ -1,2 +1,2 @@
-this page has moved to 
+this repository has moved to 
 https://github.com/SAP-samples/data-warehouse-cloud-modeling
